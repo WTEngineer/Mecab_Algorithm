@@ -10,7 +10,7 @@ import sys
 import string
 
 # sentence = "太郎はこの本を二郎を見た女性に渡した。"
-sentence = "高血圧"
+sentence = "便 が 硬い"
 
 try:
 
