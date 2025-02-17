@@ -2,12 +2,12 @@ from propre.preprocess import extract_non_japaneses
 from propre.readfilebylines import read_file_by_lines
 
 # Function to process the file line by line and handle output saving
-def process_file(file_path, outfile_path, fresultfile_path):
+def process_file(file_path, outfile_path, result_path, fresult_path):
     numofnj = 0
     numofsame = 0
     numofdiff = 0
     # Open the output file in append mode, so we don't overwrite existing content
-    with open(outfile_path, 'w', encoding='utf-8') as output_file, open(fresultfile_path, 'w', encoding='utf-8') as result_file:
+    with open(outfile_path, 'w', encoding='utf-8') as output_file, open(result_path, 'w', encoding='utf-8') as result_file, open(fresult_path, 'w', encoding='utf-8') as fresult_file:
         # Read the file lines using the read_file_by_lines function
         lines = read_file_by_lines(file_path)
 
@@ -22,18 +22,22 @@ def process_file(file_path, outfile_path, fresultfile_path):
                 if is_same is None:
                     result_file.write(f"Non-Japanese: {original_text}\n")
                     output_file.write(f"None({original_text}) ")
+                    fresult_file.write(f"{original_text} ")
                     numofnj += len(original_text)
                 else:
                     if is_same:
                         result_file.write(f"The result is same! - Japanese: {original_text}, {mecab_pro_str}, {kana_text}, {hiragana_text}\n")
                         output_file.write(f"{hiragana_text} ")
+                        fresult_file.write(f"{hiragana_text} ")
                         numofsame += len(original_text)
                     else:
                         result_file.write(f"The result is different! - Japanese: {original_text}, {mecab_pro_str}, {kana_text}, {hiragana_text}\n")
                         output_file.write(f"{hiragana_text}(diff) ")
+                        fresult_file.write(f"{hiragana_text} ")
                         numofdiff += len(original_text)
             # Add an extra newline for spacing between entries
             output_file.write("\n")  # Add this line to ensure each result is on a new line
+            fresult_file.write("\n")
     # Calculate total characters
     total_characters = numofsame + numofdiff + numofnj
     
@@ -55,10 +59,11 @@ def process_file(file_path, outfile_path, fresultfile_path):
 file_path = './data/words.txt'
 
 outfile_path = "./output.txt"
-fresultfile_path = "./result.txt"
+result_path = "./result.txt"
+fresult_path = "./fresult.txt"
 
 # Call the process_file function to process each line
-numofsame, numofdiff, numofnj, cer = process_file(file_path, outfile_path, fresultfile_path)
+numofsame, numofdiff, numofnj, cer = process_file(file_path, outfile_path, result_path, fresult_path)
 
 print(f"Num of same is {numofsame}")
 print(f"Num of diff is {numofdiff}")
