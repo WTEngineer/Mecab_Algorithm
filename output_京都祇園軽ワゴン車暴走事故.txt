@@ -61,3 +61,9 @@ None(== ) かんれんこうもく None( ==)
 てんかんによる こうつうじこ 
 かぬま し くれーん くるま ぼうそうじこ 
 いけぶくろえきひがしぐち じょうようしゃ ぼうそうじこ 
+
+Total is 2874
+CER is 36.63883089770355%
+Num of same is 1821
+Num of diff is 639
+Num of non japanese is 414
