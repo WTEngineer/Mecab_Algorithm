@@ -1,5 +1,12 @@
 import re
 from gpttokeniser.kakasitest import convert_text
+from processmecab.extractpro import extract_pronunciation
+
+# Function to check if a string contains Japanese characters (Hiragana, Katakana, Kanji)
+def is_japanese(text):
+    # Regex pattern to check if the text contains any Hiragana, Katakana, or Kanji characters
+    japanese_pattern = r'[\u3040-\u30FF\u4E00-\u9FFF]'  # Hiragana, Katakana, and Kanji
+    return bool(re.search(japanese_pattern, text))  # Returns True if Japanese characters are found
 
 # Function to extract non-Japanese characters
 def extract_non_japanese_characters(text):
@@ -46,19 +53,53 @@ def print_categorized_results(numbers, english_letters, punctuation, others, dat
     print("Other Non-Japanese Characters:", others)
     print("Dates Found:", dates)
 
-# Main function to coordinate the process
+# Function to extract non-Japanese text, save the results to the output file, and return the data
 def extract_non_japaneses(text):
     final_result = convert_text(text)
-    print(final_result)
     
-    # Extract non-Japanese characters
-    non_japanese_chars = extract_non_japanese_characters(text)
+    # Create a list to store the results for later return
+    results = []
+    
+    # Iterate through the final result and check if the original text is Japanese or non-Japanese
+    for item in final_result:
+        original_text = item['original']
+        kana_text = item['kana']
+        hiragana_text = item['hiragana']
+        
+        # Check if the original text is Japanese
+        if is_japanese(original_text):
+            mecab_pro = extract_pronunciation(original_text)
+            
+            # Join the mecab_pro list without spaces
+            mecab_pro_str = ''.join(mecab_pro)  # Concatenate items of mecab_pro without spaces
+            if mecab_pro_str == kana_text:
+                # output_file.write(f"The result is same! - Japanese: {original_text}, {mecab_pro}, {kana_text}, {hiragana_text}\n")
+                results.append((original_text, mecab_pro_str, kana_text, hiragana_text, True))
+            else:
+                # output_file.write(f"The result is different! - Japanese: {original_text}, {mecab_pro}, {kana_text}, {hiragana_text}\n")
+                results.append((original_text, mecab_pro_str, kana_text, hiragana_text, False))
+            
+            # Add the results to the return list
+            
+        else:
+            # output_file.write(f"Non-Japanese: {original_text}\n")
+            
+            # Add the results to the return list
+            results.append((original_text, None, None, None, None))
+    
+    # print(f"Output file is saved successfully!")
+    
+    # Return the collected results
+    return results
+    
+    # # Extract non-Japanese characters
+    # non_japanese_chars = extract_non_japanese_characters(text)
 
-    # Categorize the characters
-    numbers, english_letters, punctuation, others = categorize_characters(non_japanese_chars)
+    # # Categorize the characters
+    # numbers, english_letters, punctuation, others = categorize_characters(non_japanese_chars)
 
-    # Extract dates from the text
-    dates = extract_dates(text)
+    # # Extract dates from the text
+    # dates = extract_dates(text)
 
     # Print the results
     # print_categorized_results(numbers, english_letters, punctuation, others, dates)
