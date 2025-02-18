@@ -1,0 +1,29 @@
+かてごり None(: ) すべての すたぶ きじ None(,) None( ) てんかん None(,) None( ) いがくかんれん の すたぶ こうもく None(,) None( ) しょうにか がく None(,) None( ) きしょう しっかん None(,) None( ) しょうこう None(,) None( ) いでんししっかん 
+None() 
+おおたわら しょうこうぐん None(（) おおたはらしょうこうぐん(diff) None(、) えい None(: Ohtahara syndrome) None(,) None( OS) None(,) None( ) えい None(: Early Infantile Epileptic Encephalopathy with Burst-Suppression) None(,) None( EIEE) None(）) とは None(、) しんこう せい みおくろーぬす(diff) てんかんのこと None(。) おおく の ばあい None(、) こうぞうてき な のう の そんしょう が そんざい するが None(、) None(2016) ねん(diff) げんざい たんいつ の げんいん は どうてい されていない None(。) 
+None() 
+None() 
+None(== ) がいよう None( ==) 
+おおたわら しょうこうぐん は ねんれい かんれんせい てんかんであり None(、) せいご None(3) ゕ(diff) がつ(diff) いない None(、) しばしば せいご None(10) にち(diff) いない に はっしょう する None(。) こうひんど にその のち None(、) てんとう てんかんや れのっくす・がすとー(diff) しょうこうぐん に いこう する None(。) 
+おおたわら やの(diff) しゅよう な そとむき の しょうじょう は つうじょう None(、) きょうちょく ほっさ として あらわれ る None(。) はっせい する かのうせい がある ほかの(diff) ほっさ たいぷ は None(、) None( ) ぶぶん ほっさ None( ) None(、) にゅうじ けいれんの ぐんぱつ None(、) およびまれに None(、) みおくろーぬす(diff) を ほっさ が みら れる None(。) また None(、) ほっさ に くわえ て None(、) おおたわら しょうこうぐん は せいしんてき None(、) ぶつりてき な はったつ ちたい を おこ す None(。) 
+りんしょうてき には None(、) のうは の None(「) ばーすと よくせい None(」) ぱたーん によって とくちょうづけ られ None(、) この ぱたーん は じゃっかん の のうは かつどう が つづく こうでんあつ すぱいく なみ ほうでん を ともなう None(。) 
+None(1976) ねん(diff) にそれを どうてい した None(、) にっぽん の しんけいか い である おおたわら しゅんすけ None(（) None(1930) ねん(diff) None(～) None(2013) ねん(diff) None()) にちなんで めいめい された None(。) 
+ゆうびょう りつ は まれ な きしょう しっかん で None(、) かんじゃすう は にほんこくない(diff) で None(100) ひとまえ のち とされる None(。) 
+None() 
+None() 
+None(== ) げんいん と ちりょう None( ==) 
+たんいつ の げんいん は しょうめいさ れていないが None(、) りょうがわ の だいのうはんきゅう に おおき な いしゅく がみられる None(。) きんねん いくつかの いでんし へんい が げんいん の いったん を になっ ていることが はんめい しつつあり None(、) None(ARX) None(,) None( ) None(、) None( CDKL5 SLC25A22 ) None(、) None(STXBP1 SPTAN1) None(、) None( KCNQ2 ) None(、) None(ARHGEF9 ) None(、) None(PCDH19) None(、) None( PNKP) None(、) None( SCN2A) None(、) None( PLCB1) None(、) None( SCN8A) の かんれんせい が しささ れている None(。) 
+ちりょう はんのう せい に とぼしい が None(、) ちりょう には こう てんかん くすり None(、) ふくじんひしつ ほるもん を もちい る None(。) のう けいせい いじょうな どが げんいん で しゅじゅつ が かのうな れい では None(、) そうき の げか ちりょう を おこなう None(。) 
+None() 
+None() 
+None(== ) きゃくちゅう None( ==) 
+None() 
+None() 
+None(== ) かんれんこうもく None( ==) 
+てんとう てんかん 
+てんかん 
+
+CER is 39.10550458715596%
+Num of same is 531
+Num of diff is 51
+Num of non japanese is 290

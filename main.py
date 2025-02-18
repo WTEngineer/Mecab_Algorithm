@@ -51,12 +51,12 @@ def process_file(file_path, outfile_path, result_path, fresult_path):
     return numofsame, numofdiff, numofnj, cer
 
 # Input: path to the text file
-# file_path = './data/iryo_org/てんかん/京都祇園軽ワゴン車暴走事故.txt'
+file_path = './data/iryo_org/てんかん/京都祇園軽ワゴン車暴走事故.txt'
 # file_path = './data/iryo_org/てんかん/大田原症候群.txt'
 # file_path = './data/iryo_org/てんかん/日本てんかん学会.txt'
 # file_path = './data/iryo_org/てんかん/池袋駅東口乗用車暴走事故.txt'
 # file_path = './data/iryo_org/てんかん/鹿沼市クレーン車暴走事故.txt'
-file_path = './data/words.txt'
+# file_path = './data/words.txt'
 
 outfile_path = "./output.txt"
 result_path = "./result.txt"
