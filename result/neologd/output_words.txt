@@ -556,3 +556,9 @@ None(Alzheimer) かた にんち しょう
 ようけつ せい にょうどく しょう しょうこうぐん None(〈) None(HUS) None(〉) 
 びまん せい だい さいぼう かた None(B) さいぼう りんぱ しゅ 
 None(pulseless electrical activity) None(〈) None(PEA) None(〉) 
+
+Total is 2499
+CER is 14.84593837535014%
+Num of same is 2128
+Num of diff is 216
+Num of non japanese is 155

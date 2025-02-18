@@ -1,0 +1,1448 @@
+The result is same! - Japanese: カテゴリ, カテゴリ, カテゴリ, かてごり
+Non-Japanese: : 2012
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 4
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: ,
+Non-Japanese:  2012
+The result is different! - Japanese: 年, トシ, ネン, ねん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 日本, ニッポン, ニッポン, にっぽん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 事件, ジケン, ジケン, じけん
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: すべての, スベテノ, スベテノ, すべての
+The result is same! - Japanese: スタブ, スタブ, スタブ, すたぶ
+The result is same! - Japanese: 記事, キジ, キジ, きじ
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 京都府, キョウトフ, キョウトフ, きょうとふ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 交通, コウツウ, コウツウ, こうつう
+The result is different! - Japanese: 史, フミ, シ, し
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 出典, シュッテン, シュッテン, しゅってん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 必要, ヒツヨウ, ヒツヨウ, ひつよう
+The result is same! - Japanese: とする, トスル, トスル, とする
+The result is same! - Japanese: 節, フシ, フシ, ふし
+The result is same! - Japanese: のある, ノアル, ノアル, のある
+The result is same! - Japanese: 記事, キジ, キジ, きじ
+Non-Japanese: /2013
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 9
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: -10
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 日本, ニッポン, ニッポン, にっぽん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 道路交通, ドウロコウツウ, ドウロコウツウ, どうろこうつう
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 東山, ヒガシヤマ, ヒガシヤマ, ひがしやま
+The result is same! - Japanese: 区, ク, ク, く
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 歴史, レキシ, レキシ, れきし
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 社会問題, シャカイモンダイ, シャカイモンダイ, しゃかいもんだい
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 関す, カンス, カンス, かんす
+The result is same! - Japanese: る, ル, ル, る
+The result is same! - Japanese: スタブ, スタブ, スタブ, すたぶ
+Non-Japanese: 
+The result is same! - Japanese: 京都祇園, キョウトギオン, キョウトギオン, きょうとぎおん
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: 暴走事故, ボウソウジコ, ボウソウジコ, ぼうそうじこ
+Non-Japanese: （
+The result is different! - Japanese: きょうとぎおん, キョウト, キョウトギオン, きょうとぎおん
+Non-Japanese:  
+The result is same! - Japanese: けい, ケイ, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is different! - Japanese: しゃぼうそうじこ, シ, シャボウソウジコ, しゃぼうそうじこ
+Non-Japanese: ）
+The result is same! - Japanese: とは, トハ, トハ, とは
+Non-Japanese: 、
+Non-Japanese: 2012
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: （
+The result is same! - Japanese: 平成, ヘイセイ, ヘイセイ, へいせい
+Non-Japanese: 24
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: ）
+Non-Japanese: 4
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: 12
+The result is different! - Japanese: 日, ヒ, ニチ, にち
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 京都府, キョウトフ, キョウトフ, きょうとふ
+The result is same! - Japanese: 京都市, キョウトシ, キョウトシ, きょうとし
+The result is same! - Japanese: 東山, ヒガシヤマ, ヒガシヤマ, ひがしやま
+The result is same! - Japanese: 区, ク, ク, く
+The result is same! - Japanese: 祇園, ギオン, ギオン, ぎおん
+The result is same! - Japanese: で, デ, デ, で
+Non-Japanese: 、
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+Non-Japanese: （
+The result is different! - Japanese: ホンダ・バモスホビオ, ホンダバモスホビオ, ホンダ・バモスホビオ, ほんだ・ばもすほびお
+Non-Japanese: ）
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: していた, シテイタ, シテイタ, していた
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 男性, ダンセイ, ダンセイ, だんせい
+The result is same! - Japanese: が, ガ, ガ, が
+Non-Japanese: 、
+The result is same! - Japanese: 運転中, ウンテンチュウ, ウンテンチュウ, うんてんちゅう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 暴走事故, ボウソウジコ, ボウソウジコ, ぼうそうじこ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 起こ, オコ, オコ, おこ
+The result is same! - Japanese: し, シ, シ, し
+Non-Japanese: 、
+The result is same! - Japanese: 運転者, ウンテンシャ, ウンテンシャ, うんてんしゃ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 含む, フクム, フクム, ふくむ
+Non-Japanese: 8
+The result is different! - Japanese: 名, ナ, メイ, めい
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 死亡, シボウ, シボウ, しぼう
+Non-Japanese: 、
+Non-Japanese: 12
+The result is different! - Japanese: 人, ヒト, ニン, にん
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 重軽傷, ジュウケイショウ, ジュウケイショウ, じゅうけいしょう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 負っ, オッ, オッ, おっ
+The result is same! - Japanese: た, タ, タ, た
+The result is same! - Japanese: 交通事故, コウツウジコ, コウツウジコ, こうつうじこ
+Non-Japanese: 。
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: 原因, ゲンイン, ゲンイン, げんいん
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 最終的, サイシュウテキ, サイシュウテキ, さいしゅうてき
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 持病, ジビョウ, ジビョウ, じびょう
+The result is same! - Japanese: のてんかん, ノテンカン, ノテンカン, のてんかん
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: とされた, トサレタ, トサレタ, とされた
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 概要, ガイヨウ, ガイヨウ, がいよう
+Non-Japanese:  ==
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: === 
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: までの, マデノ, マデノ, までの
+The result is same! - Japanese: 経緯, ケイイ, ケイイ, けいい
+Non-Japanese:  ===
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 2003
+The result is different! - Japanese: 年, トシ, ネン, ねん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: バイク, バイク, バイク, ばいく
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 単独, タンドク, タンドク, たんどく
+The result is same! - Japanese: 交通事故, コウツウジコ, コウツウジコ, こうつうじこ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 起こ, オコ, オコ, おこ
+The result is same! - Japanese: し, シ, シ, し
+The result is same! - Japanese: 脳, ノウ, ノウ, のう
+The result is same! - Japanese: 挫傷, ザショウ, ザショウ, ざしょう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 受傷, ジュショウ, ジュショウ, じゅしょう
+The result is same! - Japanese: した, シタ, シタ, した
+Non-Japanese: 。
+The result is same! - Japanese: その, ソノ, ソノ, その
+The result is same! - Japanese: 後遺症, コウイショウ, コウイショウ, こういしょう
+The result is same! - Japanese: としててんかん, トシテテンカン, トシテテンカン, としててんかん
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 起こ, オコ, オコ, おこ
+The result is same! - Japanese: るようになったが, ルヨウニナッタガ, ルヨウニナッタガ, るようになったが
+Non-Japanese: 、
+The result is same! - Japanese: 病状, ビョウジョウ, ビョウジョウ, びょうじょう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 申告, シンコク, シンコク, しんこく
+The result is same! - Japanese: せずに, セズニ, セズニ, せずに
+The result is same! - Japanese: 運転免許, ウンテンメンキョ, ウンテンメンキョ, うんてんめんきょ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 更新, コウシン, コウシン, こうしん
+The result is same! - Japanese: していた, シテイタ, シテイタ, していた
+Non-Japanese: 。
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 2012
+The result is different! - Japanese: 年, トシ, ネン, ねん
+The result is same! - Japanese: になって, ニナッテ, ニナッテ, になって
+Non-Japanese: 2
+The result is same! - Japanese: 度, ド, ド, ど
+The result is same! - Japanese: 意識, イシキ, イシキ, いしき
+The result is same! - Japanese: 消失, ショウシツ, ショウシツ, しょうしつ
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 起こ, オコ, オコ, おこ
+The result is same! - Japanese: しており, シテオリ, シテオリ, しており
+Non-Japanese: 、
+The result is same! - Japanese: 家族, カゾク, カゾク, かぞく
+The result is same! - Japanese: と, ト, ト, と
+The result is same! - Japanese: 医師, イシ, イシ, いし
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: をしないように, ヲシナイヨウニ, ヲシナイヨウニ, をしないように
+The result is same! - Japanese: 忠告, チュウコク, チュウコク, ちゅうこく
+The result is same! - Japanese: していた, シテイタ, シテイタ, していた
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: === 
+The result is same! - Japanese: 事故発生, ジコハッセイ, ジコハッセイ, じこはっせい
+Non-Japanese:  ===
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: ==== 
+The result is same! - Japanese: 第, ダイ, ダイ, だい
+Non-Japanese: 1
+The result is same! - Japanese: 現場, ゲンバ, ゲンバ, げんば
+Non-Japanese:  ====
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 京阪電鉄, ケイハンデンテツ, ケイハンデンテツ, けいはんでんてつ
+The result is same! - Japanese: 祇園, ギオン, ギオン, ぎおん
+The result is same! - Japanese: 四条, シジョウ, シジョウ, しじょう
+The result is same! - Japanese: 駅, エキ, エキ, えき
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 東側, ヒガシガワ, ヒガシガワ, ひがしがわ
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 位置, イチ, イチ, いち
+The result is same! - Japanese: する, スル, スル, する
+The result is same! - Japanese: 大和, ヤマト, ヤマト, やまと
+The result is same! - Japanese: 大路, オオジ, オオジ, おおじ
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 亀井町, カメイチョウ, カメイチョウ, かめいちょう
+The result is same! - Japanese: 付近, フキン, フキン, ふきん
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 起き, オキ, オキ, おき
+The result is same! - Japanese: た, タ, タ, た
+Non-Japanese: 。
+The result is same! - Japanese: 大和, ヤマト, ヤマト, やまと
+The result is same! - Japanese: 大路, オオジ, オオジ, おおじ
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 南側, ミナミガワ, ミナミガワ, みなみがわ
+The result is same! - Japanese: より, ヨリ, ヨリ, より
+The result is same! - Japanese: 四条, シジョウ, シジョウ, しじょう
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: に, ニ, ニ, に
+The result is different! - Japanese: 向っ, ムカッ, ムッ, むっ
+The result is same! - Japanese: て, テ, テ, て
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: は, ハ, ハ, は
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: していた, シテイタ, シテイタ, していた
+Non-Japanese: 。
+The result is same! - Japanese: 四条, シジョウ, シジョウ, しじょう
+The result is same! - Japanese: 通交, ツウコウ, ツウコウ, つうこう
+The result is same! - Japanese: 差, サ, サ, さ
+The result is same! - Japanese: 点, テン, テン, てん
+The result is same! - Japanese: 手前, テマエ, テマエ, てまえ
+The result is same! - Japanese: で, デ, デ, で
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 前, マエ, マエ, まえ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 走っ, ハシッ, ハシッ, はしっ
+The result is same! - Japanese: ていた, テイタ, テイタ, ていた
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: に, ニ, ニ, に
+The result is different! - Japanese: 右後, ミギゴ, ミギウシロ, みぎうしろ
+The result is same! - Japanese: 方, ホウ, ホウ, ほう
+The result is same! - Japanese: から, カラ, カラ, から
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: した, シタ, シタ, した
+Non-Japanese: 。
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: された, サレタ, サレタ, された
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 衝撃, ショウゲキ, ショウゲキ, しょうげき
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 時速, ジソク, ジソク, じそく
+Non-Japanese: 21km
+The result is same! - Japanese: だった, ダッタ, ダッタ, だった
+The result is same! - Japanese: 速度, ソクド, ソクド, そくど
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 時速, ジソク, ジソク, じそく
+Non-Japanese: 29km
+The result is same! - Japanese: となった, トナッタ, トナッタ, となった
+Non-Japanese: 。
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 左側, ヒダリガワ, ヒダリガワ, ひだりがわ
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 寄せ, ヨセ, ヨセ, よせ
+The result is same! - Japanese: て, テ, テ, て
+The result is same! - Japanese: 停車, テイシャ, テイシャ, ていしゃ
+The result is same! - Japanese: したが, シタガ, シタガ, したが
+Non-Japanese: 、
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 一旦, イッタン, イッタン, いったん
+The result is same! - Japanese: 停車, テイシャ, テイシャ, ていしゃ
+The result is same! - Japanese: して, シテ, シテ, して
+The result is same! - Japanese: バック, バック, バック, ばっく
+The result is same! - Japanese: したものの, シタモノノ, シタモノノ, したものの
+Non-Japanese: 、
+The result is same! - Japanese: 停車, テイシャ, テイシャ, ていしゃ
+The result is same! - Japanese: した, シタ, シタ, した
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 横, ヨコ, ヨコ, よこ
+The result is same! - Japanese: をゆっくりとすり, ヲユックリトスリ, ヲユックリトスリ, をゆっくりとすり
+The result is same! - Japanese: 抜け, ヌケ, ヌケ, ぬけ
+Non-Japanese: 、
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 制止, セイシ, セイシ, せいし
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 無視し, ムシシ, ムシシ, むしし
+The result is same! - Japanese: てそのまま, テソノママ, テソノママ, てそのまま
+The result is same! - Japanese: 走り, ハシリ, ハシリ, はしり
+The result is same! - Japanese: 去っ, サッ, サッ, さっ
+The result is same! - Japanese: た, タ, タ, た
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: ==== 
+The result is same! - Japanese: 第, ダイ, ダイ, だい
+Non-Japanese: 2
+The result is same! - Japanese: 現場, ゲンバ, ゲンバ, げんば
+Non-Japanese: （
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+Non-Japanese: ）
+Non-Japanese:  ====
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: した, シタ, シタ, した
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 横, ヨコ, ヨコ, よこ
+The result is same! - Japanese: をすり, ヲスリ, ヲスリ, をすり
+The result is same! - Japanese: 抜け, ヌケ, ヌケ, ぬけ
+The result is same! - Japanese: てから, テカラ, テカラ, てから
+Non-Japanese: 25m
+The result is same! - Japanese: 程, ホド, ホド, ほど
+The result is same! - Japanese: 走行, ソウコウ, ソウコウ, そうこう
+The result is same! - Japanese: したのちに, シタノチニ, シタノチニ, したのちに
+The result is same! - Japanese: 急に, キュウニ, キュウニ, きゅうに
+The result is same! - Japanese: 速度, ソクド, ソクド, そくど
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 上げ, アゲ, アゲ, あげ
+The result is same! - Japanese: た, タ, タ, た
+Non-Japanese: 。
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: と, ト, ト, と
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: した, シタ, シタ, した
+The result is same! - Japanese: 地点, チテン, チテン, ちてん
+The result is same! - Japanese: から, カラ, カラ, から
+Non-Japanese: 150
+Non-Japanese: ｍ
+The result is same! - Japanese: 程, ホド, ホド, ほど
+The result is same! - Japanese: 走行, ソウコウ, ソウコウ, そうこう
+The result is same! - Japanese: し, シ, シ, し
+Non-Japanese: 、
+The result is same! - Japanese: 信号, シンゴウ, シンゴウ, しんごう
+The result is same! - Japanese: 待ち, マチ, マチ, まち
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 車列, シャレツ, シャレツ, しゃれつ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 右側, ミギガワ, ミギガワ, みぎがわ
+The result is same! - Japanese: から, カラ, カラ, から
+The result is same! - Japanese: 追い越し, オイコシ, オイコシ, おいこし
+The result is same! - Japanese: て, テ, テ, て
+The result is same! - Japanese: 赤信号, アカシンゴウ, アカシンゴウ, あかしんごう
+The result is same! - Japanese: になった, ニナッタ, ニナッタ, になった
+The result is same! - Japanese: 四条, シジョウ, シジョウ, しじょう
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 突入, トツニュウ, トツニュウ, とつにゅう
+The result is same! - Japanese: した, シタ, シタ, した
+Non-Japanese: 。
+The result is same! - Japanese: 当時, トウジ, トウジ, とうじ
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 桜, サクラ, サクラ, さくら
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 満開, マンカイ, マンカイ, まんかい
+The result is same! - Japanese: となっており, トナッテオリ, トナッテオリ, となっており
+The result is same! - Japanese: 週末, シュウマツ, シュウマツ, しゅうまつ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is different! - Japanese: 昼時, ヒルトキ, ヒルドキ, ひるどき
+The result is same! - Japanese: とあって, トアッテ, トアッテ, とあって
+The result is same! - Japanese: 観光客, カンコウキャク, カンコウキャク, かんこうきゃく
+The result is same! - Japanese: も, モ, モ, も
+The result is same! - Japanese: 歩道, ホドウ, ホドウ, ほどう
+The result is same! - Japanese: には, ニハ, ニハ, には
+Non-Japanese: 50
+The result is different! - Japanese: 名, ナ, メイ, めい
+The result is same! - Japanese: ほどおり, ホドオリ, ホドオリ, ほどおり
+Non-Japanese: 、
+The result is same! - Japanese: 青信号, アオシンゴウ, アオシンゴウ, あおしんごう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 変わ, カワ, カワ, かわ
+The result is same! - Japanese: った, ッタ, ッタ, った
+The result is same! - Japanese: 横断歩道, オウダンホドウ, オウダンホドウ, おうだんほどう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 渡っ, ワタッ, ワタッ, わたっ
+The result is same! - Japanese: ているところに, テイルトコロニ, テイルトコロニ, ているところに
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 突っ込ん, ツッコン, ツッコン, つっこん
+The result is same! - Japanese: だ, ダ, ダ, だ
+The result is same! - Japanese: 形, カタチ, カタチ, かたち
+The result is same! - Japanese: となった, トナッタ, トナッタ, となった
+Non-Japanese: 。
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 南側, ミナミガワ, ミナミガワ, みなみがわ
+The result is same! - Japanese: で, デ, デ, で
+Non-Japanese: 10
+The result is different! - Japanese: 人, ヒト, ニン, にん
+Non-Japanese: 、
+The result is same! - Japanese: 北側, キタガワ, キタガワ, きたがわ
+The result is same! - Japanese: で, デ, デ, で
+Non-Japanese: 4
+The result is different! - Japanese: 人, ヒト, ニン, にん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 死傷, シショウ, シショウ, ししょう
+The result is same! - Japanese: させたとされる, サセタトサレル, サセタトサレル, させたとされる
+Non-Japanese: 。
+The result is different! - Japanese: 全く, ゼンク, マッタク, まったく
+The result is same! - Japanese: ブレーキ, ブレーキ, ブレーキ, ぶれーき
+The result is same! - Japanese: をかけず, ヲカケズ, ヲカケズ, をかけず
+The result is same! - Japanese: 人々, ヒトビト, ヒトビト, ひとびと
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 跳ね, ハネ, ハネ, はね
+The result is same! - Japanese: 飛ば, トバ, トバ, とば
+The result is same! - Japanese: しながら, シナガラ, シナガラ, しながら
+The result is same! - Japanese: 四条, シジョウ, シジョウ, しじょう
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 通過, ツウカ, ツウカ, つうか
+The result is same! - Japanese: し, シ, シ, し
+Non-Japanese: 、
+The result is same! - Japanese: 大和, ヤマト, ヤマト, やまと
+The result is same! - Japanese: 大路, オオジ, オオジ, おおじ
+The result is same! - Japanese: 交番, コウバン, コウバン, こうばん
+The result is same! - Japanese: 前, マエ, マエ, まえ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 過ぎ, スギ, スギ, すぎ
+The result is same! - Japanese: て, テ, テ, て
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 更に, サラニ, サラニ, さらに
+The result is different! - Japanese: 北上, ホクジョウ, キタカミ, きたかみ
+The result is same! - Japanese: した, シタ, シタ, した
+Non-Japanese: 。
+The result is same! - Japanese: このときの, コノトキノ, コノトキノ, このときの
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 通過速度, ツウカソクド, ツウカソクド, つうかそくど
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 時速, ジソク, ジソク, じそく
+Non-Japanese: 50km
+The result is same! - Japanese: とされた, トサレタ, トサレタ, とされた
+Non-Japanese: 。
+The result is same! - Japanese: また, マタ, マタ, また
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is different! - Japanese: 入っ, ハイッ, イッッ, いっっ
+The result is same! - Japanese: てきた, テキタ, テキタ, てきた
+The result is same! - Japanese: 市, シ, シ, し
+The result is same! - Japanese: バス, バス, バス, ばす
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: 寸前, スンゼン, スンゼン, すんぜん
+The result is same! - Japanese: で, デ, デ, で
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 回避, カイヒ, カイヒ, かいひ
+The result is same! - Japanese: している, シテイル, シテイル, している
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: ==== 
+The result is same! - Japanese: 第, ダイ, ダイ, だい
+Non-Japanese: 3
+The result is same! - Japanese: 現場, ゲンバ, ゲンバ, げんば
+Non-Japanese:  ====
+The result is same! - Japanese: 大和, ヤマト, ヤマト, やまと
+The result is same! - Japanese: 大路, オオジ, オオジ, おおじ
+The result is same! - Japanese: にも, ニモ, ニモ, にも
+The result is same! - Japanese: 通行, ツウコウ, ツウコウ, つうこう
+The result is same! - Japanese: 車両, シャリョウ, シャリョウ, しゃりょう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 居た, イタ, イタ, いた
+The result is same! - Japanese: が, ガ, ガ, が
+Non-Japanese: 、
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: はその, ハソノ, ハソノ, はその
+The result is same! - Japanese: 右側, ミギガワ, ミギガワ, みぎがわ
+The result is same! - Japanese: をすり, ヲスリ, ヲスリ, をすり
+The result is same! - Japanese: 抜け, ヌケ, ヌケ, ぬけ
+The result is same! - Japanese: るように, ルヨウニ, ルヨウニ, るように
+The result is same! - Japanese: 猛, タケシ, タケシ, たけし
+The result is same! - Japanese: スピード, スピード, スピード, すぴーど
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: から, カラ, カラ, から
+Non-Japanese: 190
+Non-Japanese: ｍ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 走行, ソウコウ, ソウコウ, そうこう
+The result is same! - Japanese: した, シタ, シタ, した
+Non-Japanese: 。
+The result is same! - Japanese: 途中, トチュウ, トチュウ, とちゅう
+Non-Japanese: 2
+The result is different! - Japanese: 人, ヒト, ニン, にん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 通行人, ツウコウニン, ツウコウニン, つうこうにん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 接触し, セッショクシ, セッショクシ, せっしょくし
+The result is same! - Japanese: 負傷, フショウ, フショウ, ふしょう
+The result is same! - Japanese: させた, サセタ, サセタ, させた
+Non-Japanese: 。
+The result is different! - Japanese: 弁財天, ベザイテン, ベンザイテン, べんざいてん
+The result is same! - Japanese: 町, マチ, マチ, まち
+The result is same! - Japanese: に, ニ, ニ, に
+The result is different! - Japanese: 入っ, ハイッ, イッッ, いっっ
+The result is same! - Japanese: たあたりで, タアタリデ, タアタリデ, たあたりで
+The result is same! - Japanese: 道, ミチ, ミチ, みち
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 左側, ヒダリガワ, ヒダリガワ, ひだりがわ
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 停車, テイシャ, テイシャ, ていしゃ
+The result is same! - Japanese: していた, シテイタ, シテイタ, していた
+The result is same! - Japanese: トラック, トラック, トラック, とらっく
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 避け, サケ, サケ, さけ
+The result is same! - Japanese: る, ル, ル, る
+The result is same! - Japanese: 形, カタチ, カタチ, かたち
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 右側, ミギガワ, ミギガワ, みぎがわ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 電柱, デンチュウ, デンチュウ, でんちゅう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 激突, ゲキトツ, ゲキトツ, げきとつ
+The result is same! - Japanese: して, シテ, シテ, して
+The result is same! - Japanese: 止ま, トマ, トマ, とま
+The result is same! - Japanese: った, ッタ, ッタ, った
+Non-Japanese: 。
+The result is same! - Japanese: この, コノ, コノ, この
+The result is same! - Japanese: 際に, サイニ, サイニ, さいに
+The result is same! - Japanese: も, モ, モ, も
+The result is same! - Japanese: 通行人, ツウコウニン, ツウコウニン, つうこうにん
+Non-Japanese: 1
+The result is different! - Japanese: 名, ナ, メイ, めい
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 巻き込ま, マキコマ, マキコマ, まきこま
+The result is same! - Japanese: れ, レ, レ, れ
+The result is same! - Japanese: 死亡, シボウ, シボウ, しぼう
+The result is same! - Japanese: している, シテイル, シテイル, している
+Non-Japanese: 。
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: から, カラ, カラ, から
+The result is same! - Japanese: 電柱, デンチュウ, デンチュウ, でんちゅう
+The result is same! - Japanese: までには, マデニハ, マデニハ, までには
+Non-Japanese: 10
+The result is same! - Japanese: 台, ダイ, ダイ, だい
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 車両, シャリョウ, シャリョウ, しゃりょう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 居た, イタ, イタ, いた
+The result is same! - Japanese: が, ガ, ガ, が
+Non-Japanese: 、
+The result is same! - Japanese: うち, ウチ, ウチ, うち
+Non-Japanese: 4
+The result is same! - Japanese: 台, ダイ, ダイ, だい
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 車両, シャリョウ, シャリョウ, しゃりょう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 軽く, カルク, カルク, かるく
+The result is same! - Japanese: 接触し, セッショクシ, セッショクシ, せっしょくし
+The result is same! - Japanese: ただけで, タダケデ, タダケデ, ただけで
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 回避, カイヒ, カイヒ, かいひ
+The result is same! - Japanese: している, シテイル, シテイル, している
+Non-Japanese: 。
+The result is same! - Japanese: 途中, トチュウ, トチュウ, とちゅう
+The result is same! - Japanese: 接触し, セッショクシ, セッショクシ, せっしょくし
+The result is same! - Japanese: た, タ, タ, た
+The result is same! - Japanese: 別の, ベツノ, ベツノ, べつの
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: には, ニハ, ニハ, には
+Non-Japanese: 、
+The result is same! - Japanese: 接触現場, セッショクゲンバ, セッショクゲンバ, せっしょくげんば
+The result is same! - Japanese: から, カラ, カラ, から
+The result is same! - Japanese: 電柱, デンチュウ, デンチュウ, でんちゅう
+The result is same! - Japanese: までの, マデノ, マデノ, までの
+Non-Japanese: 40
+Non-Japanese: ｍ
+The result is same! - Japanese: を, ヲ, ヲ, を
+Non-Japanese: 3
+The result is same! - Japanese: 秒, ビョウ, ビョウ, びょう
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 走り, ハシリ, ハシリ, はしり
+The result is same! - Japanese: 抜け, ヌケ, ヌケ, ぬけ
+The result is same! - Japanese: る, ル, ル, る
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 動画, ドウガ, ドウガ, どうが
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: ドライブレコーダー, ドライブレコーダー, ドライブレコーダー, どらいぶれこーだー
+The result is same! - Japanese: によって, ニヨッテ, ニヨッテ, によって
+The result is same! - Japanese: 記録, キロク, キロク, きろく
+The result is same! - Japanese: されており, サレテオリ, サレテオリ, されており
+Non-Japanese: 、
+The result is same! - Japanese: 警察, ケイサツ, ケイサツ, けいさつ
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 電柱, デンチュウ, デンチュウ, でんちゅう
+The result is same! - Japanese: 衝突時, ショウトツジ, ショウトツジ, しょうとつじ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 速度, ソクド, ソクド, そくど
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 時速, ジソク, ジソク, じそく
+Non-Japanese: 70km
+The result is same! - Japanese: と, ト, ト, と
+The result is same! - Japanese: 推定, スイテイ, スイテイ, すいてい
+The result is same! - Japanese: した, シタ, シタ, した
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: 原因, ゲンイン, ゲンイン, げんいん
+Non-Japanese:  ==
+The result is same! - Japanese: 本件, ホンケン, ホンケン, ほんけん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 関し, カンシ, カンシ, かんし
+The result is same! - Japanese: て, テ, テ, て
+Non-Japanese: 、
+The result is same! - Japanese: 単純な, タンジュンナ, タンジュンナ, たんじゅんな
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: による, ニヨル, ニヨル, による
+The result is same! - Japanese: 意識, イシキ, イシキ, いしき
+The result is same! - Japanese: 消失, ショウシツ, ショウシツ, しょうしつ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 原因, ゲンイン, ゲンイン, げんいん
+The result is same! - Japanese: とするには, トスルニハ, トスルニハ, とするには
+Non-Japanese: 、
+The result is same! - Japanese: 最初, サイショ, サイショ, さいしょ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: との, トノ, トノ, との
+The result is same! - Japanese: 追突, ツイトツ, ツイトツ, ついとつ
+The result is same! - Japanese: から, カラ, カラ, から
+The result is same! - Japanese: 電柱, デンチュウ, デンチュウ, でんちゅう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: するまでは, スルマデハ, スルマデハ, するまでは
+Non-Japanese: 360m
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 距離, キョリ, キョリ, きょり
+The result is same! - Japanese: があり, ガアリ, ガアリ, があり
+Non-Japanese: 、
+The result is same! - Japanese: 道幅, ミチハバ, ミチハバ, みちはば
+The result is same! - Japanese: も, モ, モ, も
+The result is same! - Japanese: 非常に, ヒジョウニ, ヒジョウニ, ひじょうに
+The result is same! - Japanese: 狭い, セマイ, セマイ, せまい
+The result is same! - Japanese: 上に, ウエニ, ウエニ, うえに
+The result is same! - Japanese: 通行中, ツウコウチュウ, ツウコウチュウ, つうこうちゅう
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 車両, シャリョウ, シャリョウ, しゃりょう
+Non-Japanese: （
+The result is same! - Japanese: 人力車, ジンリキシャ, ジンリキシャ, じんりきしゃ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 含め, フクメ, フクメ, ふくめ
+Non-Japanese: 14
+The result is same! - Japanese: 台, ダイ, ダイ, だい
+The result is same! - Japanese: 以上, イジョウ, イジョウ, いじょう
+Non-Japanese: ）
+The result is same! - Japanese: には, ニハ, ニハ, には
+The result is same! - Japanese: 軽い, カルイ, カルイ, かるい
+The result is same! - Japanese: 接触, セッショク, セッショク, せっしょく
+The result is same! - Japanese: をしたのみで, ヲシタノミデ, ヲシタノミデ, をしたのみで
+The result is same! - Japanese: 走り, ハシリ, ハシリ, はしり
+The result is same! - Japanese: 抜け, ヌケ, ヌケ, ぬけ
+The result is same! - Japanese: ているなど, テイルナド, テイルナド, ているなど
+Non-Japanese: 、
+The result is same! - Japanese: 不可解, フカカイ, フカカイ, ふかかい
+The result is same! - Japanese: な, ナ, ナ, な
+The result is same! - Japanese: 点, テン, テン, てん
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 見ら, ミラ, ミラ, みら
+The result is same! - Japanese: れた, レタ, レタ, れた
+Non-Japanese: 。
+The result is same! - Japanese: このため, コノタメ, コノタメ, このため
+Non-Japanese: 、
+The result is same! - Japanese: 警察, ケイサツ, ケイサツ, けいさつ
+The result is same! - Japanese: 当局, トウキョク, トウキョク, とうきょく
+The result is same! - Japanese: も, モ, モ, も
+The result is same! - Japanese: 当初, トウショ, トウショ, とうしょ
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 追突, ツイトツ, ツイトツ, ついとつ
+The result is same! - Japanese: した, シタ, シタ, した
+The result is different! - Japanese: 後に, ゴニ, ノチニ, のちに
+The result is same! - Japanese: 逃走, トウソウ, トウソウ, とうそう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 図っ, ハカッ, ハカッ, はかっ
+The result is same! - Japanese: た, タ, タ, た
+The result is different! - Japanese: 末, スエ, マツ, まつ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 重大, ジュウダイ, ジュウダイ, じゅうだい
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 可能性, カノウセイ, カノウセイ, かのうせい
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 疑っ, ウタガッ, ウタガッ, うたがっ
+The result is same! - Japanese: ていた, テイタ, テイタ, ていた
+Non-Japanese: 。
+The result is same! - Japanese: しかし, シカシ, シカシ, しかし
+The result is same! - Japanese: 最終的, サイシュウテキ, サイシュウテキ, さいしゅうてき
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 京都府, キョウトフ, キョウトフ, きょうとふ
+The result is same! - Japanese: 警, ケイ, ケイ, けい
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 、
+The result is same! - Japanese: 最初, サイショ, サイショ, さいしょ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: との, トノ, トノ, との
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: によって, ニヨッテ, ニヨッテ, によって
+The result is same! - Japanese: 精神的, セイシンテキ, セイシンテキ, せいしんてき
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 動転, ドウテン, ドウテン, どうてん
+The result is same! - Japanese: し, シ, シ, し
+Non-Japanese: 、
+The result is same! - Japanese: 大和, ヤマト, ヤマト, やまと
+The result is same! - Japanese: 大路, オオジ, オオジ, おおじ
+The result is different! - Japanese: 通を, ツウヲ, カヨヲ, かよを
+The result is same! - Japanese: 逃走, トウソウ, トウソウ, とうそう
+The result is same! - Japanese: 中に, ナカニ, ナカニ, なかに
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 起き, オキ, オキ, おき
+Non-Japanese: 、
+The result is same! - Japanese: 暴走, ボウソウ, ボウソウ, ぼうそう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 至っ, イタッ, イタッ, いたっ
+The result is same! - Japanese: たと, タト, タト, たと
+The result is same! - Japanese: 判断, ハンダン, ハンダン, はんだん
+The result is same! - Japanese: し, シ, シ, し
+Non-Japanese: 、
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 容疑者, ヨウギシャ, ヨウギシャ, ようぎしゃ
+The result is same! - Japanese: 死亡, シボウ, シボウ, しぼう
+The result is same! - Japanese: のまま, ノママ, ノママ, のまま
+The result is same! - Japanese: 検察, ケンサツ, ケンサツ, けんさつ
+The result is same! - Japanese: へ, ヘ, ヘ, へ
+The result is same! - Japanese: 書類, ショルイ, ショルイ, しょるい
+The result is same! - Japanese: 送致, ソウチ, ソウチ, そうち
+The result is same! - Japanese: した, シタ, シタ, した
+Non-Japanese: 。
+The result is same! - Japanese: なおこの, ナオコノ, ナオコノ, なおこの
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: の, ノ, ノ, の
+Non-Japanese: 3
+The result is different! - Japanese: 日前, ヒマエ, ニチマエ, にちまえ
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 鹿沼, カヌマ, カヌマ, かぬま
+The result is same! - Japanese: 市, シ, シ, し
+The result is same! - Japanese: クレーン, クレーン, クレーン, くれーん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: 暴走事故, ボウソウジコ, ボウソウジコ, ぼうそうじこ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 遺族, イゾク, イゾク, いぞく
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 危険, キケン, キケン, きけん
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: 致死傷, チシショウ, チシショウ, ちししょう
+The result is same! - Japanese: 罪, ツミ, ツミ, つみ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 改正, カイセイ, カイセイ, かいせい
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 署名, ショメイ, ショメイ, しょめい
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 法務省, ホウムショウ, ホウムショウ, ほうむしょう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 提出, テイシュツ, テイシュツ, ていしゅつ
+The result is same! - Japanese: しており, シテオリ, シテオリ, しており
+Non-Japanese: 、
+The result is same! - Japanese: その, ソノ, ソノ, その
+The result is same! - Japanese: 矢先, ヤサキ, ヤサキ, やさき
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 発生, ハッセイ, ハッセイ, はっせい
+The result is same! - Japanese: した, シタ, シタ, した
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: であった, デアッタ, デアッタ, であった
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 刑事, ケイジ, ケイジ, けいじ
+The result is same! - Japanese: 処理, ショリ, ショリ, しょり
+Non-Japanese:  ==
+Non-Japanese: 2013
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 8
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: 8
+The result is different! - Japanese: 日, ヒ, ニチ, にち
+Non-Japanese: 、
+The result is same! - Japanese: 京都, キョウト, キョウト, きょうと
+The result is same! - Japanese: 地方, チホウ, チホウ, ちほう
+The result is same! - Japanese: 検察庁, ケンサツチョウ, ケンサツチョウ, けんさつちょう
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 容疑者, ヨウギシャ, ヨウギシャ, ようぎしゃ
+The result is same! - Japanese: 死亡, シボウ, シボウ, しぼう
+The result is same! - Japanese: により, ニヨリ, ニヨリ, により
+The result is same! - Japanese: 不起訴, フキソ, フキソ, ふきそ
+The result is same! - Japanese: とし, トシ, トシ, とし
+Non-Japanese: 、
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 勤務先, キンムサキ, キンムサキ, きんむさき
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 社長, シャチョウ, シャチョウ, しゃちょう
+The result is same! - Japanese: も, モ, モ, も
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 持病, ジビョウ, ジビョウ, じびょう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 認識, ニンシキ, ニンシキ, にんしき
+The result is same! - Japanese: していなかったため, シテイナカッタタメ, シテイナカッタタメ, していなかったため
+The result is same! - Japanese: 不起訴処分, フキソショブン, フキソショブン, ふきそしょぶん
+The result is same! - Japanese: とする, トスル, トスル, とする
+The result is same! - Japanese: 方針, ホウシン, ホウシン, ほうしん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 固め, カタメ, カタメ, かため
+The result is same! - Japanese: た, タ, タ, た
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 民事裁判, ミンジサイバン, ミンジサイバン, みんじさいばん
+Non-Japanese:  ==
+The result is same! - Japanese: 被害者, ヒガイシャ, ヒガイシャ, ひがいしゃ
+The result is same! - Japanese: 遺族, イゾク, イゾク, いぞく
+The result is same! - Japanese: らによって, ラニヨッテ, ラニヨッテ, らによって
+Non-Japanese: 、
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 遺族, イゾク, イゾク, いぞく
+The result is same! - Japanese: および, オヨビ, オヨビ, および
+The result is same! - Japanese: 雇用者, コヨウシャ, コヨウシャ, こようしゃ
+The result is same! - Japanese: だった, ダッタ, ダッタ, だった
+The result is same! - Japanese: 企業, キギョウ, キギョウ, きぎょう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 対し, タイシ, タイシ, たいし
+The result is same! - Japanese: て, テ, テ, て
+Non-Japanese: 、
+The result is same! - Japanese: 慰謝料, イシャリョウ, イシャリョウ, いしゃりょう
+The result is same! - Japanese: などの, ナドノ, ナドノ, などの
+The result is same! - Japanese: 損害賠償請求, ソンガイバイショウセイキュウ, ソンガイバイショウセイキュウ, そんがいばいしょうせいきゅう
+The result is same! - Japanese: 訴訟, ソショウ, ソショウ, そしょう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 提起, テイキ, テイキ, ていき
+The result is same! - Japanese: された, サレタ, サレタ, された
+Non-Japanese: 。
+The result is same! - Japanese: 原告, ゲンコク, ゲンコク, げんこく
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 、
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 遺族, イゾク, イゾク, いぞく
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 対し, タイシ, タイシ, たいし
+The result is same! - Japanese: ては, テハ, テハ, ては
+Non-Japanese: 「
+The result is same! - Japanese: 男性, ダンセイ, ダンセイ, だんせい
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 損害賠償, ソンガイバイショウ, ソンガイバイショウ, そんがいばいしょう
+The result is same! - Japanese: 義務, ギム, ギム, ぎむ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 相続, ソウゾク, ソウゾク, そうぞく
+The result is same! - Japanese: している, シテイル, シテイル, している
+Non-Japanese: 」
+The result is same! - Japanese: とし, トシ, トシ, とし
+Non-Japanese: 、
+The result is same! - Japanese: 雇用者, コヨウシャ, コヨウシャ, こようしゃ
+The result is same! - Japanese: だった, ダッタ, ダッタ, だった
+The result is same! - Japanese: 企業, キギョウ, キギョウ, きぎょう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 対し, タイシ, タイシ, たいし
+The result is same! - Japanese: ては, テハ, テハ, ては
+The result is same! - Japanese: 事故車, ジコシャ, ジコシャ, じこしゃ
+The result is same! - Japanese: 両, リョウ, リョウ, りょう
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 所有者, ショユウシャ, ショユウシャ, しょゆうしゃ
+The result is same! - Japanese: であり, デアリ, デアリ, であり
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 雇用, コヨウ, コヨウ, こよう
+The result is different! - Japanese: 主, アルジ, シュ, しゅ
+The result is same! - Japanese: であるので, デアルノデ, デアルノデ, であるので
+Non-Japanese: 、
+Non-Japanese: 「
+The result is same! - Japanese: 自動車, ジドウシャ, ジドウシャ, じどうしゃ
+The result is same! - Japanese: 損害賠償, ソンガイバイショウ, ソンガイバイショウ, そんがいばいしょう
+The result is same! - Japanese: 保障, ホショウ, ホショウ, ほしょう
+The result is same! - Japanese: 法, ホウ, ホウ, ほう
+The result is same! - Japanese: などに, ナドニ, ナドニ, などに
+The result is different! - Japanese: 基づ, モト, モトヅ, もとづ
+The result is same! - Japanese: く, ク, ク, く
+The result is same! - Japanese: 使用者, シヨウシャ, シヨウシャ, しようしゃ
+The result is same! - Japanese: 責任, セキニン, セキニン, せきにん
+The result is same! - Japanese: が, ガ, ガ, が
+The result is different! - Japanese: 生じ, キジ, ショウジ, しょうじ
+The result is same! - Japanese: る, ル, ル, る
+Non-Japanese: 」
+The result is same! - Japanese: とした, トシタ, トシタ, とした
+Non-Japanese: 。
+Non-Japanese: 2014
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 2
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: 4
+The result is different! - Japanese: 日, ヒ, ニチ, にち
+Non-Japanese: 、
+The result is same! - Japanese: 京都, キョウト, キョウト, きょうと
+The result is same! - Japanese: 地方, チホウ, チホウ, ちほう
+The result is same! - Japanese: 裁判所, サイバンショ, サイバンショ, さいばんしょ
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 「
+The result is same! - Japanese: 元, モト, モト, もと
+The result is same! - Japanese: 従業員, ジュウギョウイン, ジュウギョウイン, じゅうぎょういん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 過失, カシツ, カシツ, かしつ
+The result is same! - Japanese: があり, ガアリ, ガアリ, があり
+Non-Japanese: 、
+The result is same! - Japanese: 会社, カイシャ, カイシャ, かいしゃ
+The result is same! - Japanese: と, ト, ト, と
+The result is same! - Japanese: 家族, カゾク, カゾク, かぞく
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 賠償責任, バイショウセキニン, バイショウセキニン, ばいしょうせきにん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 負う, オウ, オウ, おう
+The result is same! - Japanese: ことに, コトニ, コトニ, ことに
+The result is same! - Japanese: 争い, アラソイ, アラソイ, あらそい
+The result is same! - Japanese: がない, ガナイ, ガナイ, がない
+Non-Japanese: 」
+The result is same! - Japanese: として, トシテ, トシテ, として
+Non-Japanese: 、
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 家族, カゾク, カゾク, かぞく
+The result is same! - Japanese: と, ト, ト, と
+The result is same! - Japanese: 勤務先, キンムサキ, キンムサキ, きんむさき
+The result is same! - Japanese: 会社, カイシャ, カイシャ, かいしゃ
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 対し, タイシ, タイシ, たいし
+Non-Japanese: 、
+The result is same! - Japanese: 逸失, イッシツ, イッシツ, いっしつ
+The result is same! - Japanese: 利益, リエキ, リエキ, りえき
+The result is same! - Japanese: 約, ヤク, ヤク, やく
+Non-Japanese: 2100
+The result is same! - Japanese: 万円, マンエン, マンエン, まんえん
+The result is same! - Japanese: や, ヤ, ヤ, や
+The result is same! - Japanese: 慰謝料, イシャリョウ, イシャリョウ, いしゃりょう
+Non-Japanese: 2700
+The result is same! - Japanese: 万円, マンエン, マンエン, まんえん
+The result is same! - Japanese: などを, ナドヲ, ナドヲ, などを
+The result is same! - Japanese: 含む, フクム, フクム, ふくむ
+The result is same! - Japanese: 総額, ソウガク, ソウガク, そうがく
+Non-Japanese: 5200
+The result is same! - Japanese: 万円, マンエン, マンエン, まんえん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 支払い, シハライ, シハライ, しはらい
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 命じ, メイジ, メイジ, めいじ
+The result is same! - Japanese: た, タ, タ, た
+Non-Japanese: 。
+Non-Japanese: 2015
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 10
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+The result is same! - Japanese: には, ニハ, ニハ, には
+Non-Japanese: 、
+Non-Japanese: 4600
+The result is same! - Japanese: 万円, マンエン, マンエン, まんえん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 支払い, シハライ, シハライ, しはらい
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 求め, モトメ, モトメ, もとめ
+The result is same! - Japanese: る, ル, ル, る
+The result is same! - Japanese: 別の, ベツノ, ベツノ, べつの
+The result is same! - Japanese: 訴訟, ソショウ, ソショウ, そしょう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 起こ, オコ, オコ, おこ
+The result is same! - Japanese: された, サレタ, サレタ, された
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 道路, ドウロ, ドウロ, どうろ
+The result is same! - Japanese: 改修, カイシュウ, カイシュウ, かいしゅう
+Non-Japanese:  ==
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 受け, ウケ, ウケ, うけ
+The result is same! - Japanese: て, テ, テ, て
+Non-Japanese: 、
+The result is same! - Japanese: 現場, ゲンバ, ゲンバ, げんば
+The result is same! - Japanese: となった, トナッタ, トナッタ, となった
+The result is same! - Japanese: 大和, ヤマト, ヤマト, やまと
+The result is same! - Japanese: 大路, オオジ, オオジ, おおじ
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: では, デハ, デハ, では
+The result is same! - Japanese: 道路, ドウロ, ドウロ, どうろ
+The result is same! - Japanese: 改修, カイシュウ, カイシュウ, かいしゅう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 行わ, オコナワ, オコナワ, おこなわ
+The result is same! - Japanese: れた, レタ, レタ, れた
+Non-Japanese: 。
+The result is same! - Japanese: 自動車, ジドウシャ, ジドウシャ, じどうしゃ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 制限速度, セイゲンソクド, セイゲンソクド, せいげんそくど
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 40km
+The result is same! - Japanese: から, カラ, カラ, から
+Non-Japanese: 30km
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 改め, アラタメ, アラタメ, あらため
+The result is same! - Japanese: られ, ラレ, ラレ, られ
+Non-Japanese: 、
+The result is same! - Japanese: 横断歩道, オウダンホドウ, オウダンホドウ, おうだんほどう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 新設, シンセツ, シンセツ, しんせつ
+The result is same! - Japanese: された, サレタ, サレタ, された
+Non-Japanese: 。
+The result is same! - Japanese: 歩行者, ホコウシャ, ホコウシャ, ほこうしゃ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 守る, マモル, マモル, まもる
+The result is same! - Japanese: ために, タメニ, タメニ, ために
+The result is same! - Japanese: 車止, クルマドメ, クルマドメ, くるまどめ
+The result is same! - Japanese: めが, メガ, メガ, めが
+The result is same! - Japanese: 設置, セッチ, セッチ, せっち
+The result is same! - Japanese: されたり, サレタリ, サレタリ, されたり
+The result is same! - Japanese: 通行, ツウコウ, ツウコウ, つうこう
+The result is same! - Japanese: 帯, オビ, オビ, おび
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 明確, メイカク, メイカク, めいかく
+The result is same! - Japanese: にする, ニスル, ニスル, にする
+The result is same! - Japanese: ライン, ライン, ライン, らいん
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 引か, ヒカ, ヒカ, ひか
+The result is same! - Japanese: れ, レ, レ, れ
+Non-Japanese: 、
+The result is same! - Japanese: 車道, シャドウ, シャドウ, しゃどう
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 幅, ハバ, ハバ, はば
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 4m
+The result is same! - Japanese: から, カラ, カラ, から
+Non-Japanese: 3m
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 縮小, シュクショウ, シュクショウ, しゅくしょう
+The result is same! - Japanese: された, サレタ, サレタ, された
+Non-Japanese: 。
+The result is same! - Japanese: 工事, コウジ, コウジ, こうじ
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 地元, ジモト, ジモト, じもと
+The result is same! - Japanese: 住民, ジュウミン, ジュウミン, じゅうみん
+The result is same! - Japanese: らの, ラノ, ラノ, らの
+The result is same! - Japanese: 陳情, チンジョウ, チンジョウ, ちんじょう
+The result is same! - Japanese: によって, ニヨッテ, ニヨッテ, によって
+The result is same! - Japanese: 京都府, キョウトフ, キョウトフ, きょうとふ
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 計画, ケイカク, ケイカク, けいかく
+The result is same! - Japanese: し, シ, シ, し
+Non-Japanese: 2012
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 11
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+The result is same! - Japanese: より, ヨリ, ヨリ, より
+The result is same! - Japanese: 実施, ジッシ, ジッシ, じっし
+The result is same! - Japanese: された, サレタ, サレタ, された
+Non-Japanese: 。
+The result is same! - Japanese: 工事, コウジ, コウジ, こうじ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 対象, タイショウ, タイショウ, たいしょう
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 事故現場, ジコゲンバ, ジコゲンバ, じこげんば
+The result is same! - Japanese: だけではなく, ダケデハナク, ダケデハナク, だけではなく
+Non-Japanese: 、
+The result is same! - Japanese: 四条, シジョウ, シジョウ, しじょう
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: から, カラ, カラ, から
+The result is same! - Japanese: 若松, ワカマツ, ワカマツ, わかまつ
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: までの, マデノ, マデノ, までの
+The result is same! - Japanese: 北側, キタガワ, キタガワ, きたがわ
+The result is same! - Japanese: 約, ヤク, ヤク, やく
+Non-Japanese: 470m
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 区間, クカン, クカン, くかん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 及ん, オヨン, オヨン, およん
+The result is same! - Japanese: だ, ダ, ダ, だ
+Non-Japanese: 。
+The result is same! - Japanese: 観光客, カンコウキャク, カンコウキャク, かんこうきゃく
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 多い, オオイ, オオイ, おおい
+The result is same! - Japanese: 白川, シラカワ, シラカワ, しらかわ
+The result is same! - Japanese: 南, ミナミ, ミナミ, みなみ
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: 周辺, シュウヘン, シュウヘン, しゅうへん
+The result is same! - Japanese: でも, デモ, デモ, でも
+The result is same! - Japanese: 同様, ドウヨウ, ドウヨウ, どうよう
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 工事, コウジ, コウジ, こうじ
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 実施, ジッシ, ジッシ, じっし
+The result is same! - Japanese: された, サレタ, サレタ, された
+Non-Japanese: 。
+The result is same! - Japanese: 事故現場, ジコゲンバ, ジコゲンバ, じこげんば
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 大和, ヤマト, ヤマト, やまと
+The result is same! - Japanese: 大路, オオジ, オオジ, おおじ
+The result is same! - Japanese: 四条, シジョウ, シジョウ, しじょう
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 北側, キタガワ, キタガワ, きたがわ
+The result is same! - Japanese: には, ニハ, ニハ, には
+The result is same! - Japanese: 長さ, ナガサ, ナガサ, ながさ
+Non-Japanese: 4m
+The result is same! - Japanese: と, ト, ト, と
+Non-Japanese: 6m
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 防護, ボウゴ, ボウゴ, ぼうご
+The result is different! - Japanese: 柵, シガラミ, サク, さく
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 設置, セッチ, セッチ, せっち
+The result is same! - Japanese: された, サレタ, サレタ, された
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 雇用, コヨウ, コヨウ, こよう
+The result is same! - Japanese: 側, ガワ, ガワ, がわ
+The result is same! - Japanese: 企業, キギョウ, キギョウ, きぎょう
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 破産, ハサン, ハサン, はさん
+Non-Japanese:  ==
+Non-Japanese: 2016
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 1
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: 、
+The result is same! - Japanese: 雇用, コヨウ, コヨウ, こよう
+The result is same! - Japanese: 側, ガワ, ガワ, がわ
+The result is same! - Japanese: だった, ダッタ, ダッタ, だった
+The result is same! - Japanese: 企業, キギョウ, キギョウ, きぎょう
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 信用, シンヨウ, シンヨウ, しんよう
+The result is same! - Japanese: 不安, フアン, フアン, ふあん
+The result is same! - Japanese: による, ニヨル, ニヨル, による
+The result is same! - Japanese: 経営悪化, ケイエイアッカ, ケイエイアッカ, けいえいあっか
+The result is same! - Japanese: に, ニ, ニ, に
+The result is different! - Japanese: 陥っ, オチイッ, オチッ, おちっ
+The result is same! - Japanese: たとされ, タトサレ, タトサレ, たとされ
+Non-Japanese: 、
+Non-Japanese: 5
+The result is same! - Japanese: 億, オク, オク, おく
+Non-Japanese: 7000
+The result is same! - Japanese: 万円, マンエン, マンエン, まんえん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 負債, フサイ, フサイ, ふさい
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 抱え, カカエ, カカエ, かかえ
+The result is same! - Japanese: て, テ, テ, て
+The result is same! - Japanese: 自己破産, ジコハサン, ジコハサン, じこはさん
+The result is same! - Japanese: する, スル, スル, する
+The result is same! - Japanese: 方針, ホウシン, ホウシン, ほうしん
+The result is same! - Japanese: となった, トナッタ, トナッタ, となった
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 関連, カンレン, カンレン, かんれん
+The result is same! - Japanese: 処罰, ショバツ, ショバツ, しょばつ
+The result is same! - Japanese: 法改正, ホウカイセイ, ホウカイセイ, ほうかいせい
+Non-Japanese:  ==
+The result is different! - Japanese: 本事, ホンゴト, ホンジ, ほんじ
+The result is same! - Japanese: 件, ケン, ケン, けん
+The result is same! - Japanese: および, オヨビ, オヨビ, および
+The result is same! - Japanese: 鹿沼, カヌマ, カヌマ, かぬま
+The result is same! - Japanese: 市, シ, シ, し
+The result is same! - Japanese: クレーン, クレーン, クレーン, くれーん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: 暴走事故, ボウソウジコ, ボウソウジコ, ぼうそうじこ
+The result is same! - Japanese: によって, ニヨッテ, ニヨッテ, によって
+Non-Japanese: 、
+The result is same! - Japanese: 持病, ジビョウ, ジビョウ, じびょう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 申告, シンコク, シンコク, しんこく
+The result is same! - Japanese: せずに, セズニ, セズニ, せずに
+The result is same! - Japanese: 免許, メンキョ, メンキョ, めんきょ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 取得, シュトク, シュトク, しゅとく
+The result is same! - Japanese: ・, ・, ・, ・
+The result is same! - Japanese: 更新, コウシン, コウシン, こうしん
+The result is same! - Japanese: して, シテ, シテ, して
+The result is same! - Japanese: 病気, ビョウキ, ビョウキ, びょうき
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: によって, ニヨッテ, ニヨッテ, によって
+The result is same! - Japanese: 重大, ジュウダイ, ジュウダイ, じゅうだい
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: が, ガ, ガ, が
+The result is different! - Japanese: 相次, アイジ, アイツギ, あいつぎ
+The result is same! - Japanese: いでいることが, イデイルコトガ, イデイルコトガ, いでいることが
+The result is same! - Japanese: 問題視, モンダイシ, モンダイシ, もんだいし
+The result is same! - Japanese: されるようになった, サレルヨウニナッタ, サレルヨウニナッタ, されるようになった
+Non-Japanese: 。
+The result is same! - Japanese: これを, コレヲ, コレヲ, これを
+The result is same! - Japanese: 受け, ウケ, ウケ, うけ
+The result is same! - Japanese: て, テ, テ, て
+Non-Japanese: 、
+Non-Japanese: 2013
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 6
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: 14
+The result is different! - Japanese: 日, ヒ, ニチ, にち
+Non-Japanese: 、
+The result is same! - Japanese: 道路交通法, ドウロコウツウホウ, ドウロコウツウホウ, どうろこうつうほう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 改正, カイセイ, カイセイ, かいせい
+The result is same! - Japanese: され, サレ, サレ, され
+Non-Japanese: 、
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 支障, シショウ, シショウ, ししょう
+The result is same! - Japanese: のある, ノアル, ノアル, のある
+The result is same! - Japanese: 者, モノ, モノ, もの
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 免許取得, メンキョシュトク, メンキョシュトク, めんきょしゅとく
+The result is same! - Japanese: ・, ・, ・, ・
+The result is same! - Japanese: 更新時, コウシンジ, コウシンジ, こうしんじ
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 虚偽, キョギ, キョギ, きょぎ
+The result is same! - Japanese: 申告, シンコク, シンコク, しんこく
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 行った, イッタ, イッタ, いった
+The result is same! - Japanese: 場合, バアイ, バアイ, ばあい
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 罰則, バッソク, バッソク, ばっそく
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 設け, モウケ, モウケ, もうけ
+The result is same! - Japanese: られた, ラレタ, ラレタ, られた
+Non-Japanese: 。
+Non-Japanese: 2014
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 5
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: 20
+The result is different! - Japanese: 日, ヒ, ニチ, にち
+The result is same! - Japanese: には, ニハ, ニハ, には
+Non-Japanese: 、
+The result is same! - Japanese: 自動車, ジドウシャ, ジドウシャ, じどうしゃ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: により, ニヨリ, ニヨリ, により
+The result is different! - Japanese: 人, ヒト, ニン, にん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 死傷, シショウ, シショウ, ししょう
+The result is same! - Japanese: させる, サセル, サセル, させる
+The result is same! - Japanese: 行為, コウイ, コウイ, こうい
+The result is different! - Japanese: 等, ヒトシ, ナド, など
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 処罰, ショバツ, ショバツ, しょばつ
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 関す, カンス, カンス, かんす
+The result is same! - Japanese: る, ル, ル, る
+The result is same! - Japanese: 法律, ホウリツ, ホウリツ, ほうりつ
+Non-Japanese: (
+The result is same! - Japanese: 自動車, ジドウシャ, ジドウシャ, じどうしゃ
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: 死傷, シショウ, シショウ, ししょう
+The result is same! - Japanese: 行為, コウイ, コウイ, こうい
+The result is same! - Japanese: 処罰, ショバツ, ショバツ, しょばつ
+The result is same! - Japanese: 法, ホウ, ホウ, ほう
+Non-Japanese: )
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 施行, シコウ, シコウ, しこう
+The result is same! - Japanese: され, サレ, サレ, され
+Non-Japanese: 、
+The result is same! - Japanese: 自動車, ジドウシャ, ジドウシャ, じどうしゃ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 支障, シショウ, シショウ, ししょう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 及ぼ, オヨボ, オヨボ, およぼ
+The result is same! - Japanese: すおそれがある, スオソレガアル, スオソレガアル, すおそれがある
+The result is same! - Japanese: 病気, ビョウキ, ビョウキ, びょうき
+The result is same! - Japanese: として, トシテ, トシテ, として
+The result is same! - Japanese: 政令, セイレイ, セイレイ, せいれい
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 定め, サダメ, サダメ, さだめ
+The result is same! - Japanese: るものの, ルモノノ, ルモノノ, るものの
+The result is same! - Japanese: 影響, エイキョウ, エイキョウ, えいきょう
+The result is same! - Japanese: により, ニヨリ, ニヨリ, により
+Non-Japanese: 、
+The result is same! - Japanese: その, ソノ, ソノ, その
+The result is same! - Japanese: 走行中, ソウコウチュウ, ソウコウチュウ, そうこうちゅう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 正常, セイジョウ, セイジョウ, せいじょう
+The result is same! - Japanese: な, ナ, ナ, な
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 支障, シショウ, シショウ, ししょう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is different! - Japanese: 生じ, キジ, ショウジ, しょうじ
+The result is same! - Japanese: るおそれがある, ルオソレガアル, ルオソレガアル, るおそれがある
+The result is same! - Japanese: 状態, ジョウタイ, ジョウタイ, じょうたい
+The result is same! - Japanese: で, デ, デ, で
+Non-Japanese: 、
+The result is same! - Japanese: 自動車, ジドウシャ, ジドウシャ, じどうしゃ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: し, シ, シ, し
+Non-Japanese: 、
+The result is same! - Japanese: その, ソノ, ソノ, その
+The result is same! - Japanese: 病気, ビョウキ, ビョウキ, びょうき
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 影響, エイキョウ, エイキョウ, えいきょう
+The result is same! - Japanese: により, ニヨリ, ニヨリ, により
+The result is same! - Japanese: 正常, セイジョウ, セイジョウ, せいじょう
+The result is same! - Japanese: な, ナ, ナ, な
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 困難, コンナン, コンナン, こんなん
+The result is same! - Japanese: な, ナ, ナ, な
+The result is same! - Japanese: 状態, ジョウタイ, ジョウタイ, じょうたい
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 陥り, オチイリ, オチイリ, おちいり
+Non-Japanese: 、
+The result is different! - Japanese: 人, ヒト, ニン, にん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 死傷, シショウ, シショウ, ししょう
+The result is same! - Japanese: させた, サセタ, サセタ, させた
+The result is same! - Japanese: 場合, バアイ, バアイ, ばあい
+The result is same! - Japanese: に, ニ, ニ, に
+Non-Japanese: 、
+The result is same! - Japanese: 危険, キケン, キケン, きけん
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: 致死傷, チシショウ, チシショウ, ちししょう
+The result is same! - Japanese: として, トシテ, トシテ, として
+The result is same! - Japanese: 被害者, ヒガイシャ, ヒガイシャ, ひがいしゃ
+The result is same! - Japanese: 死亡, シボウ, シボウ, しぼう
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 場合, バアイ, バアイ, ばあい
+The result is same! - Japanese: で, デ, デ, で
+Non-Japanese: 1
+The result is different! - Japanese: 年以上, トシイジョウ, ネンイジョウ, ねんいじょう
+Non-Japanese: 20
+The result is different! - Japanese: 年, トシ, ネン, ねん
+The result is same! - Japanese: 以下の, イカノ, イカノ, いかの
+The result is same! - Japanese: 有期, ユウキ, ユウキ, ゆうき
+The result is same! - Japanese: 懲役, チョウエキ, チョウエキ, ちょうえき
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 問え, トエ, トエ, とえ
+The result is same! - Japanese: るようになった, ルヨウニナッタ, ルヨウニナッタ, るようになった
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 脚注, キャクチュウ, キャクチュウ, きゃくちゅう
+Non-Japanese:  ==
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 関連項目, カンレンコウモク, カンレンコウモク, かんれんこうもく
+Non-Japanese:  ==
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: てんかんによる, テンカンニヨル, テンカンニヨル, てんかんによる
+The result is same! - Japanese: 交通事故, コウツウジコ, コウツウジコ, こうつうじこ
+The result is same! - Japanese: 鹿沼, カヌマ, カヌマ, かぬま
+The result is same! - Japanese: 市, シ, シ, し
+The result is same! - Japanese: クレーン, クレーン, クレーン, くれーん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: 暴走事故, ボウソウジコ, ボウソウジコ, ぼうそうじこ
+The result is same! - Japanese: 池袋駅東口, イケブクロエキヒガシグチ, イケブクロエキヒガシグチ, いけぶくろえきひがしぐち
+The result is same! - Japanese: 乗用車, ジョウヨウシャ, ジョウヨウシャ, じょうようしゃ
+The result is same! - Japanese: 暴走事故, ボウソウジコ, ボウソウジコ, ぼうそうじこ

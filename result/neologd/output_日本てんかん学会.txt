@@ -1,0 +1,42 @@
+かてごり None(: 1967) ねん(diff) せつりつ の そしき None(,) None( ) すべての すたぶ きじ None(,) None( ) てんかん None(,) None( ) いっぱん しゃだんほうじん None( () がくじゅつだんたい None()) None(,) None( ) いがくかんれん の すたぶ こうもく None(,) None( ) こだいらし の いっぱん しゃだんほうじん None(,) None( ) とくひつ せい の きじゅん を みた していないおそれのある きじ None(/2015) ねん(diff) None(8) がつ(diff) 
+None() 
+いっぱん しゃだんほうじん にっぽん てんかん がっかい は None(、) None(1967) ねん(diff) None(4) がつ(diff) None(6) にち(diff) にてんかん がく ならび にこれと かんれんす る がくじゅつ の しんぽ こうじょう を はかる ことを もくてき として None(、) いし を ちゅうしん として せつりつ された がくじゅつだんたい である None(。) 
+None() 
+None() 
+None(== ) がっかいし None( ==) 
+None(Epilepsy & Seizure) 
+てんかん けんきゅう 
+None() 
+None() 
+None(== ) ねんじ がくじゅつ そうかい None( ==) 
+にっぽん てんかん がっかい None( ) ねんじ がくじゅつ しゅうかい 
+こくさい てんかん がっかい ぎ 
+あじあ・おせあにあ None(　) てんかん がっかい ぎ 
+None(JES-KES) しんぽじうむ 
+None() 
+None() 
+None(== ) がっかい しょう ・ じょせい None( ==) 
+None(JUHN AND MARY WADA) しょうれいしょう 
+None(JES Prize) 
+ゆうしゅう ぽすたー しょう 
+にっぽん てんかん がっかい None(Sponsored Award) 
+None(JES) すからーしっぷ 
+にっぽん てんかん がっかい こうろうしょう 
+None() 
+None() 
+None(== ) きゃくちゅう None( ==) 
+None() 
+None() 
+None(== ) かんれんこうもく None( ==) 
+てんかん 
+にっぽん の がっかい いちらん 
+None() 
+None() 
+None(== ) がいぶ りんく None( ==) 
+にっぽん てんかん がっかい 
+
+Total is 425
+CER is 35.294117647058826%
+Num of same is 275
+Num of diff is 6
+Num of non japanese is 144

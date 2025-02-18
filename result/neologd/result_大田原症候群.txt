@@ -1,0 +1,364 @@
+The result is same! - Japanese: カテゴリ, カテゴリ, カテゴリ, かてごり
+Non-Japanese: : 
+The result is same! - Japanese: すべての, スベテノ, スベテノ, すべての
+The result is same! - Japanese: スタブ, スタブ, スタブ, すたぶ
+The result is same! - Japanese: 記事, キジ, キジ, きじ
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 医学関連, イガクカンレン, イガクカンレン, いがくかんれん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: スタブ, スタブ, スタブ, すたぶ
+The result is same! - Japanese: 項目, コウモク, コウモク, こうもく
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 小児科, ショウニカ, ショウニカ, しょうにか
+The result is same! - Japanese: 学, ガク, ガク, がく
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 希少, キショウ, キショウ, きしょう
+The result is same! - Japanese: 疾患, シッカン, シッカン, しっかん
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 症候, ショウコウ, ショウコウ, しょうこう
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 遺伝子疾患, イデンシシッカン, イデンシシッカン, いでんししっかん
+Non-Japanese: 
+The result is same! - Japanese: 大田原, オオタワラ, オオタワラ, おおたわら
+The result is same! - Japanese: 症候群, ショウコウグン, ショウコウグン, しょうこうぐん
+Non-Japanese: （
+The result is same! - Japanese: おおたはらしょうこうぐん, オオタハラショウコウグン, オオタハラショウコウグン, おおたはらしょうこうぐん
+Non-Japanese: 、
+The result is same! - Japanese: 英, エイ, エイ, えい
+Non-Japanese: : Ohtahara syndrome
+Non-Japanese: ,
+Non-Japanese:  OS
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 英, エイ, エイ, えい
+Non-Japanese: : Early Infantile Epileptic Encephalopathy with Burst-Suppression
+Non-Japanese: ,
+Non-Japanese:  EIEE
+Non-Japanese: ）
+The result is same! - Japanese: とは, トハ, トハ, とは
+Non-Japanese: 、
+The result is same! - Japanese: 進行, シンコウ, シンコウ, しんこう
+The result is same! - Japanese: 性, セイ, セイ, せい
+The result is same! - Japanese: ミオクローヌス, ミオクローヌス, ミオクローヌス, みおくろーぬす
+The result is same! - Japanese: てんかんのこと, テンカンノコト, テンカンノコト, てんかんのこと
+Non-Japanese: 。
+The result is same! - Japanese: 多く, オオク, オオク, おおく
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 場合, バアイ, バアイ, ばあい
+Non-Japanese: 、
+The result is same! - Japanese: 構造的, コウゾウテキ, コウゾウテキ, こうぞうてき
+The result is same! - Japanese: な, ナ, ナ, な
+The result is same! - Japanese: 脳, ノウ, ノウ, のう
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 損傷, ソンショウ, ソンショウ, そんしょう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 存在, ソンザイ, ソンザイ, そんざい
+The result is same! - Japanese: するが, スルガ, スルガ, するが
+Non-Japanese: 、
+Non-Japanese: 2016
+The result is different! - Japanese: 年, トシ, ネン, ねん
+The result is same! - Japanese: 現在, ゲンザイ, ゲンザイ, げんざい
+The result is same! - Japanese: 単一, タンイツ, タンイツ, たんいつ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 原因, ゲンイン, ゲンイン, げんいん
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 同定, ドウテイ, ドウテイ, どうてい
+The result is same! - Japanese: されていない, サレテイナイ, サレテイナイ, されていない
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 概要, ガイヨウ, ガイヨウ, がいよう
+Non-Japanese:  ==
+The result is same! - Japanese: 大田原, オオタワラ, オオタワラ, おおたわら
+The result is same! - Japanese: 症候群, ショウコウグン, ショウコウグン, しょうこうぐん
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 年齢, ネンレイ, ネンレイ, ねんれい
+The result is same! - Japanese: 関連性, カンレンセイ, カンレンセイ, かんれんせい
+The result is same! - Japanese: てんかんであり, テンカンデアリ, テンカンデアリ, てんかんであり
+Non-Japanese: 、
+The result is same! - Japanese: 生後, セイゴ, セイゴ, せいご
+Non-Japanese: 3
+The result is different! - Japanese: ヵ, , ヵ, ゕ
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+The result is same! - Japanese: 以内, イナイ, イナイ, いない
+Non-Japanese: 、
+The result is same! - Japanese: しばしば, シバシバ, シバシバ, しばしば
+The result is same! - Japanese: 生後, セイゴ, セイゴ, せいご
+Non-Japanese: 10
+The result is different! - Japanese: 日, ヒ, ニチ, にち
+The result is same! - Japanese: 以内, イナイ, イナイ, いない
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 発症, ハッショウ, ハッショウ, はっしょう
+The result is same! - Japanese: する, スル, スル, する
+Non-Japanese: 。
+The result is same! - Japanese: 高頻度, コウヒンド, コウヒンド, こうひんど
+The result is same! - Japanese: にその, ニソノ, ニソノ, にその
+The result is same! - Japanese: 後, ノチ, ノチ, のち
+Non-Japanese: 、
+The result is same! - Japanese: 点頭, テントウ, テントウ, てんとう
+The result is same! - Japanese: てんかんや, テンカンヤ, テンカンヤ, てんかんや
+The result is different! - Japanese: レノックス・ガストー, , レノックス・ガストー, れのっくす・がすとー
+The result is same! - Japanese: 症候群, ショウコウグン, ショウコウグン, しょうこうぐん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 移行, イコウ, イコウ, いこう
+The result is same! - Japanese: する, スル, スル, する
+Non-Japanese: 。
+The result is same! - Japanese: 大田原, オオタワラ, オオタワラ, おおたわら
+The result is different! - Japanese: 病の, ヤマイノ, ヤノ, やの
+The result is same! - Japanese: 主要, シュヨウ, シュヨウ, しゅよう
+The result is same! - Japanese: な, ナ, ナ, な
+The result is same! - Japanese: 外向き, ソトムキ, ソトムキ, そとむき
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 症状, ショウジョウ, ショウジョウ, しょうじょう
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 通常, ツウジョウ, ツウジョウ, つうじょう
+Non-Japanese: 、
+The result is same! - Japanese: 強直, キョウチョク, キョウチョク, きょうちょく
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: として, トシテ, トシテ, として
+The result is same! - Japanese: 現れ, アラワレ, アラワレ, あらわれ
+The result is same! - Japanese: る, ル, ル, る
+Non-Japanese: 。
+The result is same! - Japanese: 発生, ハッセイ, ハッセイ, はっせい
+The result is same! - Japanese: する, スル, スル, する
+The result is same! - Japanese: 可能性, カノウセイ, カノウセイ, かのうせい
+The result is same! - Japanese: がある, ガアル, ガアル, がある
+The result is different! - Japanese: 他の, タノ, ホカノ, ほかの
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: タイプ, タイプ, タイプ, たいぷ
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 、
+Non-Japanese:  
+The result is same! - Japanese: 部分, ブブン, ブブン, ぶぶん
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+Non-Japanese:  
+Non-Japanese: 、
+The result is same! - Japanese: 乳児, ニュウジ, ニュウジ, にゅうじ
+The result is same! - Japanese: けいれんの, ケイレンノ, ケイレンノ, けいれんの
+The result is same! - Japanese: 群発, グンパツ, グンパツ, ぐんぱつ
+Non-Japanese: 、
+The result is same! - Japanese: およびまれに, オヨビマレニ, オヨビマレニ, およびまれに
+Non-Japanese: 、
+The result is same! - Japanese: ミオクローヌス, ミオクローヌス, ミオクローヌス, みおくろーぬす
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 見ら, ミラ, ミラ, みら
+The result is same! - Japanese: れる, レル, レル, れる
+Non-Japanese: 。
+The result is same! - Japanese: また, マタ, マタ, また
+Non-Japanese: 、
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 加え, クワエ, クワエ, くわえ
+The result is same! - Japanese: て, テ, テ, て
+Non-Japanese: 、
+The result is same! - Japanese: 大田原, オオタワラ, オオタワラ, おおたわら
+The result is same! - Japanese: 症候群, ショウコウグン, ショウコウグン, しょうこうぐん
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 精神的, セイシンテキ, セイシンテキ, せいしんてき
+Non-Japanese: 、
+The result is same! - Japanese: 物理的, ブツリテキ, ブツリテキ, ぶつりてき
+The result is same! - Japanese: な, ナ, ナ, な
+The result is same! - Japanese: 発達, ハッタツ, ハッタツ, はったつ
+The result is same! - Japanese: 遅滞, チタイ, チタイ, ちたい
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 起こ, オコ, オコ, おこ
+The result is same! - Japanese: す, ス, ス, す
+Non-Japanese: 。
+The result is same! - Japanese: 臨床的, リンショウテキ, リンショウテキ, りんしょうてき
+The result is same! - Japanese: には, ニハ, ニハ, には
+Non-Japanese: 、
+The result is same! - Japanese: 脳波, ノウハ, ノウハ, のうは
+The result is same! - Japanese: の, ノ, ノ, の
+Non-Japanese: 「
+The result is same! - Japanese: バースト, バースト, バースト, ばーすと
+The result is same! - Japanese: 抑制, ヨクセイ, ヨクセイ, よくせい
+Non-Japanese: 」
+The result is same! - Japanese: パターン, パターン, パターン, ぱたーん
+The result is same! - Japanese: によって, ニヨッテ, ニヨッテ, によって
+The result is same! - Japanese: 特徴付け, トクチョウヅケ, トクチョウヅケ, とくちょうづけ
+The result is same! - Japanese: られ, ラレ, ラレ, られ
+Non-Japanese: 、
+The result is same! - Japanese: この, コノ, コノ, この
+The result is same! - Japanese: パターン, パターン, パターン, ぱたーん
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 若干, ジャッカン, ジャッカン, じゃっかん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 脳波, ノウハ, ノウハ, のうは
+The result is same! - Japanese: 活動, カツドウ, カツドウ, かつどう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 続く, ツヅク, ツヅク, つづく
+The result is same! - Japanese: 高電圧, コウデンアツ, コウデンアツ, こうでんあつ
+The result is same! - Japanese: スパイク, スパイク, スパイク, すぱいく
+The result is same! - Japanese: 波, ナミ, ナミ, なみ
+The result is same! - Japanese: 放電, ホウデン, ホウデン, ほうでん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 伴う, トモナウ, トモナウ, ともなう
+Non-Japanese: 。
+Non-Japanese: 1976
+The result is different! - Japanese: 年, トシ, ネン, ねん
+The result is same! - Japanese: にそれを, ニソレヲ, ニソレヲ, にそれを
+The result is same! - Japanese: 同定, ドウテイ, ドウテイ, どうてい
+The result is same! - Japanese: した, シタ, シタ, した
+Non-Japanese: 、
+The result is same! - Japanese: 日本, ニッポン, ニッポン, にっぽん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 神経科, シンケイカ, シンケイカ, しんけいか
+The result is same! - Japanese: 医, イ, イ, い
+The result is same! - Japanese: である, デアル, デアル, である
+The result is same! - Japanese: 大田原, オオタワラ, オオタワラ, おおたわら
+The result is same! - Japanese: 俊輔, シュンスケ, シュンスケ, しゅんすけ
+Non-Japanese: （
+Non-Japanese: 1930
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: ～
+Non-Japanese: 2013
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: )
+The result is same! - Japanese: にちなんで, ニチナンデ, ニチナンデ, にちなんで
+The result is same! - Japanese: 命名, メイメイ, メイメイ, めいめい
+The result is same! - Japanese: された, サレタ, サレタ, された
+Non-Japanese: 。
+The result is same! - Japanese: 有病, ユウビョウ, ユウビョウ, ゆうびょう
+The result is same! - Japanese: 率, リツ, リツ, りつ
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 稀, マレ, マレ, まれ
+The result is same! - Japanese: な, ナ, ナ, な
+The result is same! - Japanese: 希少, キショウ, キショウ, きしょう
+The result is same! - Japanese: 疾患, シッカン, シッカン, しっかん
+The result is same! - Japanese: で, デ, デ, で
+Non-Japanese: 、
+The result is same! - Japanese: 患者数, カンジャスウ, カンジャスウ, かんじゃすう
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 日本国内, ニホンコクナイ, ニホンコクナイ, にほんこくない
+The result is same! - Japanese: で, デ, デ, で
+Non-Japanese: 100
+The result is same! - Japanese: 人前, ヒトマエ, ヒトマエ, ひとまえ
+The result is same! - Japanese: 後, ノチ, ノチ, のち
+The result is same! - Japanese: とされる, トサレル, トサレル, とされる
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 原因, ゲンイン, ゲンイン, げんいん
+The result is same! - Japanese: と, ト, ト, と
+The result is same! - Japanese: 治療, チリョウ, チリョウ, ちりょう
+Non-Japanese:  ==
+The result is same! - Japanese: 単一, タンイツ, タンイツ, たんいつ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 原因, ゲンイン, ゲンイン, げんいん
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 証明さ, ショウメイサ, ショウメイサ, しょうめいさ
+The result is same! - Japanese: れていないが, レテイナイガ, レテイナイガ, れていないが
+Non-Japanese: 、
+The result is same! - Japanese: 両側, リョウガワ, リョウガワ, りょうがわ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 大脳半球, ダイノウハンキュウ, ダイノウハンキュウ, だいのうはんきゅう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 大き, オオキ, オオキ, おおき
+The result is same! - Japanese: な, ナ, ナ, な
+The result is same! - Japanese: 萎縮, イシュク, イシュク, いしゅく
+The result is same! - Japanese: がみられる, ガミラレル, ガミラレル, がみられる
+Non-Japanese: 。
+The result is same! - Japanese: 近年, キンネン, キンネン, きんねん
+The result is same! - Japanese: いくつかの, イクツカノ, イクツカノ, いくつかの
+The result is same! - Japanese: 遺伝子, イデンシ, イデンシ, いでんし
+The result is same! - Japanese: 変異, ヘンイ, ヘンイ, へんい
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 原因, ゲンイン, ゲンイン, げんいん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 一端, イッタン, イッタン, いったん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 担っ, ニナッ, ニナッ, になっ
+The result is same! - Japanese: ていることが, テイルコトガ, テイルコトガ, ていることが
+The result is same! - Japanese: 判明, ハンメイ, ハンメイ, はんめい
+The result is same! - Japanese: しつつあり, シツツアリ, シツツアリ, しつつあり
+Non-Japanese: 、
+Non-Japanese: ARX
+Non-Japanese: ,
+Non-Japanese:  
+Non-Japanese: 、
+Non-Japanese:  CDKL5 SLC25A22 
+Non-Japanese: 、
+Non-Japanese: STXBP1 SPTAN1
+Non-Japanese: 、
+Non-Japanese:  KCNQ2 
+Non-Japanese: 、
+Non-Japanese: ARHGEF9 
+Non-Japanese: 、
+Non-Japanese: PCDH19
+Non-Japanese: 、
+Non-Japanese:  PNKP
+Non-Japanese: 、
+Non-Japanese:  SCN2A
+Non-Japanese: 、
+Non-Japanese:  PLCB1
+Non-Japanese: 、
+Non-Japanese:  SCN8A
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 関連性, カンレンセイ, カンレンセイ, かんれんせい
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 示唆さ, シササ, シササ, しささ
+The result is same! - Japanese: れている, レテイル, レテイル, れている
+Non-Japanese: 。
+The result is same! - Japanese: 治療, チリョウ, チリョウ, ちりょう
+The result is same! - Japanese: 反応, ハンノウ, ハンノウ, はんのう
+The result is same! - Japanese: 性, セイ, セイ, せい
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 乏しい, トボシイ, トボシイ, とぼしい
+The result is same! - Japanese: が, ガ, ガ, が
+Non-Japanese: 、
+The result is same! - Japanese: 治療, チリョウ, チリョウ, ちりょう
+The result is same! - Japanese: には, ニハ, ニハ, には
+The result is same! - Japanese: 抗, コウ, コウ, こう
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: 薬, クスリ, クスリ, くすり
+Non-Japanese: 、
+The result is same! - Japanese: 副腎皮質, フクジンヒシツ, フクジンヒシツ, ふくじんひしつ
+The result is same! - Japanese: ホルモン, ホルモン, ホルモン, ほるもん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is different! - Japanese: 用い, ヨウイ, モチイ, もちい
+The result is same! - Japanese: る, ル, ル, る
+Non-Japanese: 。
+The result is same! - Japanese: 脳, ノウ, ノウ, のう
+The result is same! - Japanese: 形成, ケイセイ, ケイセイ, けいせい
+The result is same! - Japanese: 異常な, イジョウナ, イジョウナ, いじょうな
+The result is same! - Japanese: どが, ドガ, ドガ, どが
+The result is same! - Japanese: 原因, ゲンイン, ゲンイン, げんいん
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 手術, シュジュツ, シュジュツ, しゅじゅつ
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 可能な, カノウナ, カノウナ, かのうな
+The result is same! - Japanese: 例, レイ, レイ, れい
+The result is same! - Japanese: では, デハ, デハ, では
+Non-Japanese: 、
+The result is same! - Japanese: 早期, ソウキ, ソウキ, そうき
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 外科, ゲカ, ゲカ, げか
+The result is same! - Japanese: 治療, チリョウ, チリョウ, ちりょう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 行う, オコナウ, オコナウ, おこなう
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 脚注, キャクチュウ, キャクチュウ, きゃくちゅう
+Non-Japanese:  ==
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 関連項目, カンレンコウモク, カンレンコウモク, かんれんこうもく
+Non-Japanese:  ==
+The result is same! - Japanese: 点頭, テントウ, テントウ, てんとう
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん

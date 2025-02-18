@@ -1,0 +1,167 @@
+The result is same! - Japanese: カテゴリ, カテゴリ, カテゴリ, かてごり
+Non-Japanese: : 1967
+The result is different! - Japanese: 年, トシ, ネン, ねん
+The result is same! - Japanese: 設立, セツリツ, セツリツ, せつりつ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 組織, ソシキ, ソシキ, そしき
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: すべての, スベテノ, スベテノ, すべての
+The result is same! - Japanese: スタブ, スタブ, スタブ, すたぶ
+The result is same! - Japanese: 記事, キジ, キジ, きじ
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 一般, イッパン, イッパン, いっぱん
+The result is same! - Japanese: 社団法人, シャダンホウジン, シャダンホウジン, しゃだんほうじん
+Non-Japanese:  (
+The result is same! - Japanese: 学術団体, ガクジュツダンタイ, ガクジュツダンタイ, がくじゅつだんたい
+Non-Japanese: )
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 医学関連, イガクカンレン, イガクカンレン, いがくかんれん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: スタブ, スタブ, スタブ, すたぶ
+The result is same! - Japanese: 項目, コウモク, コウモク, こうもく
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 小平市, コダイラシ, コダイラシ, こだいらし
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 一般, イッパン, イッパン, いっぱん
+The result is same! - Japanese: 社団法人, シャダンホウジン, シャダンホウジン, しゃだんほうじん
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 特筆, トクヒツ, トクヒツ, とくひつ
+The result is same! - Japanese: 性, セイ, セイ, せい
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 基準, キジュン, キジュン, きじゅん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 満た, ミタ, ミタ, みた
+The result is same! - Japanese: していないおそれのある, シテイナイオソレノアル, シテイナイオソレノアル, していないおそれのある
+The result is same! - Japanese: 記事, キジ, キジ, きじ
+Non-Japanese: /2015
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 8
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: 
+The result is same! - Japanese: 一般, イッパン, イッパン, いっぱん
+The result is same! - Japanese: 社団法人, シャダンホウジン, シャダンホウジン, しゃだんほうじん
+The result is same! - Japanese: 日本, ニッポン, ニッポン, にっぽん
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: 学会, ガッカイ, ガッカイ, がっかい
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 、
+Non-Japanese: 1967
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 4
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: 6
+The result is different! - Japanese: 日, ヒ, ニチ, にち
+The result is same! - Japanese: にてんかん, ニテンカン, ニテンカン, にてんかん
+The result is same! - Japanese: 学, ガク, ガク, がく
+The result is same! - Japanese: 並び, ナラビ, ナラビ, ならび
+The result is same! - Japanese: にこれと, ニコレト, ニコレト, にこれと
+The result is same! - Japanese: 関連す, カンレンス, カンレンス, かんれんす
+The result is same! - Japanese: る, ル, ル, る
+The result is same! - Japanese: 学術, ガクジュツ, ガクジュツ, がくじゅつ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 進歩, シンポ, シンポ, しんぽ
+The result is same! - Japanese: 向上, コウジョウ, コウジョウ, こうじょう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 図る, ハカル, ハカル, はかる
+The result is same! - Japanese: ことを, コトヲ, コトヲ, ことを
+The result is same! - Japanese: 目的, モクテキ, モクテキ, もくてき
+The result is same! - Japanese: として, トシテ, トシテ, として
+Non-Japanese: 、
+The result is same! - Japanese: 医師, イシ, イシ, いし
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 中心, チュウシン, チュウシン, ちゅうしん
+The result is same! - Japanese: として, トシテ, トシテ, として
+The result is same! - Japanese: 設立, セツリツ, セツリツ, せつりつ
+The result is same! - Japanese: された, サレタ, サレタ, された
+The result is same! - Japanese: 学術団体, ガクジュツダンタイ, ガクジュツダンタイ, がくじゅつだんたい
+The result is same! - Japanese: である, デアル, デアル, である
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 学会誌, ガッカイシ, ガッカイシ, がっかいし
+Non-Japanese:  ==
+Non-Japanese: Epilepsy & Seizure
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: 研究, ケンキュウ, ケンキュウ, けんきゅう
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 年次, ネンジ, ネンジ, ねんじ
+The result is same! - Japanese: 学術, ガクジュツ, ガクジュツ, がくじゅつ
+The result is same! - Japanese: 総会, ソウカイ, ソウカイ, そうかい
+Non-Japanese:  ==
+The result is same! - Japanese: 日本, ニッポン, ニッポン, にっぽん
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: 学会, ガッカイ, ガッカイ, がっかい
+Non-Japanese:  
+The result is same! - Japanese: 年次, ネンジ, ネンジ, ねんじ
+The result is same! - Japanese: 学術, ガクジュツ, ガクジュツ, がくじゅつ
+The result is same! - Japanese: 集会, シュウカイ, シュウカイ, しゅうかい
+The result is same! - Japanese: 国際, コクサイ, コクサイ, こくさい
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: 学会, ガッカイ, ガッカイ, がっかい
+The result is same! - Japanese: 議, ギ, ギ, ぎ
+The result is same! - Japanese: アジア・オセアニア, アジア・オセアニア, アジア・オセアニア, あじあ・おせあにあ
+Non-Japanese: 　
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: 学会, ガッカイ, ガッカイ, がっかい
+The result is same! - Japanese: 議, ギ, ギ, ぎ
+Non-Japanese: JES-KES
+The result is same! - Japanese: シンポジウム, シンポジウム, シンポジウム, しんぽじうむ
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 学会, ガッカイ, ガッカイ, がっかい
+The result is same! - Japanese: 賞, ショウ, ショウ, しょう
+The result is same! - Japanese: ・, ・, ・, ・
+The result is same! - Japanese: 助成, ジョセイ, ジョセイ, じょせい
+Non-Japanese:  ==
+Non-Japanese: JUHN AND MARY WADA
+The result is same! - Japanese: 奨励賞, ショウレイショウ, ショウレイショウ, しょうれいしょう
+Non-Japanese: JES Prize
+The result is same! - Japanese: 優秀, ユウシュウ, ユウシュウ, ゆうしゅう
+The result is same! - Japanese: ポスター, ポスター, ポスター, ぽすたー
+The result is same! - Japanese: 賞, ショウ, ショウ, しょう
+The result is same! - Japanese: 日本, ニッポン, ニッポン, にっぽん
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: 学会, ガッカイ, ガッカイ, がっかい
+Non-Japanese: Sponsored Award
+Non-Japanese: JES
+The result is same! - Japanese: スカラーシップ, スカラーシップ, スカラーシップ, すからーしっぷ
+The result is same! - Japanese: 日本, ニッポン, ニッポン, にっぽん
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: 学会, ガッカイ, ガッカイ, がっかい
+The result is same! - Japanese: 功労賞, コウロウショウ, コウロウショウ, こうろうしょう
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 脚注, キャクチュウ, キャクチュウ, きゃくちゅう
+Non-Japanese:  ==
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 関連項目, カンレンコウモク, カンレンコウモク, かんれんこうもく
+Non-Japanese:  ==
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: 日本, ニッポン, ニッポン, にっぽん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 学会, ガッカイ, ガッカイ, がっかい
+The result is same! - Japanese: 一覧, イチラン, イチラン, いちらん
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 外部, ガイブ, ガイブ, がいぶ
+The result is same! - Japanese: リンク, リンク, リンク, りんく
+Non-Japanese:  ==
+The result is same! - Japanese: 日本, ニッポン, ニッポン, にっぽん
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: 学会, ガッカイ, ガッカイ, がっかい
