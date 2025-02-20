@@ -1,0 +1,41 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.content-container {
+  display: flex;
+  width: 100%;
+  max-width: 1000px;
+  justify-content: space-between;
+}
+
+.prompt-content,
+.input-content {
+  width: 500px;
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+}
+
+.answer-selection {
+  width: 500px;
+  margin-top: 20px;
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+}
+
+input[type="text"] {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.save-button {
+  margin-top: 20px;
+}
