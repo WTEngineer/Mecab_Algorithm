@@ -23,7 +23,7 @@ PJ_ID = 'Shourei_Imai'
 
 def parse_args():
     parser = ArgumentParser()
-    parser.add_argument('user_prompt_txt')
+    parser.add_argument('user_prompt_txt', default="./03_prompt_to_pickup_words.txt")
     parser.add_argument('input_file')
     parser.add_argument('-o', '--out-dir', default='data/auto_shinsatsu/')
     parser.add_argument('-r', '--n-max-request', type=int, default=2)
