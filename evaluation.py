@@ -97,6 +97,7 @@ for line in lines:
     matches = find_elements_in_text_with_classification(line)
     
     for segment in matches:
+        # print(segment)
         if segment['match']:
             if segment['type'] == 'Number':
                 number = int(segment['text'])
@@ -106,6 +107,8 @@ for line in lines:
                 date = segment['text']
                 katakana = date_to_katakana(date)
                 line_result.append(katakana)  # Append converted date to line_result
+            elif segment['type'] == 'English Text':
+                line_result.append(segment['text'])
             elif segment['type'] == 'Special Character':
                 special_char = segment['text']
                 katakana = special_character_to_katakana(special_char)

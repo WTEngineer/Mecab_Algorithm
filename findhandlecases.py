@@ -1,9 +1,9 @@
 import re
 
 def classify_match(match):
-    # Get the matched text
+    """Classifies a match as Date, Year, Month, Day, Number, Special Character, English Text, or Unknown."""
     text = match.group(0)
-    
+
     # Classify based on pattern
     if re.match(r"\d{4}年\d{1,2}月\d{1,2}日", text):  # Full date (e.g., 2013年9月10日)
         return 'Date'
@@ -15,40 +15,42 @@ def classify_match(match):
         return 'Day'
     elif re.match(r"\d+", text):  # Any number (e.g., 1234)
         return 'Number'
-    elif re.match(r"[.,・;:!?()（）{}[\]<>\"'`~、。！；/～「」『』]", text):  # Special characters
+    elif re.match(r"[A-Za-z]+", text):  # Check if it contains English letters
+        return 'English Text'
+    elif re.match(r"[.,・;:!?()（）{}[\]<>\"'~、。！；/～「」『』]", text):  # Special characters
         return 'Special Character'
     else:
         return 'Unknown'
 
-# Function to find elements in the text (dates, numbers, punctuations) and classify them
+# Function to find elements in the text (dates, numbers, punctuations, English words) and classify them
 def find_elements_in_text_with_classification(text):
-    pattern = r"(\d{4}年\d{1,2}月\d{1,2}日|\d{4}年|\d{1,2}月 \d{1,2}日|\d{1,2}月|\d{1,2}日|\d+|[.,・;:!?()（）{}[\]<>\"'`~、。！；/～「」『』])"
-    
+    pattern = r"(\d{4}年\d{1,2}月\d{1,2}日|\d{4}年|\d{1,2}月 \d{1,2}日|\d{1,2}月|\d{1,2}日|\d+|[A-Za-z]+|[.,・;:!?()（）{}[\]<>\"'~、。！；/～「」『』])"
+
     # Use re.finditer to get matches along with their positions
     matches = re.finditer(pattern, text)
-    
+
     result = []
     last_end = 0  # Keep track of the last match's end position
-    
+
     for match in matches:
         match_text = match.group(0)  # The matched text
         match_type = classify_match(match)  # Classify the match
-        
+
         # Append non-matching text before the current match
         if match.start() > last_end:
             non_match_text = text[last_end:match.start()]  # Non-matching text
             result.append({'text': non_match_text, 'match': False, 'type': 'Non-matching'})
-        
+
         # Append the matched text with its type
         result.append({'text': match_text, 'match': True, 'type': match_type})
-        
+
         # Update last_end to the end position of the current match
         last_end = match.end()
-    
+
     # Append any remaining non-matching text after the last match
     if last_end < len(text):
         result.append({'text': text[last_end:], 'match': False, 'type': 'Non-matching'})
-    
+
     return result
 
 # Dictionary to map numbers to Katakana
