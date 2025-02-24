@@ -1,1196 +1,1448 @@
-The result is same! - Japanese: 乳癌, ニュウガン, ニュウガン, にゅうがん
-The result is same! - Japanese: う, ウ, ウ, う
-The result is same! - Japanese: 歯, ハ, ハ, は
-The result is same! - Japanese: 胃癌, イガン, イガン, いがん
-The result is same! - Japanese: 肺癌, ハイガン, ハイガン, はいがん
-The result is same! - Japanese: 感冒, カンボウ, カンボウ, かんぼう
-The result is same! - Japanese: 潰瘍, カイヨウ, カイヨウ, かいよう
-The result is different! - Japanese: 歯痛, シツウ, ハイタ, はいた
-The result is same! - Japanese: 喘息, ゼンソク, ゼンソク, ぜんそく
-The result is same! - Japanese: 肺癌, ハイガン, ハイガン, はいがん
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-The result is same! - Japanese: 不眠, フミン, フミン, ふみん
-The result is same! - Japanese: 胃癌, イガン, イガン, いがん
-The result is different! - Japanese: 腹痛, ハライタ, フクツウ, ふくつう
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-The result is different! - Japanese: 黄染, キソメ, オウセン, おうせん
-The result is same! - Japanese: 胃癌, イガン, イガン, いがん
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-The result is same! - Japanese: 貧血, ヒンケツ, ヒンケツ, ひんけつ
-The result is same! - Japanese: 胃癌, イガン, イガン, いがん
-The result is same! - Japanese: う, ウ, ウ, う
-The result is same! - Japanese: 歯, ハ, ハ, は
-The result is same! - Japanese: 肺癌, ハイガン, ハイガン, はいがん
-The result is same! - Japanese: 胃癌, イガン, イガン, いがん
-The result is same! - Japanese: 肺癌, ハイガン, ハイガン, はいがん
-The result is same! - Japanese: 貧血, ヒンケツ, ヒンケツ, ひんけつ
-The result is same! - Japanese: 貧血, ヒンケツ, ヒンケツ, ひんけつ
-The result is same! - Japanese: 熱傷, ネッショウ, ネッショウ, ねっしょう
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-The result is same! - Japanese: 胃癌, イガン, イガン, いがん
-The result is same! - Japanese: 血尿, ケツニョウ, ケツニョウ, けつにょう
-The result is same! - Japanese: 腺癌, センガン, センガン, せんがん
-The result is different! - Japanese: 黄染, キソメ, オウセン, おうせん
-The result is same! - Japanese: 梅毒, バイドク, バイドク, ばいどく
-The result is same! - Japanese: 貧血, ヒンケツ, ヒンケツ, ひんけつ
-The result is same! - Japanese: 胃癌, イガン, イガン, いがん
-The result is same! - Japanese: 血尿, ケツニョウ, ケツニョウ, けつにょう
-The result is same! - Japanese: 腫大, シュダイ, シュダイ, しゅだい
-The result is same! - Japanese: 乳癌, ニュウガン, ニュウガン, にゅうがん
-The result is same! - Japanese: 腰痛, ヨウツウ, ヨウツウ, ようつう
-The result is same! - Japanese: 乳癌, ニュウガン, ニュウガン, にゅうがん
-The result is same! - Japanese: 黄疸, オウダン, オウダン, おうだん
-The result is different! - Japanese: 腹痛, ハライタ, フクツウ, ふくつう
-The result is same! - Japanese: 咳嗽, ガイソウ, ガイソウ, がいそう
-The result is same! - Japanese: 胃癌, イガン, イガン, いがん
-The result is same! - Japanese: 膵癌, スイガン, スイガン, すいがん
-The result is same! - Japanese: 肺癌, ハイガン, ハイガン, はいがん
-The result is same! - Japanese: 肺癌, ハイガン, ハイガン, はいがん
-The result is same! - Japanese: 尿糖, ニョウトウ, ニョウトウ, にょうとう
-The result is same! - Japanese: 胃癌, イガン, イガン, いがん
-The result is different! - Japanese: 頻尿, シキニョウ, ヒンニョウ, ひんにょう
-The result is same! - Japanese: 貧血, ヒンケツ, ヒンケツ, ひんけつ
-The result is same! - Japanese: 虹, ニジ, ニジ, にじ
-The result is different! - Japanese: 視, ミ, シ, し
-The result is different! - Japanese: 眼痛, メツウ, ガンツウ, がんつう
-The result is same! - Japanese: 頭痛, ズツウ, ズツウ, ずつう
-The result is same! - Japanese: 肺癌, ハイガン, ハイガン, はいがん
-The result is same! - Japanese: 咳嗽, ガイソウ, ガイソウ, がいそう
-The result is same! - Japanese: 貧血, ヒンケツ, ヒンケツ, ひんけつ
-The result is same! - Japanese: 熱傷, ネッショウ, ネッショウ, ねっしょう
-The result is same! - Japanese: 肝癌, カンガン, カンガン, かんがん
-The result is same! - Japanese: 貧血, ヒンケツ, ヒンケツ, ひんけつ
-The result is same! - Japanese: 胃癌, イガン, イガン, いがん
-The result is same! - Japanese: 紫斑, シハン, シハン, しはん
-The result is different! - Japanese: 皮疹, カワ, ヒシン, ひしん
-The result is same! - Japanese: 腫脹, シュチョウ, シュチョウ, しゅちょう
-The result is same! - Japanese: 肺癌, ハイガン, ハイガン, はいがん
-The result is same! - Japanese: 発熱, ハツネツ, ハツネツ, はつねつ
-The result is different! - Japanese: 巨舌, キョウシタ, キョゼツ, きょぜつ
-The result is same! - Japanese: 昼, ヒル, ヒル, ひる
-The result is different! - Japanese: 盲, メクラ, モウ, もう
-The result is same! - Japanese: 血尿, ケツニョウ, ケツニョウ, けつにょう
-The result is different! - Japanese: 帯下, オビカ, タイゲ, たいげ
-The result is same! - Japanese: 貧血, ヒンケツ, ヒンケツ, ひんけつ
-The result is different! - Japanese: 黄染, キソメ, オウセン, おうせん
-The result is same! - Japanese: 喘鳴, ゼンメイ, ゼンメイ, ぜんめい
-The result is same! - Japanese: 喘鳴, ゼンメイ, ゼンメイ, ぜんめい
-The result is same! - Japanese: 胃癌, イガン, イガン, いがん
-The result is same! - Japanese: 胃癌, イガン, イガン, いがん
-The result is same! - Japanese: 乳癌, ニュウガン, ニュウガン, にゅうがん
-The result is same! - Japanese: 胃癌, イガン, イガン, いがん
-The result is same! - Japanese: 解離, カイリ, カイリ, かいり
-The result is different! - Japanese: 浮腫, ムクミ, フシュ, ふしゅ
-The result is same! - Japanese: 膵癌, スイガン, スイガン, すいがん
-The result is same! - Japanese: 胃癌, イガン, イガン, いがん
-The result is same! - Japanese: 肺癌, ハイガン, ハイガン, はいがん
-The result is different! - Japanese: 麻疹, ハシカ, マシン, ましん
-The result is same! - Japanese: 肺癌, ハイガン, ハイガン, はいがん
-The result is same! - Japanese: 乳癌, ニュウガン, ニュウガン, にゅうがん
-The result is same! - Japanese: 貧血, ヒンケツ, ヒンケツ, ひんけつ
-The result is same! - Japanese: せん, セン, セン, せん
-The result is different! - Japanese: 妄, , モウ, もう
-The result is same! - Japanese: 網膜症, モウマクショウ, モウマクショウ, もうまくしょう
-The result is same! - Japanese: 胃腸, イチョウ, イチョウ, いちょう
-The result is same! - Japanese: 炎, ホノオ, ホノオ, ほのお
-The result is same! - Japanese: 尿, ニョウ, ニョウ, にょう
-The result is same! - Japanese: 失禁, シッキン, シッキン, しっきん
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 脳, ノウ, ノウ, のう
-The result is same! - Japanese: 梗塞, コウソク, コウソク, こうそく
-The result is same! - Japanese: 蕁麻疹, ジンマシン, ジンマシン, じんましん
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 肺, ハイ, ハイ, はい
-The result is different! - Japanese: 腫瘤, シュコブ, シュリュウ, しゅりゅう
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 認知, ニンチ, ニンチ, にんち
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 脳出血, ノウシュッケツ, ノウシュッケツ, のうしゅっけつ
-The result is same! - Japanese: 大腸, ダイチョウ, ダイチョウ, だいちょう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 骨, ホネ, ホネ, ほね
-The result is same! - Japanese: 病変, ビョウヘン, ビョウヘン, びょうへん
-The result is same! - Japanese: 胆管, タンカン, タンカン, たんかん
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 脳, ノウ, ノウ, のう
-The result is same! - Japanese: 梗塞, コウソク, コウソク, こうそく
-The result is same! - Japanese: 肝硬変, カンコウヘン, カンコウヘン, かんこうへん
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 不眠症, フミンショウ, フミンショウ, ふみんしょう
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 大腸, ダイチョウ, ダイチョウ, だいちょう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 結腸, ケッチョウ, ケッチョウ, けっちょう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 肺結核, ハイケッカク, ハイケッカク, はいけっかく
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is different! - Japanese: 高, コウ, タカ, たか
-The result is same! - Japanese: 血糖, ケットウ, ケットウ, けっとう
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 脳, ノウ, ノウ, のう
-The result is same! - Japanese: 梗塞, コウソク, コウソク, こうそく
-The result is same! - Japanese: 心, ココロ, ココロ, こころ
-The result is same! - Japanese: 停止, テイシ, テイシ, ていし
-The result is same! - Japanese: 脳出血, ノウシュッケツ, ノウシュッケツ, のうしゅっけつ
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is different! - Japanese: 高, コウ, タカ, たか
-The result is same! - Japanese: 血糖, ケットウ, ケットウ, けっとう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 僧帽, ソウボウ, ソウボウ, そうぼう
-The result is same! - Japanese: 弁, ベン, ベン, べん
-The result is same! - Japanese: 卵巣, ランソウ, ランソウ, らんそう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 肺, ハイ, ハイ, はい
-The result is same! - Japanese: 腺癌, センガン, センガン, せんがん
-The result is same! - Japanese: 心, ココロ, ココロ, こころ
-The result is same! - Japanese: 奇形, キケイ, キケイ, きけい
-The result is same! - Japanese: 脳出血, ノウシュッケツ, ノウシュッケツ, のうしゅっけつ
-The result is different! - Japanese: 無月, ムゲツ, ナツキ, なつき
-The result is same! - Japanese: 経, ケイ, ケイ, けい
-The result is same! - Japanese: 脳卒中, ノウソッチュウ, ノウソッチュウ, のうそっちゅう
-The result is same! - Japanese: 白内障, ハクナイショウ, ハクナイショウ, はくないしょう
-The result is same! - Japanese: 便秘, ベンピ, ベンピ, べんぴ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is different! - Japanese: 無月, ムゲツ, ナツキ, なつき
-The result is same! - Japanese: 経, ケイ, ケイ, けい
-The result is same! - Japanese: 花粉症, カフンショウ, カフンショウ, かふんしょう
-The result is different! - Japanese: 低, ヒク, テイ, てい
-The result is same! - Japanese: 血糖, ケットウ, ケットウ, けっとう
-The result is same! - Japanese: 心不全, シンフゼン, シンフゼン, しんふぜん
-The result is same! - Japanese: 脳, ノウ, ノウ, のう
-The result is same! - Japanese: 梗塞, コウソク, コウソク, こうそく
-The result is same! - Japanese: 咽頭, イントウ, イントウ, いんとう
-The result is different! - Japanese: 痛, イタ, ツウ, つう
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 結核菌, ケッカクキン, ケッカクキン, けっかくきん
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 心不全, シンフゼン, シンフゼン, しんふぜん
-The result is same! - Japanese: 脳, ノウ, ノウ, のう
-The result is same! - Japanese: 梗塞, コウソク, コウソク, こうそく
-The result is same! - Japanese: 心, ココロ, ココロ, こころ
-The result is same! - Japanese: 停止, テイシ, テイシ, ていし
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 大腸, ダイチョウ, ダイチョウ, だいちょう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 脳, ノウ, ノウ, のう
-The result is same! - Japanese: 梗塞, コウソク, コウソク, こうそく
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 認知, ニンチ, ニンチ, にんち
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 不眠症, フミンショウ, フミンショウ, ふみんしょう
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 大腸, ダイチョウ, ダイチョウ, だいちょう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 脳, ノウ, ノウ, のう
-The result is same! - Japanese: 梗塞, コウソク, コウソク, こうそく
-The result is different! - Japanese: 膵, , スイ, すい
-The result is same! - Japanese: 腫瘍, シュヨウ, シュヨウ, しゅよう
-The result is same! - Japanese: 認知, ニンチ, ニンチ, にんち
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 肺結核, ハイケッカク, ハイケッカク, はいけっかく
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is different! - Japanese: 水腎, ミズジン, スイジン, すいじん
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 直腸, チョクチョウ, チョクチョウ, ちょくちょう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 心不全, シンフゼン, シンフゼン, しんふぜん
-The result is same! - Japanese: 肺, ハイ, ハイ, はい
-The result is same! - Japanese: 腺癌, センガン, センガン, せんがん
-The result is same! - Japanese: 精神科, セイシンカ, セイシンカ, せいしんか
-The result is same! - Japanese: 右乳, ミギチチ, ミギチチ, みぎちち
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 心, ココロ, ココロ, こころ
-The result is same! - Japanese: 停止, テイシ, テイシ, ていし
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 前立腺, ゼンリツセン, ゼンリツセン, ぜんりつせん
-The result is same! - Japanese: 狭心症, キョウシンショウ, キョウシンショウ, きょうしんしょう
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 肺, ハイ, ハイ, はい
-The result is same! - Japanese: 転移, テンイ, テンイ, てんい
-The result is same! - Japanese: コレラ, コレラ, コレラ, これら
-The result is same! - Japanese: せん, セン, セン, せん
-The result is different! - Japanese: 妄, , モウ, もう
-The result is same! - Japanese: 不妊, フニン, フニン, ふにん
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 狭心症, キョウシンショウ, キョウシンショウ, きょうしんしょう
-The result is same! - Japanese: 不眠症, フミンショウ, フミンショウ, ふみんしょう
-The result is same! - Japanese: 胆石, タンセキ, タンセキ, たんせき
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 大腸, ダイチョウ, ダイチョウ, だいちょう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: うっ, ウッ, ウッ, うっ
-The result is same! - Japanese: 血, チ, チ, ち
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 脳, ノウ, ノウ, のう
-The result is same! - Japanese: 梗塞, コウソク, コウソク, こうそく
-The result is same! - Japanese: 脳出血, ノウシュッケツ, ノウシュッケツ, のうしゅっけつ
-The result is same! - Japanese: 脳, ノウ, ノウ, のう
-The result is same! - Japanese: 梗塞, コウソク, コウソク, こうそく
-The result is same! - Japanese: 脳, ノウ, ノウ, のう
-The result is same! - Japanese: 萎縮, イシュク, イシュク, いしゅく
-The result is same! - Japanese: 橋本, ハシモト, ハシモト, はしもと
-The result is different! - Japanese: 病, ヤマイ, ビョウ, びょう
-The result is same! - Japanese: 不眠症, フミンショウ, フミンショウ, ふみんしょう
-The result is different! - Japanese: 高, コウ, タカ, たか
-The result is same! - Japanese: 血糖, ケットウ, ケットウ, けっとう
-The result is same! - Japanese: 腎, ジン, ジン, じん
-The result is same! - Japanese: 障害, ショウガイ, ショウガイ, しょうがい
-The result is different! - Japanese: 左眼, ヒダリメ, サガン, さがん
-The result is different! - Japanese: 痛, イタ, ツウ, つう
-The result is same! - Japanese: 自然, シゼン, シゼン, しぜん
-The result is same! - Japanese: 気胸, キキョウ, キキョウ, ききょう
-The result is same! - Japanese: 進行, シンコウ, シンコウ, しんこう
-The result is same! - Japanese: 胃癌, イガン, イガン, いがん
-The result is same! - Japanese: 眼, メ, メ, め
-The result is same! - Japanese: 位, クライ, クライ, くらい
-The result is same! - Japanese: 異常, イジョウ, イジョウ, いじょう
-The result is same! - Japanese: 右上, ミギウエ, ミギウエ, みぎうえ
-The result is same! - Japanese: 顎, アゴ, アゴ, あご
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 急性, キュウセイ, キュウセイ, きゅうせい
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-Non-Japanese: C
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 肝炎, カンエン, カンエン, かんえん
-Non-Japanese: B
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 肝炎, カンエン, カンエン, かんえん
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 夜間, ヤカン, ヤカン, やかん
-The result is same! - Japanese: 不眠, フミン, フミン, ふみん
-The result is same! - Japanese: 肺, ハイ, ハイ, はい
-The result is same! - Japanese: 動脈, ドウミャク, ドウミャク, どうみゃく
-The result is different! - Japanese: 圧, , アツ, あつ
-The result is same! - Japanese: 意識, イシキ, イシキ, いしき
-The result is same! - Japanese: 消失, ショウシツ, ショウシツ, しょうしつ
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is different! - Japanese: 頸部, , ケイブ, けいぶ
-The result is same! - Japanese: 骨折, コッセツ, コッセツ, こっせつ
-The result is same! - Japanese: 呼吸困難, コキュウコンナン, コキュウコンナン, こきゅうこんなん
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 骨粗鬆症, コツソショウショウ, コツソショウショウ, こつそしょうしょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 心房細動, シンボウサイドウ, シンボウサイドウ, しんぼうさいどう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 圧迫, アッパク, アッパク, あっぱく
-The result is same! - Japanese: 骨折, コッセツ, コッセツ, こっせつ
-The result is same! - Japanese: 卵巣, ランソウ, ランソウ, らんそう
-The result is different! - Japanese: 嚢腫, , ノウシュ, のうしゅ
-The result is same! - Japanese: イレウス, イレウス, イレウス, いれうす
-The result is same! - Japanese: 肝, キモ, キモ, きも
-The result is same! - Japanese: 細胞, サイボウ, サイボウ, さいぼう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 呼吸困難, コキュウコンナン, コキュウコンナン, こきゅうこんなん
-The result is same! - Japanese: 嚥下, エンカ, エンカ, えんか
-The result is same! - Japanese: 障害, ショウガイ, ショウガイ, しょうがい
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 心筋梗塞, シンキンコウソク, シンキンコウソク, しんきんこうそく
-The result is same! - Japanese: 心房細動, シンボウサイドウ, シンボウサイドウ, しんぼうさいどう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 子宮, シキュウ, シキュウ, しきゅう
-The result is same! - Japanese: 筋腫, キンシュ, キンシュ, きんしゅ
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: リウマチ, リウマチ, リウマチ, りうまち
-The result is same! - Japanese: 呼吸, コキュウ, コキュウ, こきゅう
-The result is same! - Japanese: 障害, ショウガイ, ショウガイ, しょうがい
-The result is same! - Japanese: 停留, テイリュウ, テイリュウ, ていりゅう
-The result is same! - Japanese: 精巣, セイソウ, セイソウ, せいそう
-The result is same! - Japanese: 意識, イシキ, イシキ, いしき
-The result is same! - Japanese: 障害, ショウガイ, ショウガイ, しょうがい
-The result is different! - Japanese: 右片, ミギヘン, ウヘン, うへん
-The result is same! - Japanese: 麻痺, マヒ, マヒ, まひ
-The result is same! - Japanese: 前立腺, ゼンリツセン, ゼンリツセン, ぜんりつせん
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 上気, ジョウキ, ジョウキ, じょうき
-The result is same! - Japanese: 道, ミチ, ミチ, みち
-The result is same! - Japanese: 炎, ホノオ, ホノオ, ほのお
-The result is same! - Japanese: 項部, コウブ, コウブ, こうぶ
-The result is same! - Japanese: 硬直, コウチョク, コウチョク, こうちょく
-The result is same! - Japanese: 心房細動, シンボウサイドウ, シンボウサイドウ, しんぼうさいどう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-Non-Japanese: COPD
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 幽門, ユウモン, ユウモン, ゆうもん
-The result is same! - Japanese: 狭窄, キョウサク, キョウサク, きょうさく
-The result is same! - Japanese: 心筋梗塞, シンキンコウソク, シンキンコウソク, しんきんこうそく
-The result is same! - Japanese: 脳室, ノウシツ, ノウシツ, のうしつ
-The result is same! - Japanese: 拡大, カクダイ, カクダイ, かくだい
-The result is different! - Japanese: 双胎, ソウ, ソウタイ, そうたい
-The result is same! - Japanese: 妊娠, ニンシン, ニンシン, にんしん
-The result is same! - Japanese: けいれん, ケイレン, ケイレン, けいれん
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 喉頭, コウトウ, コウトウ, こうとう
-The result is same! - Japanese: 腫瘍, シュヨウ, シュヨウ, しゅよう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 嚥下, エンカ, エンカ, えんか
-The result is same! - Japanese: 困難, コンナン, コンナン, こんなん
-The result is same! - Japanese: 前立腺, ゼンリツセン, ゼンリツセン, ぜんりつせん
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 洞, ホラ, ホラ, ほら
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is different! - Japanese: 頻脈, シキミャク, ヒンミャク, ひんみゃく
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 血液, ケツエキ, ケツエキ, けつえき
-The result is same! - Japanese: 疾患, シッカン, シッカン, しっかん
-The result is same! - Japanese: 自然, シゼン, シゼン, しぜん
-The result is same! - Japanese: 気胸, キキョウ, キキョウ, ききょう
-The result is different! - Japanese: 膝関節, シツカンセツ, ヒザカンセツ, ひざかんせつ
-The result is different! - Japanese: 痛, イタ, ツウ, つう
-The result is same! - Japanese: 呼吸, コキュウ, コキュウ, こきゅう
-The result is same! - Japanese: 障害, ショウガイ, ショウガイ, しょうがい
-The result is same! - Japanese: 腹膜, フクマク, フクマク, ふくまく
-The result is different! - Japanese: 播, ハリ, バン, ばん
-The result is same! - Japanese: 腫, シュ, シュ, しゅ
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 心肺, シンパイ, シンパイ, しんぱい
-The result is same! - Japanese: 蘇生, ソセイ, ソセイ, そせい
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 心筋梗塞, シンキンコウソク, シンキンコウソク, しんきんこうそく
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 呼吸困難, コキュウコンナン, コキュウコンナン, こきゅうこんなん
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is different! - Japanese: 左室, ヒダリシツ, サシツ, さしつ
-The result is same! - Japanese: 肥大, ヒダイ, ヒダイ, ひだい
-The result is same! - Japanese: 尿糖, ニョウトウ, ニョウトウ, にょうとう
-The result is same! - Japanese: 陽性, ヨウセイ, ヨウセイ, ようせい
-The result is different! - Japanese: 膵頭, , スイトウ, すいとう
-The result is same! - Japanese: 部, ブ, ブ, ぶ
-The result is same! - Japanese: 癌, ガン, ガン, がん
-Non-Japanese: COPD
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 骨粗鬆症, コツソショウショウ, コツソショウショウ, こつそしょうしょう
-The result is same! - Japanese: 皮下, ヒカ, ヒカ, ひか
-The result is same! - Japanese: 血腫, ケッシュ, ケッシュ, けっしゅ
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 心房細動, シンボウサイドウ, シンボウサイドウ, しんぼうさいどう
-The result is same! - Japanese: 急性, キュウセイ, キュウセイ, きゅうせい
-The result is same! - Japanese: 増悪, ゾウアク, ゾウアク, ぞうあく
-The result is same! - Japanese: 開放, カイホウ, カイホウ, かいほう
-The result is same! - Japanese: 骨折, コッセツ, コッセツ, こっせつ
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 右肺, ミギハイ, ミギハイ, みぎはい
-The result is same! - Japanese: 腺癌, センガン, センガン, せんがん
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-The result is same! - Japanese: 球菌, キュウキン, キュウキン, きゅうきん
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 血液, ケツエキ, ケツエキ, けつえき
-The result is same! - Japanese: 疾患, シッカン, シッカン, しっかん
-The result is same! - Japanese: 悪性, アクセイ, アクセイ, あくせい
-The result is same! - Japanese: 細胞, サイボウ, サイボウ, さいぼう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 骨粗鬆症, コツソショウショウ, コツソショウショウ, こつそしょうしょう
-The result is same! - Japanese: 頭部, トウブ, トウブ, とうぶ
-The result is same! - Japanese: 外傷, ガイショウ, ガイショウ, がいしょう
+The result is same! - Japanese: カテゴリ, カテゴリ, カテゴリ, かてごり
+Non-Japanese: : 2012
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 4
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: ,
+Non-Japanese:  2012
+The result is different! - Japanese: 年, トシ, ネン, ねん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 日本, ニッポン, ニッポン, にっぽん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 事件, ジケン, ジケン, じけん
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: すべての, スベテノ, スベテノ, すべての
+The result is same! - Japanese: スタブ, スタブ, スタブ, すたぶ
+The result is same! - Japanese: 記事, キジ, キジ, きじ
+Non-Japanese: ,
+Non-Japanese:  
 The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
-The result is same! - Japanese: 子宮, シキュウ, シキュウ, しきゅう
-The result is different! - Japanese: 頸癌, , ケイガン, けいがん
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is different! - Japanese: 食思, ショクシタウ, ショクシ, しょくし
-The result is same! - Japanese: 不振, フシン, フシン, ふしん
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is different! - Japanese: 副鼻腔炎, フクビクウエン, フクビコウエン, ふくびこうえん
-The result is same! - Japanese: 心房細動, シンボウサイドウ, シンボウサイドウ, しんぼうさいどう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is different! - Japanese: 縦隔, タテ, ジュウカク, じゅうかく
-The result is same! - Japanese: 腫瘍, シュヨウ, シュヨウ, しゅよう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is different! - Japanese: 軟部, , ナンブ, なんぶ
-The result is same! - Japanese: 肉腫, ニクシュ, ニクシュ, にくしゅ
-The result is same! - Japanese: 嚥下, エンカ, エンカ, えんか
-The result is same! - Japanese: 障害, ショウガイ, ショウガイ, しょうがい
-The result is different! - Japanese: 構音, カマエオト, コウオン, こうおん
-The result is same! - Japanese: 障害, ショウガイ, ショウガイ, しょうがい
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 眼瞼, ガンケン, ガンケン, がんけん
-The result is same! - Japanese: 下垂, カスイ, カスイ, かすい
-The result is same! - Japanese: 外, ソト, ソト, そと
-The result is same! - Japanese: 尿道, ニョウドウ, ニョウドウ, にょうどう
-The result is same! - Japanese: 口, クチ, クチ, くち
-The result is same! - Japanese: 下腹部, カフクブ, カフクブ, かふくぶ
-The result is different! - Japanese: 痛, イタ, ツウ, つう
-The result is same! - Japanese: 胎動, タイドウ, タイドウ, たいどう
-The result is same! - Japanese: 消失, ショウシツ, ショウシツ, しょうしつ
-The result is same! - Japanese: けいれん, ケイレン, ケイレン, けいれん
-The result is same! - Japanese: 洞, ホラ, ホラ, ほら
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is different! - Japanese: 頻脈, シキミャク, ヒンミャク, ひんみゃく
-The result is same! - Japanese: 帯状疱疹, タイジョウホウシン, タイジョウホウシン, たいじょうほうしん
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 乾性, カンセイ, カンセイ, かんせい
-The result is same! - Japanese: 咳嗽, ガイソウ, ガイソウ, がいそう
-The result is same! - Japanese: 帯状疱疹, タイジョウホウシン, タイジョウホウシン, たいじょうほうしん
-The result is different! - Japanese: 膵頭, , スイトウ, すいとう
-The result is same! - Japanese: 部, ブ, ブ, ぶ
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 悪液, アクエキ, アクエキ, あくえき
-The result is same! - Japanese: 質, シツ, シツ, しつ
-The result is same! - Japanese: 呼吸困難, コキュウコンナン, コキュウコンナン, こきゅうこんなん
-The result is same! - Japanese: 胸, ムネ, ムネ, むね
-The result is same! - Japanese: 背部, ハイブ, ハイブ, はいぶ
-The result is different! - Japanese: 痛, イタ, ツウ, つう
-The result is same! - Japanese: 息苦しさ, イキグルシサ, イキグルシサ, いきぐるしさ
-The result is same! - Japanese: 眼瞼, ガンケン, ガンケン, がんけん
-The result is same! - Japanese: 下垂, カスイ, カスイ, かすい
-The result is same! - Japanese: 期, キ, キ, き
-The result is same! - Japanese: 外, ソト, ソト, そと
-The result is same! - Japanese: 収縮, シュウシュク, シュウシュク, しゅうしゅく
-The result is same! - Japanese: 骨粗鬆症, コツソショウショウ, コツソショウショウ, こつそしょうしょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 心筋梗塞, シンキンコウソク, シンキンコウソク, しんきんこうそく
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 呼吸困難, コキュウコンナン, コキュウコンナン, こきゅうこんなん
-Non-Japanese: COPD
-The result is same! - Japanese: 子宮, シキュウ, シキュウ, しきゅう
-The result is same! - Japanese: 筋腫, キンシュ, キンシュ, きんしゅ
-The result is different! - Japanese: 構音, カマエオト, コウオン, こうおん
-The result is same! - Japanese: 障害, ショウガイ, ショウガイ, しょうがい
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 胸, ムネ, ムネ, むね
-The result is same! - Japanese: 背部, ハイブ, ハイブ, はいぶ
-The result is different! - Japanese: 痛, イタ, ツウ, つう
-The result is different! - Japanese: 左片, ヒダリヘン, サヘン, さへん
-The result is same! - Japanese: 麻痺, マヒ, マヒ, まひ
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 骨粗鬆症, コツソショウショウ, コツソショウショウ, こつそしょうしょう
-The result is same! - Japanese: 明細, メイサイ, メイサイ, めいさい
-The result is different! - Japanese: 胞, , ホウ, ほう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 心房細動, シンボウサイドウ, シンボウサイドウ, しんぼうさいどう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 骨粗鬆症, コツソショウショウ, コツソショウショウ, こつそしょうしょう
-The result is same! - Japanese: 喘息, ゼンソク, ゼンソク, ぜんそく
-The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
-The result is same! - Japanese: 子宮, シキュウ, シキュウ, しきゅう
-The result is different! - Japanese: 体癌, カラダガン, タイガン, たいがん
-The result is same! - Japanese: 胸部, キョウブ, キョウブ, きょうぶ
-The result is same! - Japanese: 食道, ショクドウ, ショクドウ, しょくどう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-Non-Japanese: 2
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 多発, タハツ, タハツ, たはつ
-The result is same! - Japanese: 肝, キモ, キモ, きも
-The result is same! - Japanese: 転移, テンイ, テンイ, てんい
-The result is same! - Japanese: 多発, タハツ, タハツ, たはつ
-The result is same! - Japanese: 肺, ハイ, ハイ, はい
-The result is same! - Japanese: 転移, テンイ, テンイ, てんい
-The result is same! - Japanese: 脂質, シシツ, シシツ, ししつ
-The result is same! - Japanese: 異常, イジョウ, イジョウ, いじょう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-Non-Japanese: 2
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-Non-Japanese: S
-The result is same! - Japanese: 状, ジョウ, ジョウ, じょう
-The result is same! - Japanese: 結腸, ケッチョウ, ケッチョウ, けっちょう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 肝機能, カンキノウ, カンキノウ, かんきのう
-The result is same! - Japanese: 障害, ショウガイ, ショウガイ, しょうがい
-The result is same! - Japanese: 細菌, サイキン, サイキン, さいきん
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-The result is same! - Japanese: 誤嚥, ゴエン, ゴエン, ごえん
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-The result is different! - Japanese: 左腎, ヒダリジン, サジン, さじん
-The result is same! - Japanese: 細胞, サイボウ, サイボウ, さいぼう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 間質, カンシツ, カンシツ, かんしつ
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-The result is same! - Japanese: 急性, キュウセイ, キュウセイ, きゅうせい
-The result is same! - Japanese: 虫垂炎, チュウスイエン, チュウスイエン, ちゅうすいえん
-The result is same! - Japanese: 脂質, シシツ, シシツ, ししつ
-The result is same! - Japanese: 異常, イジョウ, イジョウ, いじょう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 左, ヒダリ, ヒダリ, ひだり
-The result is same! - Japanese: 視床, シショウ, シショウ, ししょう
-The result is same! - Japanese: 出血, シュッケツ, シュッケツ, しゅっけつ
-The result is same! - Japanese: 総, ソウ, ソウ, そう
-The result is same! - Japanese: 胆管, タンカン, タンカン, たんかん
-The result is same! - Japanese: 結石, ケッセキ, ケッセキ, けっせき
-The result is different! - Japanese: 硬膜, カタマク, コウマク, こうまく
-The result is different! - Japanese: 下血, シモチ, ゲケツ, げけつ
-The result is same! - Japanese: 腫, シュ, シュ, しゅ
-The result is same! - Japanese: 右, ミギ, ミギ, みぎ
-The result is same! - Japanese: 半身, ハンシン, ハンシン, はんしん
-The result is same! - Japanese: 麻痺, マヒ, マヒ, まひ
-The result is same! - Japanese: 食道, ショクドウ, ショクドウ, しょくどう
-The result is same! - Japanese: 静脈, ジョウミャク, ジョウミャク, じょうみゃく
-The result is same! - Japanese: 瘤, コブ, コブ, こぶ
-The result is same! - Japanese: 結核, ケッカク, ケッカク, けっかく
-The result is same! - Japanese: 感染症, カンセンショウ, カンセンショウ, かんせんしょう
-The result is same! - Japanese: 多発, タハツ, タハツ, たはつ
-The result is same! - Japanese: 肺, ハイ, ハイ, はい
-The result is same! - Japanese: 転移, テンイ, テンイ, てんい
-The result is same! - Japanese: 右, ミギ, ミギ, みぎ
-The result is same! - Japanese: 腎, ジン, ジン, じん
-The result is same! - Japanese: 細胞, サイボウ, サイボウ, さいぼう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: チアノーゼ, チアノーゼ, チアノーゼ, ちあのーぜ
-The result is same! - Japanese: ドライアイ, ドライアイ, ドライアイ, どらいあい
-The result is same! - Japanese: 微小, ビショウ, ビショウ, びしょう
-The result is same! - Japanese: 変化, ヘンカ, ヘンカ, へんか
-The result is same! - Japanese: 群, グン, グン, ぐん
-The result is same! - Japanese: 気管, キカン, キカン, きかん
-The result is different! - Japanese: 支, サソオ, シ, し
-The result is same! - Japanese: 喘息, ゼンソク, ゼンソク, ぜんそく
-The result is same! - Japanese: 左, ヒダリ, ヒダリ, ひだり
-The result is same! - Japanese: 共同, キョウドウ, キョウドウ, きょうどう
-The result is same! - Japanese: 偏, ヘン, ヘン, へん
-The result is different! - Japanese: 視, ミ, シ, し
-The result is different! - Japanese: 高, コウ, タカ, たか
-The result is same! - Japanese: 尿酸, ニョウサン, ニョウサン, にょうさん
-The result is different! - Japanese: 血症, チショウ, ケッショウ, けっしょう
-The result is different! - Japanese: 耐糖, ツヨシトウ, タイトウ, たいとう
-The result is same! - Japanese: 能, ノウ, ノウ, のう
-The result is same! - Japanese: 異常, イジョウ, イジョウ, いじょう
-The result is same! - Japanese: 統合, トウゴウ, トウゴウ, とうごう
-The result is same! - Japanese: 失調, シッチョウ, シッチョウ, しっちょう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 小, ショウ, ショウ, しょう
-The result is same! - Japanese: 細胞, サイボウ, サイボウ, さいぼう
-The result is same! - Japanese: 肺癌, ハイガン, ハイガン, はいがん
-The result is same! - Japanese: 類内, ルイナイ, ルイナイ, るいない
-The result is same! - Japanese: 膜, マク, マク, まく
-The result is same! - Japanese: 腺癌, センガン, センガン, せんがん
-The result is different! - Japanese: 頸, , ケイ, けい
-The result is same! - Japanese: 胸椎, キョウツイ, キョウツイ, きょうつい
-The result is same! - Japanese: 転移, テンイ, テンイ, てんい
-The result is same! - Japanese: 小脳, ショウノウ, ショウノウ, しょうのう
-The result is different! - Japanese: 低, ヒク, テイ, てい
-The result is same! - Japanese: 形成, ケイセイ, ケイセイ, けいせい
-The result is different! - Japanese: 上行, ウエコウ, ジョウギョウ, じょうぎょう
-The result is same! - Japanese: 結腸, ケッチョウ, ケッチョウ, けっちょう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-Non-Japanese: 1
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-Non-Japanese: HCV
-The result is same! - Japanese: 抗体, コウタイ, コウタイ, こうたい
-The result is same! - Japanese: 脂質, シシツ, シシツ, ししつ
-The result is same! - Japanese: 異常, イジョウ, イジョウ, いじょう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-Non-Japanese: S
-The result is same! - Japanese: 状, ジョウ, ジョウ, じょう
-The result is same! - Japanese: 結腸, ケッチョウ, ケッチョウ, けっちょう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 扁平, ヘンペイ, ヘンペイ, へんぺい
-The result is same! - Japanese: 上皮, ジョウヒ, ジョウヒ, じょうひ
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 下垂体, カスイタイ, カスイタイ, かすいたい
-The result is same! - Japanese: 腺腫, センシュ, センシュ, せんしゅ
-The result is same! - Japanese: 扁平, ヘンペイ, ヘンペイ, へんぺい
-The result is same! - Japanese: 上皮, ジョウヒ, ジョウヒ, じょうひ
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 総, ソウ, ソウ, そう
-The result is same! - Japanese: 胆管, タンカン, タンカン, たんかん
-The result is same! - Japanese: 結石, ケッセキ, ケッセキ, けっせき
-The result is same! - Japanese: 細菌, サイキン, サイキン, さいきん
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-Non-Japanese: 2
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 脂質, シシツ, シシツ, ししつ
-The result is same! - Japanese: 異常, イジョウ, イジョウ, いじょう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 細菌, サイキン, サイキン, さいきん
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-The result is same! - Japanese: 大腿骨, ダイタイコツ, ダイタイコツ, だいたいこつ
-The result is same! - Japanese: 骨折, コッセツ, コッセツ, こっせつ
-The result is same! - Japanese: チアノーゼ, チアノーゼ, チアノーゼ, ちあのーぜ
-The result is same! - Japanese: 脂質, シシツ, シシツ, ししつ
-The result is same! - Japanese: 異常, イジョウ, イジョウ, いじょう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 甲状腺, コウジョウセン, コウジョウセン, こうじょうせん
-The result is same! - Japanese: 腫大, シュダイ, シュダイ, しゅだい
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 腎症, ジンショウ, ジンショウ, じんしょう
-The result is same! - Japanese: 慢性, マンセイ, マンセイ, まんせい
-The result is same! - Japanese: 腎不全, ジンフゼン, ジンフゼン, じんふぜん
-The result is same! - Japanese: 脂質, シシツ, シシツ, ししつ
-The result is same! - Japanese: 異常, イジョウ, イジョウ, いじょう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 誤嚥, ゴエン, ゴエン, ごえん
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-The result is same! - Japanese: 仙骨, センコツ, センコツ, せんこつ
-The result is same! - Japanese: 部, ブ, ブ, ぶ
-The result is same! - Japanese: 褥瘡, ジョクソウ, ジョクソウ, じょくそう
-The result is same! - Japanese: 閉塞, ヘイソク, ヘイソク, へいそく
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 黄疸, オウダン, オウダン, おうだん
-The result is same! - Japanese: 脂質, シシツ, シシツ, ししつ
-The result is same! - Japanese: 異常, イジョウ, イジョウ, いじょう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 間質, カンシツ, カンシツ, かんしつ
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-Non-Japanese: 2
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 胆嚢, タンノウ, タンノウ, たんのう
-The result is same! - Japanese: 結石, ケッセキ, ケッセキ, けっせき
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 扁平, ヘンペイ, ヘンペイ, へんぺい
-The result is same! - Japanese: 上皮, ジョウヒ, ジョウヒ, じょうひ
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 尿路, ニョウロ, ニョウロ, にょうろ
-The result is same! - Japanese: 感染症, カンセンショウ, カンセンショウ, かんせんしょう
-The result is same! - Japanese: 脂質, シシツ, シシツ, ししつ
-The result is same! - Japanese: 異常, イジョウ, イジョウ, いじょう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 前立腺, ゼンリツセン, ゼンリツセン, ぜんりつせん
-The result is same! - Japanese: 肥大, ヒダイ, ヒダイ, ひだい
-The result is same! - Japanese: うっ, ウッ, ウッ, うっ
-The result is same! - Japanese: 血, チ, チ, ち
-The result is same! - Japanese: 乳頭, ニュウトウ, ニュウトウ, にゅうとう
-The result is same! - Japanese: 尿, ニョウ, ニョウ, にょう
-The result is different! - Japanese: 潜血, センチ, センケツ, せんけつ
-The result is same! - Japanese: 陽性, ヨウセイ, ヨウセイ, ようせい
-The result is same! - Japanese: 急性, キュウセイ, キュウセイ, きゅうせい
-The result is same! - Japanese: 虫垂炎, チュウスイエン, チュウスイエン, ちゅうすいえん
-The result is same! - Japanese: 脂質, シシツ, シシツ, ししつ
-The result is same! - Japanese: 異常, イジョウ, イジョウ, いじょう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 統合, トウゴウ, トウゴウ, とうごう
-The result is same! - Japanese: 失調, シッチョウ, シッチョウ, しっちょう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 血管, ケッカン, ケッカン, けっかん
-The result is same! - Japanese: 線維, センイ, センイ, せんい
-The result is same! - Japanese: 腫, シュ, シュ, しゅ
-The result is same! - Japanese: チアノーゼ, チアノーゼ, チアノーゼ, ちあのーぜ
-The result is same! - Japanese: 産後, サンゴ, サンゴ, さんご
-The result is same! - Japanese: うつ, ウツ, ウツ, うつ
-The result is different! - Japanese: 病, ヤマイ, ビョウ, びょう
-Non-Japanese: 2
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 脂質, シシツ, シシツ, ししつ
-The result is same! - Japanese: 異常, イジョウ, イジョウ, いじょう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-Non-Japanese: 2
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 膝蓋骨, シツガイコツ, シツガイコツ, しつがいこつ
-The result is same! - Japanese: 骨折, コッセツ, コッセツ, こっせつ
-The result is same! - Japanese: 広範囲, コウハンイ, コウハンイ, こうはんい
-The result is same! - Japanese: 熱傷, ネッショウ, ネッショウ, ねっしょう
-The result is different! - Japanese: 口腔内, コウコウナイ, コウクウナイ, こうくうない
-The result is same! - Japanese: 潰瘍, カイヨウ, カイヨウ, かいよう
-The result is same! - Japanese: 一過性, イッカセイ, イッカセイ, いっかせい
-The result is same! - Japanese: 徐脈, ジョミャク, ジョミャク, じょみゃく
-The result is same! - Japanese: 膿疱, ノウホウ, ノウホウ, のうほう
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is different! - Japanese: 皮疹, カワ, ヒシン, ひしん
-The result is same! - Japanese: 急性, キュウセイ, キュウセイ, きゅうせい
-The result is same! - Japanese: 胃腸, イチョウ, イチョウ, いちょう
-The result is same! - Japanese: 炎, ホノオ, ホノオ, ほのお
-The result is same! - Japanese: 脂質, シシツ, シシツ, ししつ
-The result is same! - Japanese: 異常, イジョウ, イジョウ, いじょう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 脂質, シシツ, シシツ, ししつ
-The result is same! - Japanese: 異常, イジョウ, イジョウ, いじょう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-Non-Japanese: S
-The result is same! - Japanese: 状, ジョウ, ジョウ, じょう
-The result is same! - Japanese: 結腸, ケッチョウ, ケッチョウ, けっちょう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-Non-Japanese: 2
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-Non-Japanese: IgA
-The result is same! - Japanese: 腎症, ジンショウ, ジンショウ, じんしょう
-The result is same! - Japanese: 慢性, マンセイ, マンセイ, まんせい
-The result is same! - Japanese: 腎不全, ジンフゼン, ジンフゼン, じんふぜん
-The result is different! - Japanese: 上行, ウエコウ, ジョウギョウ, じょうぎょう
-The result is same! - Japanese: 結腸, ケッチョウ, ケッチョウ, けっちょう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 急性, キュウセイ, キュウセイ, きゅうせい
-The result is same! - Japanese: 虫垂炎, チュウスイエン, チュウスイエン, ちゅうすいえん
-The result is same! - Japanese: 不全, フゼン, フゼン, ふぜん
-The result is different! - Japanese: 片麻, カタアサ, ヘンマ, へんま
-The result is different! - Japanese: 痺, , ヒ, ひ
-The result is same! - Japanese: 急性, キュウセイ, キュウセイ, きゅうせい
-The result is same! - Japanese: 虫垂炎, チュウスイエン, チュウスイエン, ちゅうすいえん
-The result is same! - Japanese: 気管, キカン, キカン, きかん
-The result is different! - Japanese: 支, サソオ, シ, し
-The result is same! - Japanese: 喘息, ゼンソク, ゼンソク, ぜんそく
-The result is same! - Japanese: 子宮, シキュウ, シキュウ, しきゅう
-The result is different! - Japanese: 内膜, ウチマク, ナイマク, ないまく
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is different! - Japanese: 外転, ソトテン, ガイテン, がいてん
-The result is same! - Japanese: 神経, シンケイ, シンケイ, しんけい
-The result is same! - Japanese: 麻痺, マヒ, マヒ, まひ
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 緊急, キンキュウ, キンキュウ, きんきゅう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 甲状腺, コウジョウセン, コウジョウセン, こうじょうせん
-The result is different! - Japanese: 髄様, ズイサマ, ズイヨウ, ずいよう
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 潰瘍, カイヨウ, カイヨウ, かいよう
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 大腸, ダイチョウ, ダイチョウ, だいちょう
-The result is same! - Japanese: 炎, ホノオ, ホノオ, ほのお
-The result is same! - Japanese: 口唇, コウシン, コウシン, こうしん
-The result is same! - Japanese: ヘルペス, ヘルペス, ヘルペス, へるぺす
-Non-Japanese: HIV
-The result is same! - Japanese: 感染症, カンセンショウ, カンセンショウ, かんせんしょう
-The result is different! - Japanese: 汎発, ヒロシハツ, ハンパツ, はんぱつ
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 腹膜炎, フクマクエン, フクマクエン, ふくまくえん
-The result is same! - Japanese: 多発, タハツ, タハツ, たはつ
-The result is different! - Japanese: 性骨, セイボネ, ショウボネ, しょうぼね
-The result is same! - Japanese: 髄, ズイ, ズイ, ずい
-The result is same! - Japanese: 腫, シュ, シュ, しゅ
-The result is same! - Japanese: 関節, カンセツ, カンセツ, かんせつ
-The result is same! - Japanese: リウマチ, リウマチ, リウマチ, りうまち
-The result is same! - Japanese: 逆流, ギャクリュウ, ギャクリュウ, ぎゃくりゅう
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 食道, ショクドウ, ショクドウ, しょくどう
-The result is same! - Japanese: 炎, ホノオ, ホノオ, ほのお
-The result is same! - Japanese: 腰椎, ヨウツイ, ヨウツイ, ようつい
-The result is same! - Japanese: 圧迫, アッパク, アッパク, あっぱく
-The result is same! - Japanese: 骨折, コッセツ, コッセツ, こっせつ
-The result is same! - Japanese: 関節, カンセツ, カンセツ, かんせつ
-The result is same! - Japanese: リウマチ, リウマチ, リウマチ, りうまち
-The result is same! - Japanese: 急性, キュウセイ, キュウセイ, きゅうせい
-The result is same! - Japanese: 心筋梗塞, シンキンコウソク, シンキンコウソク, しんきんこうそく
-The result is same! - Japanese: 噴水, フンスイ, フンスイ, ふんすい
-The result is same! - Japanese: 状の, ジョウノ, ジョウノ, じょうの
-The result is same! - Japanese: 嘔吐, オウト, オウト, おうと
-The result is different! - Japanese: 肝門, キモモン, カンモン, かんもん
-The result is same! - Japanese: 部, ブ, ブ, ぶ
-The result is same! - Japanese: 胆管, タンカン, タンカン, たんかん
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 急性, キュウセイ, キュウセイ, きゅうせい
-The result is same! - Japanese: 心筋梗塞, シンキンコウソク, シンキンコウソク, しんきんこうそく
-The result is different! - Japanese: 低, ヒク, テイ, てい
-The result is same! - Japanese: 血糖, ケットウ, ケットウ, けっとう
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 昏睡, コンスイ, コンスイ, こんすい
-Non-Japanese: C
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 慢性, マンセイ, マンセイ, まんせい
-The result is same! - Japanese: 肝炎, カンエン, カンエン, かんえん
-The result is same! - Japanese: 全身, ゼンシン, ゼンシン, ぜんしん
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is different! - Japanese: 強皮, ツヨガワ, キョウヒ, きょうひ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: ヘモジデリン, ヘモジデリン, ヘモジデリン, へもじでりん
-The result is same! - Japanese: 急性, キュウセイ, キュウセイ, きゅうせい
-The result is different! - Japanese: 冠, カンムリ, カン, かん
-The result is same! - Japanese: 症候群, ショウコウグン, ショウコウグン, しょうこうぐん
-The result is same! - Japanese: 関節, カンセツ, カンセツ, かんせつ
-The result is same! - Japanese: リウマチ, リウマチ, リウマチ, りうまち
-The result is same! - Japanese: 増殖, ゾウショク, ゾウショク, ぞうしょく
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 網膜症, モウマクショウ, モウマクショウ, もうまくしょう
-The result is same! - Japanese: くも, クモ, クモ, くも
-The result is same! - Japanese: 膜, マク, マク, まく
-The result is different! - Japanese: 下出, シモイデ, シモデ, しもで
-The result is same! - Japanese: 血, チ, チ, ち
-The result is same! - Japanese: ペンタゾシン, ペンタゾシン, ペンタゾシン, ぺんたぞしん
-The result is same! - Japanese: 人工, ジンコウ, ジンコウ, じんこう
-The result is same! - Japanese: 妊娠中絶, ニンシンチュウゼツ, ニンシンチュウゼツ, にんしんちゅうぜつ
-The result is same! - Japanese: 肺, ハイ, ハイ, はい
-The result is same! - Japanese: 扁平, ヘンペイ, ヘンペイ, へんぺい
-The result is same! - Japanese: 上皮, ジョウヒ, ジョウヒ, じょうひ
-The result is same! - Japanese: 癌, ガン, ガン, がん
-The result is same! - Japanese: 関節, カンセツ, カンセツ, かんせつ
-The result is same! - Japanese: リウマチ, リウマチ, リウマチ, りうまち
-The result is same! - Japanese: 急性, キュウセイ, キュウセイ, きゅうせい
-The result is same! - Japanese: 腎盂, ジンウ, ジンウ, じんう
-The result is same! - Japanese: 腎炎, ジンエン, ジンエン, じんえん
-The result is same! - Japanese: 間代, マダイ, マダイ, まだい
-The result is same! - Japanese: けいれん, ケイレン, ケイレン, けいれん
-The result is same! - Japanese: 悪性, アクセイ, アクセイ, あくせい
-The result is same! - Japanese: リンパ, リンパ, リンパ, りんぱ
-The result is same! - Japanese: 腫, シュ, シュ, しゅ
-The result is same! - Japanese: 急性, キュウセイ, キュウセイ, きゅうせい
-Non-Japanese: B
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 肝炎, カンエン, カンエン, かんえん
-The result is same! - Japanese: 胸膜, キョウマク, キョウマク, きょうまく
-The result is same! - Japanese: プラーク, プラーク, プラーク, ぷらーく
-The result is same! - Japanese: 多発, タハツ, タハツ, たはつ
-The result is different! - Japanese: 性骨, セイボネ, ショウボネ, しょうぼね
-The result is same! - Japanese: 髄, ズイ, ズイ, ずい
-The result is same! - Japanese: 腫, シュ, シュ, しゅ
-The result is same! - Japanese: 大腸, ダイチョウ, ダイチョウ, だいちょう
-The result is same! - Japanese: ポリープ, ポリープ, ポリープ, ぽりーぷ
-The result is same! - Japanese: 急性, キュウセイ, キュウセイ, きゅうせい
-The result is different! - Japanese: 冠, カンムリ, カン, かん
-The result is same! - Japanese: 症候群, ショウコウグン, ショウコウグン, しょうこうぐん
-The result is same! - Japanese: 低出, テイシュツ, テイシュツ, ていしゅつ
-The result is same! - Japanese: 生体, セイタイ, セイタイ, せいたい
-The result is different! - Japanese: 重, オモ, ジュウ, じゅう
-The result is different! - Japanese: 児, コ, ジ, じ
-The result is same! - Japanese: 多発, タハツ, タハツ, たはつ
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 脳, ノウ, ノウ, のう
-The result is same! - Japanese: 梗塞, コウソク, コウソク, こうそく
-The result is same! - Japanese: 関節, カンセツ, カンセツ, かんせつ
-The result is same! - Japanese: リウマチ, リウマチ, リウマチ, りうまち
-The result is different! - Japanese: 外陰, ソトカゲ, ガイイン, がいいん
-The result is same! - Japanese: 部, ブ, ブ, ぶ
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 京都府, キョウトフ, キョウトフ, きょうとふ
 The result is same! - Japanese: の, ノ, ノ, の
-The result is same! - Japanese: 異常, イジョウ, イジョウ, いじょう
-The result is same! - Japanese: 僧帽, ソウボウ, ソウボウ, そうぼう
-The result is same! - Japanese: 弁, ベン, ベン, べん
-The result is same! - Japanese: 逆流, ギャクリュウ, ギャクリュウ, ぎゃくりゅう
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 軽度, ケイド, ケイド, けいど
-The result is same! - Japanese: の, ノ, ノ, の
-The result is same! - Japanese: 脳, ノウ, ノウ, のう
-The result is same! - Japanese: 萎縮, イシュク, イシュク, いしゅく
-The result is same! - Japanese: 嚥下, エンカ, エンカ, えんか
-The result is same! - Japanese: 機能障害, キノウショウガイ, キノウショウガイ, きのうしょうがい
-The result is same! - Japanese: 関節, カンセツ, カンセツ, かんせつ
-The result is same! - Japanese: リウマチ, リウマチ, リウマチ, りうまち
-The result is same! - Japanese: 慢性, マンセイ, マンセイ, まんせい
-The result is different! - Japanese: 副鼻腔炎, フクビクウエン, フクビコウエン, ふくびこうえん
-The result is same! - Japanese: 左, ヒダリ, ヒダリ, ひだり
-The result is same! - Japanese: 不全, フゼン, フゼン, ふぜん
-The result is different! - Japanese: 片麻, カタアサ, ヘンマ, へんま
-The result is different! - Japanese: 痺, , ヒ, ひ
-The result is same! - Japanese: 逆流, ギャクリュウ, ギャクリュウ, ぎゃくりゅう
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 食道, ショクドウ, ショクドウ, しょくどう
-The result is same! - Japanese: 炎, ホノオ, ホノオ, ほのお
-The result is same! - Japanese: 関節, カンセツ, カンセツ, かんせつ
-The result is same! - Japanese: リウマチ, リウマチ, リウマチ, りうまち
-The result is same! - Japanese: 心房, シンボウ, シンボウ, しんぼう
-The result is different! - Japanese: 中隔, チュウ, チュウカク, ちゅうかく
-The result is same! - Japanese: 欠損, ケッソン, ケッソン, けっそん
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 変形, ヘンケイ, ヘンケイ, へんけい
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is different! - Japanese: 膝関節, シツカンセツ, ヒザカンセツ, ひざかんせつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is different! - Japanese: 絞扼, シボ, コウヤク, こうやく
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: イレウス, イレウス, イレウス, いれうす
-The result is same! - Japanese: 大動脈, ダイドウミャク, ダイドウミャク, だいどうみゃく
-The result is same! - Japanese: 弁, ベン, ベン, べん
-The result is same! - Japanese: 狭窄, キョウサク, キョウサク, きょうさく
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is different! - Japanese: 遅発, オソハツ, チハツ, ちはつ
-The result is same! - Japanese: 一過性, イッカセイ, イッカセイ, いっかせい
-The result is same! - Japanese: 徐脈, ジョミャク, ジョミャク, じょみゃく
-The result is same! - Japanese: 過敏性, カビンセイ, カビンセイ, かびんせい
-The result is same! - Japanese: 腸, チョウ, チョウ, ちょう
-The result is same! - Japanese: 症候群, ショウコウグン, ショウコウグン, しょうこうぐん
-The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 心房細動, シンボウサイドウ, シンボウサイドウ, しんぼうさいどう
-The result is same! - Japanese: 肺, ハイ, ハイ, はい
-The result is same! - Japanese: および, オヨビ, オヨビ, および
-The result is same! - Japanese: 肝, キモ, キモ, きも
-The result is same! - Japanese: 転移, テンイ, テンイ, てんい
-The result is same! - Japanese: 脳, ノウ, ノウ, のう
-The result is same! - Japanese: 血管, ケッカン, ケッカン, けっかん
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 認知, ニンチ, ニンチ, にんち
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 過敏性, カビンセイ, カビンセイ, かびんせい
-The result is same! - Japanese: 腸, チョウ, チョウ, ちょう
-The result is same! - Japanese: 症候群, ショウコウグン, ショウコウグン, しょうこうぐん
-Non-Japanese: II
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 呼吸, コキュウ, コキュウ, こきゅう
-The result is same! - Japanese: 不全, フゼン, フゼン, ふぜん
-The result is same! - Japanese: 深部, シンブ, シンブ, しんぶ
-The result is same! - Japanese: 静脈, ジョウミャク, ジョウミャク, じょうみゃく
-The result is same! - Japanese: 血栓, ケッセン, ケッセン, けっせん
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: インフルエンザ, インフルエンザ, インフルエンザ, いんふるえんざ
-The result is same! - Japanese: 大腿骨, ダイタイコツ, ダイタイコツ, だいたいこつ
-The result is different! - Japanese: 頸部, , ケイブ, けいぶ
-The result is same! - Japanese: 骨折, コッセツ, コッセツ, こっせつ
-The result is same! - Japanese: クラミジア, クラミジア, クラミジア, くらみじあ
-The result is same! - Japanese: 感染, カンセン, カンセン, かんせん
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-The result is same! - Japanese: 球菌, キュウキン, キュウキン, きゅうきん
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-The result is same! - Japanese: 変形, ヘンケイ, ヘンケイ, へんけい
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is different! - Japanese: 膝関節, シツカンセツ, ヒザカンセツ, ひざかんせつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 変形, ヘンケイ, ヘンケイ, へんけい
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is different! - Japanese: 膝関節, シツカンセツ, ヒザカンセツ, ひざかんせつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 労作, ロウサク, ロウサク, ろうさく
-The result is same! - Japanese: 時, トキ, トキ, とき
-The result is same! - Japanese: 呼吸困難, コキュウコンナン, コキュウコンナン, こきゅうこんなん
-The result is same! - Japanese: アフタ, アフタ, アフタ, あふた
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 口内炎, コウナイエン, コウナイエン, こうないえん
-The result is same! - Japanese: 性器, セイキ, セイキ, せいき
-The result is same! - Japanese: クラミジア, クラミジア, クラミジア, くらみじあ
-Non-Japanese: Down
-The result is same! - Japanese: 症候群, ショウコウグン, ショウコウグン, しょうこうぐん
-The result is same! - Japanese: 変形, ヘンケイ, ヘンケイ, へんけい
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is different! - Japanese: 膝関節, シツカンセツ, ヒザカンセツ, ひざかんせつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: グルカゴノーマ, グルカゴノーマ, グルカゴノーマ, ぐるかごのーま
-The result is same! - Japanese: アレルギー, アレルギー, アレルギー, あれるぎー
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 鼻炎, ビエン, ビエン, びえん
-The result is different! - Japanese: 敗血, ハイチ, ハイケツ, はいけつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: ショック, ショック, ショック, しょっく
-The result is same! - Japanese: ネフローゼ, ネフローゼ, ネフローゼ, ねふろーぜ
-The result is same! - Japanese: 症候群, ショウコウグン, ショウコウグン, しょうこうぐん
-The result is same! - Japanese: 左, ヒダリ, ヒダリ, ひだり
-The result is same! - Japanese: 変形, ヘンケイ, ヘンケイ, へんけい
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 股関節, コカンセツ, コカンセツ, こかんせつ
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: ネフローゼ, ネフローゼ, ネフローゼ, ねふろーぜ
-The result is same! - Japanese: 症候群, ショウコウグン, ショウコウグン, しょうこうぐん
-The result is same! - Japanese: 肺門, ハイモン, ハイモン, はいもん
-The result is same! - Japanese: リンパ, リンパ, リンパ, りんぱ
+The result is same! - Japanese: 交通, コウツウ, コウツウ, こうつう
+The result is different! - Japanese: 史, フミ, シ, し
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 出典, シュッテン, シュッテン, しゅってん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 必要, ヒツヨウ, ヒツヨウ, ひつよう
+The result is same! - Japanese: とする, トスル, トスル, とする
 The result is same! - Japanese: 節, フシ, フシ, ふし
-The result is same! - Japanese: 転移, テンイ, テンイ, てんい
-The result is same! - Japanese: 常, ツネ, ツネ, つね
-The result is same! - Japanese: 位, クライ, クライ, くらい
-The result is same! - Japanese: 胎盤, タイバン, タイバン, たいばん
-The result is same! - Japanese: 早期, ソウキ, ソウキ, そうき
-The result is same! - Japanese: 剥離, ハクリ, ハクリ, はくり
-The result is same! - Japanese: 筋, スジ, スジ, すじ
-The result is same! - Japanese: ・, ・, ・, ・
-The result is same! - Japanese: 筋膜, キンマク, キンマク, きんまく
-The result is same! - Japanese: 性, セイ, セイ, せい
+The result is same! - Japanese: のある, ノアル, ノアル, のある
+The result is same! - Japanese: 記事, キジ, キジ, きじ
+Non-Japanese: /2013
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 9
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: -10
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 日本, ニッポン, ニッポン, にっぽん
 The result is same! - Japanese: の, ノ, ノ, の
-The result is same! - Japanese: 腰痛, ヨウツウ, ヨウツウ, ようつう
-The result is same! - Japanese: 強直, キョウチョク, キョウチョク, きょうちょく
-The result is same! - Japanese: 間代, マダイ, マダイ, まだい
-The result is same! - Japanese: けいれん, ケイレン, ケイレン, けいれん
-The result is same! - Japanese: 妊娠, ニンシン, ニンシン, にんしん
-The result is same! - Japanese: 高血圧, コウケツアツ, コウケツアツ, こうけつあつ
-The result is same! - Japanese: 症候群, ショウコウグン, ショウコウグン, しょうこうぐん
-The result is same! - Japanese: 機能性, キノウセイ, キノウセイ, きのうせい
-The result is same! - Japanese: 月経, ゲッケイ, ゲッケイ, げっけい
-The result is same! - Japanese: 困難, コンナン, コンナン, こんなん
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 軽度, ケイド, ケイド, けいど
-The result is same! - Japanese: 認知機能, ニンチキノウ, ニンチキノウ, にんちきのう
-The result is same! - Japanese: 障害, ショウガイ, ショウガイ, しょうがい
-The result is same! - Japanese: 完全, カンゼン, カンゼン, かんぜん
-The result is same! - Japanese: 房室, ボウシツ, ボウシツ, ぼうしつ
-The result is same! - Japanese: ブロック, ブロック, ブロック, ぶろっく
-The result is same! - Japanese: アトピー, アトピー, アトピー, あとぴー
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 皮膚炎, ヒフエン, ヒフエン, ひふえん
-The result is same! - Japanese: チョコレート, チョコレート, チョコレート, ちょこれーと
-The result is same! - Japanese: 嚢胞, ノウホウ, ノウホウ, のうほう
-The result is different! - Japanese: 腹腔, フクコウ, フッコウ, ふっこう
-The result is same! - Japanese: 鏡, カガミ, カガミ, かがみ
-The result is same! - Japanese: 下, シタ, シタ, した
-The result is same! - Japanese: 子宮, シキュウ, シキュウ, しきゅう
-The result is same! - Japanese: 筋腫, キンシュ, キンシュ, きんしゅ
-The result is same! - Japanese: 原発, ゲンパツ, ゲンパツ, げんぱつ
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 胆汁, タンジュウ, タンジュウ, たんじゅう
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 胆管, タンカン, タンカン, たんかん
-The result is same! - Japanese: 炎, ホノオ, ホノオ, ほのお
-Non-Japanese: Raynaud
-The result is same! - Japanese: 現象, ゲンショウ, ゲンショウ, げんしょう
-The result is same! - Japanese: 再発, サイハツ, サイハツ, さいはつ
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 口唇, コウシン, コウシン, こうしん
-The result is same! - Japanese: ヘルペス, ヘルペス, ヘルペス, へるぺす
-Non-Japanese: RS
-The result is same! - Japanese: ウイルス, ウイルス, ウイルス, ういるす
-The result is same! - Japanese: 感染症, カンセンショウ, カンセンショウ, かんせんしょう
-The result is same! - Japanese: 肺, ハイ, ハイ, はい
-The result is different! - Japanese: アスペルギルス, , アスペルギルス, あすぺるぎるす
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 代謝, タイシャ, タイシャ, たいしゃ
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: アシドーシス, アシドーシス, アシドーシス, あしどーしす
-The result is same! - Japanese: 不完全, フカンゼン, フカンゼン, ふかんぜん
-The result is same! - Japanese: 右脚, ミギアシ, ミギアシ, みぎあし
-The result is same! - Japanese: ブロック, ブロック, ブロック, ぶろっく
-The result is different! - Japanese: ニューモシスチス, , ニューモシスチス, にゅーもしすちす
-The result is same! - Japanese: 肺炎, ハイエン, ハイエン, はいえん
-Non-Japanese: Mirizzi
-The result is same! - Japanese: 症候群, ショウコウグン, ショウコウグン, しょうこうぐん
-Non-Japanese: C
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 肝炎, カンエン, カンエン, かんえん
-The result is same! - Japanese: ウイルス, ウイルス, ウイルス, ういるす
-The result is same! - Japanese: 感染, カンセン, カンセン, かんせん
-Non-Japanese: Parkinson
-The result is different! - Japanese: 病, ヤマイ, ビョウ, びょう
-Non-Japanese: 1
-The result is same! - Japanese: 絨毛, ジュウモウ, ジュウモウ, じゅうもう
-The result is same! - Japanese: 膜, マク, マク, まく
-Non-Japanese: 2
-The result is same! - Japanese: 羊膜, ヨウマク, ヨウマク, ようまく
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is different! - Japanese: 双胎, ソウ, ソウタイ, そうたい
-The result is same! - Japanese: 腰椎, ヨウツイ, ヨウツイ, ようつい
+The result is same! - Japanese: 道路交通, ドウロコウツウ, ドウロコウツウ, どうろこうつう
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 東山, ヒガシヤマ, ヒガシヤマ, ひがしやま
+The result is same! - Japanese: 区, ク, ク, く
 The result is same! - Japanese: の, ノ, ノ, の
-The result is same! - Japanese: 椎間板, ツイカンバン, ツイカンバン, ついかんばん
-The result is same! - Japanese: ヘルニア, ヘルニア, ヘルニア, へるにあ
-The result is different! - Japanese: 両眼, リョウメ, リョウガン, りょうがん
-The result is same! - Japanese: 増殖, ゾウショク, ゾウショク, ぞうしょく
-The result is same! - Japanese: 糖尿病, トウニョウビョウ, トウニョウビョウ, とうにょうびょう
-The result is same! - Japanese: 網膜症, モウマクショウ, モウマクショウ, もうまくしょう
-The result is same! - Japanese: 皮膚, ヒフ, ヒフ, ひふ
-The result is same! - Japanese: サルコイドーシス, サルコイドーシス, サルコイドーシス, さるこいどーしす
-The result is same! - Japanese: 全身, ゼンシン, ゼンシン, ぜんしん
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is different! - Japanese: エリテマトーデス, , エリテマトーデス, えりてまとーです
-The result is same! - Japanese: 新生児, シンセイジ, シンセイジ, しんせいじ
-The result is same! - Japanese: マススクリーニング, マススクリーニング, マススクリーニング, ますすくりーにんぐ
-The result is same! - Japanese: 子宮, シキュウ, シキュウ, しきゅう
-The result is same! - Japanese: 鏡, カガミ, カガミ, かがみ
-The result is same! - Japanese: 下, シタ, シタ, した
-The result is same! - Japanese: 子宮, シキュウ, シキュウ, しきゅう
-The result is different! - Japanese: 内膜, ウチマク, ナイマク, ないまく
-The result is same! - Japanese: ポリープ, ポリープ, ポリープ, ぽりーぷ
-The result is same! - Japanese: 壊死, エシ, エシ, えし
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 半月, ハンツキ, ハンツキ, はんつき
-The result is same! - Japanese: 体形, タイケイ, タイケイ, たいけい
-The result is different! - Japanese: 成, シゲル, セイ, せい
-The result is different! - Japanese: 糸球, イトダマ, シキュウ, しきゅう
-The result is same! - Japanese: 体, カラダ, カラダ, からだ
-The result is same! - Japanese: 腎炎, ジンエン, ジンエン, じんえん
-Non-Japanese: Alzheimer
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 認知, ニンチ, ニンチ, にんち
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-Non-Japanese: Alzheimer
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 認知, ニンチ, ニンチ, にんち
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-Non-Japanese: Alzheimer
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 認知, ニンチ, ニンチ, にんち
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 微小, ビショウ, ビショウ, びしょう
-The result is same! - Japanese: 変化, ヘンカ, ヘンカ, へんか
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: ネフローゼ, ネフローゼ, ネフローゼ, ねふろーぜ
-The result is same! - Japanese: 症候群, ショウコウグン, ショウコウグン, しょうこうぐん
-Non-Japanese: Alzheimer
-The result is same! - Japanese: 型, カタ, カタ, かた
-The result is same! - Japanese: 認知, ニンチ, ニンチ, にんち
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 慢性心, マンセイシン, マンセイシン, まんせいしん
-The result is same! - Japanese: 不全, フゼン, フゼン, ふぜん
+The result is same! - Japanese: 歴史, レキシ, レキシ, れきし
+Non-Japanese: ,
+Non-Japanese:  
+The result is same! - Japanese: 社会問題, シャカイモンダイ, シャカイモンダイ, しゃかいもんだい
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 関す, カンス, カンス, かんす
+The result is same! - Japanese: る, ル, ル, る
+The result is same! - Japanese: スタブ, スタブ, スタブ, すたぶ
+Non-Japanese: 
+The result is same! - Japanese: 京都祇園, キョウトギオン, キョウトギオン, きょうとぎおん
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: 暴走事故, ボウソウジコ, ボウソウジコ, ぼうそうじこ
 Non-Japanese: （
-Non-Japanese: NYHA II
+The result is different! - Japanese: きょうとぎおん, キョウト, キョウトギオン, きょうとぎおん
+Non-Japanese:  
+The result is same! - Japanese: けい, ケイ, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is different! - Japanese: しゃぼうそうじこ, シ, シャボウソウジコ, しゃぼうそうじこ
 Non-Japanese: ）
-The result is same! - Japanese: 溶血, ヨウケツ, ヨウケツ, ようけつ
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 尿毒, ニョウドク, ニョウドク, にょうどく
-The result is same! - Japanese: 症, ショウ, ショウ, しょう
-The result is same! - Japanese: 症候群, ショウコウグン, ショウコウグン, しょうこうぐん
-Non-Japanese: 〈
-Non-Japanese: HUS
-Non-Japanese: 〉
-The result is same! - Japanese: びまん, ビマン, ビマン, びまん
-The result is same! - Japanese: 性, セイ, セイ, せい
-The result is same! - Japanese: 大, ダイ, ダイ, だい
-The result is same! - Japanese: 細胞, サイボウ, サイボウ, さいぼう
-The result is same! - Japanese: 型, カタ, カタ, かた
-Non-Japanese: B
-The result is same! - Japanese: 細胞, サイボウ, サイボウ, さいぼう
-The result is same! - Japanese: リンパ, リンパ, リンパ, りんぱ
-The result is same! - Japanese: 腫, シュ, シュ, しゅ
-Non-Japanese: pulseless electrical activity
-Non-Japanese: 〈
-Non-Japanese: PEA
-Non-Japanese: 〉
+The result is same! - Japanese: とは, トハ, トハ, とは
+Non-Japanese: 、
+Non-Japanese: 2012
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: （
+The result is same! - Japanese: 平成, ヘイセイ, ヘイセイ, へいせい
+Non-Japanese: 24
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: ）
+Non-Japanese: 4
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: 12
+The result is different! - Japanese: 日, ヒ, ニチ, にち
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 京都府, キョウトフ, キョウトフ, きょうとふ
+The result is same! - Japanese: 京都市, キョウトシ, キョウトシ, きょうとし
+The result is same! - Japanese: 東山, ヒガシヤマ, ヒガシヤマ, ひがしやま
+The result is same! - Japanese: 区, ク, ク, く
+The result is same! - Japanese: 祇園, ギオン, ギオン, ぎおん
+The result is same! - Japanese: で, デ, デ, で
+Non-Japanese: 、
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+Non-Japanese: （
+The result is different! - Japanese: ホンダ・バモスホビオ, , ホンダ・バモスホビオ, ほんだ・ばもすほびお
+Non-Japanese: ）
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: していた, シテイタ, シテイタ, していた
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 男性, ダンセイ, ダンセイ, だんせい
+The result is same! - Japanese: が, ガ, ガ, が
+Non-Japanese: 、
+The result is same! - Japanese: 運転中, ウンテンチュウ, ウンテンチュウ, うんてんちゅう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 暴走事故, ボウソウジコ, ボウソウジコ, ぼうそうじこ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 起こ, オコ, オコ, おこ
+The result is same! - Japanese: し, シ, シ, し
+Non-Japanese: 、
+The result is same! - Japanese: 運転者, ウンテンシャ, ウンテンシャ, うんてんしゃ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 含む, フクム, フクム, ふくむ
+Non-Japanese: 8
+The result is different! - Japanese: 名, ナ, メイ, めい
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 死亡, シボウ, シボウ, しぼう
+Non-Japanese: 、
+Non-Japanese: 12
+The result is different! - Japanese: 人, ヒト, ニン, にん
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 重軽傷, ジュウケイショウ, ジュウケイショウ, じゅうけいしょう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 負っ, オッ, オッ, おっ
+The result is same! - Japanese: た, タ, タ, た
+The result is same! - Japanese: 交通事故, コウツウジコ, コウツウジコ, こうつうじこ
+Non-Japanese: 。
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: 原因, ゲンイン, ゲンイン, げんいん
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 最終的, サイシュウテキ, サイシュウテキ, さいしゅうてき
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 持病, ジビョウ, ジビョウ, じびょう
+The result is same! - Japanese: のてんかん, ノテンカン, ノテンカン, のてんかん
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: とされた, トサレタ, トサレタ, とされた
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 概要, ガイヨウ, ガイヨウ, がいよう
+Non-Japanese:  ==
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: === 
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: までの, マデノ, マデノ, までの
+The result is same! - Japanese: 経緯, ケイイ, ケイイ, けいい
+Non-Japanese:  ===
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 2003
+The result is different! - Japanese: 年, トシ, ネン, ねん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: バイク, バイク, バイク, ばいく
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 単独, タンドク, タンドク, たんどく
+The result is same! - Japanese: 交通事故, コウツウジコ, コウツウジコ, こうつうじこ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 起こ, オコ, オコ, おこ
+The result is same! - Japanese: し, シ, シ, し
+The result is same! - Japanese: 脳, ノウ, ノウ, のう
+The result is same! - Japanese: 挫傷, ザショウ, ザショウ, ざしょう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 受傷, ジュショウ, ジュショウ, じゅしょう
+The result is same! - Japanese: した, シタ, シタ, した
+Non-Japanese: 。
+The result is same! - Japanese: その, ソノ, ソノ, その
+The result is same! - Japanese: 後遺症, コウイショウ, コウイショウ, こういしょう
+The result is same! - Japanese: としててんかん, トシテテンカン, トシテテンカン, としててんかん
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 起こ, オコ, オコ, おこ
+The result is same! - Japanese: るようになったが, ルヨウニナッタガ, ルヨウニナッタガ, るようになったが
+Non-Japanese: 、
+The result is same! - Japanese: 病状, ビョウジョウ, ビョウジョウ, びょうじょう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 申告, シンコク, シンコク, しんこく
+The result is same! - Japanese: せずに, セズニ, セズニ, せずに
+The result is same! - Japanese: 運転免許, ウンテンメンキョ, ウンテンメンキョ, うんてんめんきょ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 更新, コウシン, コウシン, こうしん
+The result is same! - Japanese: していた, シテイタ, シテイタ, していた
+Non-Japanese: 。
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 2012
+The result is different! - Japanese: 年, トシ, ネン, ねん
+The result is same! - Japanese: になって, ニナッテ, ニナッテ, になって
+Non-Japanese: 2
+The result is same! - Japanese: 度, ド, ド, ど
+The result is same! - Japanese: 意識, イシキ, イシキ, いしき
+The result is same! - Japanese: 消失, ショウシツ, ショウシツ, しょうしつ
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 起こ, オコ, オコ, おこ
+The result is same! - Japanese: しており, シテオリ, シテオリ, しており
+Non-Japanese: 、
+The result is same! - Japanese: 家族, カゾク, カゾク, かぞく
+The result is same! - Japanese: と, ト, ト, と
+The result is same! - Japanese: 医師, イシ, イシ, いし
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: をしないように, ヲシナイヨウニ, ヲシナイヨウニ, をしないように
+The result is same! - Japanese: 忠告, チュウコク, チュウコク, ちゅうこく
+The result is same! - Japanese: していた, シテイタ, シテイタ, していた
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: === 
+The result is same! - Japanese: 事故発生, ジコハッセイ, ジコハッセイ, じこはっせい
+Non-Japanese:  ===
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: ==== 
+The result is same! - Japanese: 第, ダイ, ダイ, だい
+Non-Japanese: 1
+The result is same! - Japanese: 現場, ゲンバ, ゲンバ, げんば
+Non-Japanese:  ====
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 京阪電鉄, ケイハンデンテツ, ケイハンデンテツ, けいはんでんてつ
+The result is same! - Japanese: 祇園, ギオン, ギオン, ぎおん
+The result is same! - Japanese: 四条, シジョウ, シジョウ, しじょう
+The result is same! - Japanese: 駅, エキ, エキ, えき
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 東側, ヒガシガワ, ヒガシガワ, ひがしがわ
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 位置, イチ, イチ, いち
+The result is same! - Japanese: する, スル, スル, する
+The result is same! - Japanese: 大和, ヤマト, ヤマト, やまと
+The result is same! - Japanese: 大路, オオジ, オオジ, おおじ
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: の, ノ, ノ, の
+The result is different! - Japanese: 亀井町, カメイマチ, カメイチョウ, かめいちょう
+The result is same! - Japanese: 付近, フキン, フキン, ふきん
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 起き, オキ, オキ, おき
+The result is same! - Japanese: た, タ, タ, た
+Non-Japanese: 。
+The result is same! - Japanese: 大和, ヤマト, ヤマト, やまと
+The result is same! - Japanese: 大路, オオジ, オオジ, おおじ
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 南側, ミナミガワ, ミナミガワ, みなみがわ
+The result is same! - Japanese: より, ヨリ, ヨリ, より
+The result is same! - Japanese: 四条, シジョウ, シジョウ, しじょう
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: に, ニ, ニ, に
+The result is different! - Japanese: 向っ, ムカッ, ムッ, むっ
+The result is same! - Japanese: て, テ, テ, て
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: は, ハ, ハ, は
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: していた, シテイタ, シテイタ, していた
+Non-Japanese: 。
+The result is same! - Japanese: 四条, シジョウ, シジョウ, しじょう
+The result is same! - Japanese: 通交, ツウコウ, ツウコウ, つうこう
+The result is same! - Japanese: 差, サ, サ, さ
+The result is same! - Japanese: 点, テン, テン, てん
+The result is same! - Japanese: 手前, テマエ, テマエ, てまえ
+The result is same! - Japanese: で, デ, デ, で
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 前, マエ, マエ, まえ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 走っ, ハシッ, ハシッ, はしっ
+The result is same! - Japanese: ていた, テイタ, テイタ, ていた
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: に, ニ, ニ, に
+The result is different! - Japanese: 右後, ミギゴ, ミギウシロ, みぎうしろ
+The result is same! - Japanese: 方, ホウ, ホウ, ほう
+The result is same! - Japanese: から, カラ, カラ, から
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: した, シタ, シタ, した
+Non-Japanese: 。
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: された, サレタ, サレタ, された
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 衝撃, ショウゲキ, ショウゲキ, しょうげき
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 時速, ジソク, ジソク, じそく
+Non-Japanese: 21km
+The result is same! - Japanese: だった, ダッタ, ダッタ, だった
+The result is same! - Japanese: 速度, ソクド, ソクド, そくど
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 時速, ジソク, ジソク, じそく
+Non-Japanese: 29km
+The result is same! - Japanese: となった, トナッタ, トナッタ, となった
+Non-Japanese: 。
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 左側, ヒダリガワ, ヒダリガワ, ひだりがわ
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 寄せ, ヨセ, ヨセ, よせ
+The result is same! - Japanese: て, テ, テ, て
+The result is same! - Japanese: 停車, テイシャ, テイシャ, ていしゃ
+The result is same! - Japanese: したが, シタガ, シタガ, したが
+Non-Japanese: 、
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 一旦, イッタン, イッタン, いったん
+The result is same! - Japanese: 停車, テイシャ, テイシャ, ていしゃ
+The result is same! - Japanese: して, シテ, シテ, して
+The result is same! - Japanese: バック, バック, バック, ばっく
+The result is same! - Japanese: したものの, シタモノノ, シタモノノ, したものの
+Non-Japanese: 、
+The result is same! - Japanese: 停車, テイシャ, テイシャ, ていしゃ
+The result is same! - Japanese: した, シタ, シタ, した
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 横, ヨコ, ヨコ, よこ
+The result is same! - Japanese: をゆっくりとすり, ヲユックリトスリ, ヲユックリトスリ, をゆっくりとすり
+The result is same! - Japanese: 抜け, ヌケ, ヌケ, ぬけ
+Non-Japanese: 、
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 制止, セイシ, セイシ, せいし
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 無視し, ムシシ, ムシシ, むしし
+The result is same! - Japanese: てそのまま, テソノママ, テソノママ, てそのまま
+The result is same! - Japanese: 走り, ハシリ, ハシリ, はしり
+The result is same! - Japanese: 去っ, サッ, サッ, さっ
+The result is same! - Japanese: た, タ, タ, た
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: ==== 
+The result is same! - Japanese: 第, ダイ, ダイ, だい
+Non-Japanese: 2
+The result is same! - Japanese: 現場, ゲンバ, ゲンバ, げんば
+Non-Japanese: （
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+Non-Japanese: ）
+Non-Japanese:  ====
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: した, シタ, シタ, した
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 横, ヨコ, ヨコ, よこ
+The result is same! - Japanese: をすり, ヲスリ, ヲスリ, をすり
+The result is same! - Japanese: 抜け, ヌケ, ヌケ, ぬけ
+The result is same! - Japanese: てから, テカラ, テカラ, てから
+Non-Japanese: 25m
+The result is same! - Japanese: 程, ホド, ホド, ほど
+The result is same! - Japanese: 走行, ソウコウ, ソウコウ, そうこう
+The result is same! - Japanese: したのちに, シタノチニ, シタノチニ, したのちに
+The result is same! - Japanese: 急に, キュウニ, キュウニ, きゅうに
+The result is same! - Japanese: 速度, ソクド, ソクド, そくど
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 上げ, アゲ, アゲ, あげ
+The result is same! - Japanese: た, タ, タ, た
+Non-Japanese: 。
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: と, ト, ト, と
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: した, シタ, シタ, した
+The result is same! - Japanese: 地点, チテン, チテン, ちてん
+The result is same! - Japanese: から, カラ, カラ, から
+Non-Japanese: 150
+Non-Japanese: ｍ
+The result is same! - Japanese: 程, ホド, ホド, ほど
+The result is same! - Japanese: 走行, ソウコウ, ソウコウ, そうこう
+The result is same! - Japanese: し, シ, シ, し
+Non-Japanese: 、
+The result is same! - Japanese: 信号, シンゴウ, シンゴウ, しんごう
+The result is same! - Japanese: 待ち, マチ, マチ, まち
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 車列, シャレツ, シャレツ, しゃれつ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 右側, ミギガワ, ミギガワ, みぎがわ
+The result is same! - Japanese: から, カラ, カラ, から
+The result is same! - Japanese: 追い越し, オイコシ, オイコシ, おいこし
+The result is same! - Japanese: て, テ, テ, て
+The result is same! - Japanese: 赤信号, アカシンゴウ, アカシンゴウ, あかしんごう
+The result is same! - Japanese: になった, ニナッタ, ニナッタ, になった
+The result is same! - Japanese: 四条, シジョウ, シジョウ, しじょう
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 突入, トツニュウ, トツニュウ, とつにゅう
+The result is same! - Japanese: した, シタ, シタ, した
+Non-Japanese: 。
+The result is same! - Japanese: 当時, トウジ, トウジ, とうじ
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 桜, サクラ, サクラ, さくら
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 満開, マンカイ, マンカイ, まんかい
+The result is same! - Japanese: となっており, トナッテオリ, トナッテオリ, となっており
+The result is same! - Japanese: 週末, シュウマツ, シュウマツ, しゅうまつ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is different! - Japanese: 昼時, ヒルトキ, ヒルドキ, ひるどき
+The result is same! - Japanese: とあって, トアッテ, トアッテ, とあって
+The result is same! - Japanese: 観光客, カンコウキャク, カンコウキャク, かんこうきゃく
+The result is same! - Japanese: も, モ, モ, も
+The result is same! - Japanese: 歩道, ホドウ, ホドウ, ほどう
+The result is same! - Japanese: には, ニハ, ニハ, には
+Non-Japanese: 50
+The result is different! - Japanese: 名, ナ, メイ, めい
+The result is same! - Japanese: ほどおり, ホドオリ, ホドオリ, ほどおり
+Non-Japanese: 、
+The result is same! - Japanese: 青信号, アオシンゴウ, アオシンゴウ, あおしんごう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 変わ, カワ, カワ, かわ
+The result is same! - Japanese: った, ッタ, ッタ, った
+The result is same! - Japanese: 横断歩道, オウダンホドウ, オウダンホドウ, おうだんほどう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 渡っ, ワタッ, ワタッ, わたっ
+The result is same! - Japanese: ているところに, テイルトコロニ, テイルトコロニ, ているところに
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 突っ込ん, ツッコン, ツッコン, つっこん
+The result is same! - Japanese: だ, ダ, ダ, だ
+The result is same! - Japanese: 形, カタチ, カタチ, かたち
+The result is same! - Japanese: となった, トナッタ, トナッタ, となった
+Non-Japanese: 。
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 南側, ミナミガワ, ミナミガワ, みなみがわ
+The result is same! - Japanese: で, デ, デ, で
+Non-Japanese: 10
+The result is different! - Japanese: 人, ヒト, ニン, にん
+Non-Japanese: 、
+The result is same! - Japanese: 北側, キタガワ, キタガワ, きたがわ
+The result is same! - Japanese: で, デ, デ, で
+Non-Japanese: 4
+The result is different! - Japanese: 人, ヒト, ニン, にん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 死傷, シショウ, シショウ, ししょう
+The result is same! - Japanese: させたとされる, サセタトサレル, サセタトサレル, させたとされる
+Non-Japanese: 。
+The result is same! - Japanese: 全く, マッタク, マッタク, まったく
+The result is same! - Japanese: ブレーキ, ブレーキ, ブレーキ, ぶれーき
+The result is same! - Japanese: をかけず, ヲカケズ, ヲカケズ, をかけず
+The result is same! - Japanese: 人々, ヒトビト, ヒトビト, ひとびと
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 跳ね, ハネ, ハネ, はね
+The result is same! - Japanese: 飛ば, トバ, トバ, とば
+The result is same! - Japanese: しながら, シナガラ, シナガラ, しながら
+The result is same! - Japanese: 四条, シジョウ, シジョウ, しじょう
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 通過, ツウカ, ツウカ, つうか
+The result is same! - Japanese: し, シ, シ, し
+Non-Japanese: 、
+The result is same! - Japanese: 大和, ヤマト, ヤマト, やまと
+The result is same! - Japanese: 大路, オオジ, オオジ, おおじ
+The result is same! - Japanese: 交番, コウバン, コウバン, こうばん
+The result is same! - Japanese: 前, マエ, マエ, まえ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 過ぎ, スギ, スギ, すぎ
+The result is same! - Japanese: て, テ, テ, て
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 更に, サラニ, サラニ, さらに
+The result is different! - Japanese: 北上, ホクジョウ, キタカミ, きたかみ
+The result is same! - Japanese: した, シタ, シタ, した
+Non-Japanese: 。
+The result is same! - Japanese: このときの, コノトキノ, コノトキノ, このときの
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 通過速度, ツウカソクド, ツウカソクド, つうかそくど
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 時速, ジソク, ジソク, じそく
+Non-Japanese: 50km
+The result is same! - Japanese: とされた, トサレタ, トサレタ, とされた
+Non-Japanese: 。
+The result is same! - Japanese: また, マタ, マタ, また
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is different! - Japanese: 入っ, ハイッ, イッッ, いっっ
+The result is same! - Japanese: てきた, テキタ, テキタ, てきた
+The result is same! - Japanese: 市, シ, シ, し
+The result is same! - Japanese: バス, バス, バス, ばす
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: 寸前, スンゼン, スンゼン, すんぜん
+The result is same! - Japanese: で, デ, デ, で
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 回避, カイヒ, カイヒ, かいひ
+The result is same! - Japanese: している, シテイル, シテイル, している
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: ==== 
+The result is same! - Japanese: 第, ダイ, ダイ, だい
+Non-Japanese: 3
+The result is same! - Japanese: 現場, ゲンバ, ゲンバ, げんば
+Non-Japanese:  ====
+The result is same! - Japanese: 大和, ヤマト, ヤマト, やまと
+The result is same! - Japanese: 大路, オオジ, オオジ, おおじ
+The result is same! - Japanese: にも, ニモ, ニモ, にも
+The result is same! - Japanese: 通行, ツウコウ, ツウコウ, つうこう
+The result is same! - Japanese: 車両, シャリョウ, シャリョウ, しゃりょう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 居た, イタ, イタ, いた
+The result is same! - Japanese: が, ガ, ガ, が
+Non-Japanese: 、
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: はその, ハソノ, ハソノ, はその
+The result is same! - Japanese: 右側, ミギガワ, ミギガワ, みぎがわ
+The result is same! - Japanese: をすり, ヲスリ, ヲスリ, をすり
+The result is same! - Japanese: 抜け, ヌケ, ヌケ, ぬけ
+The result is same! - Japanese: るように, ルヨウニ, ルヨウニ, るように
+The result is same! - Japanese: 猛, タケシ, タケシ, たけし
+The result is same! - Japanese: スピード, スピード, スピード, すぴーど
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: から, カラ, カラ, から
+Non-Japanese: 190
+Non-Japanese: ｍ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 走行, ソウコウ, ソウコウ, そうこう
+The result is same! - Japanese: した, シタ, シタ, した
+Non-Japanese: 。
+The result is same! - Japanese: 途中, トチュウ, トチュウ, とちゅう
+Non-Japanese: 2
+The result is different! - Japanese: 人, ヒト, ニン, にん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 通行人, ツウコウニン, ツウコウニン, つうこうにん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 接触し, セッショクシ, セッショクシ, せっしょくし
+The result is same! - Japanese: 負傷, フショウ, フショウ, ふしょう
+The result is same! - Japanese: させた, サセタ, サセタ, させた
+Non-Japanese: 。
+The result is different! - Japanese: 弁財天, ベザイテン, ベンザイテン, べんざいてん
+The result is same! - Japanese: 町, マチ, マチ, まち
+The result is same! - Japanese: に, ニ, ニ, に
+The result is different! - Japanese: 入っ, ハイッ, イッッ, いっっ
+The result is same! - Japanese: たあたりで, タアタリデ, タアタリデ, たあたりで
+The result is same! - Japanese: 道, ミチ, ミチ, みち
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 左側, ヒダリガワ, ヒダリガワ, ひだりがわ
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 停車, テイシャ, テイシャ, ていしゃ
+The result is same! - Japanese: していた, シテイタ, シテイタ, していた
+The result is same! - Japanese: トラック, トラック, トラック, とらっく
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 避け, サケ, サケ, さけ
+The result is same! - Japanese: る, ル, ル, る
+The result is same! - Japanese: 形, カタチ, カタチ, かたち
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 右側, ミギガワ, ミギガワ, みぎがわ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 電柱, デンチュウ, デンチュウ, でんちゅう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 激突, ゲキトツ, ゲキトツ, げきとつ
+The result is same! - Japanese: して, シテ, シテ, して
+The result is same! - Japanese: 止ま, トマ, トマ, とま
+The result is same! - Japanese: った, ッタ, ッタ, った
+Non-Japanese: 。
+The result is same! - Japanese: この, コノ, コノ, この
+The result is same! - Japanese: 際に, サイニ, サイニ, さいに
+The result is same! - Japanese: も, モ, モ, も
+The result is same! - Japanese: 通行人, ツウコウニン, ツウコウニン, つうこうにん
+Non-Japanese: 1
+The result is different! - Japanese: 名, ナ, メイ, めい
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 巻き込ま, マキコマ, マキコマ, まきこま
+The result is same! - Japanese: れ, レ, レ, れ
+The result is same! - Japanese: 死亡, シボウ, シボウ, しぼう
+The result is same! - Japanese: している, シテイル, シテイル, している
+Non-Japanese: 。
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: から, カラ, カラ, から
+The result is same! - Japanese: 電柱, デンチュウ, デンチュウ, でんちゅう
+The result is same! - Japanese: までには, マデニハ, マデニハ, までには
+Non-Japanese: 10
+The result is same! - Japanese: 台, ダイ, ダイ, だい
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 車両, シャリョウ, シャリョウ, しゃりょう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 居た, イタ, イタ, いた
+The result is same! - Japanese: が, ガ, ガ, が
+Non-Japanese: 、
+The result is same! - Japanese: うち, ウチ, ウチ, うち
+Non-Japanese: 4
+The result is same! - Japanese: 台, ダイ, ダイ, だい
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 車両, シャリョウ, シャリョウ, しゃりょう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 軽く, カルク, カルク, かるく
+The result is same! - Japanese: 接触し, セッショクシ, セッショクシ, せっしょくし
+The result is same! - Japanese: ただけで, タダケデ, タダケデ, ただけで
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 回避, カイヒ, カイヒ, かいひ
+The result is same! - Japanese: している, シテイル, シテイル, している
+Non-Japanese: 。
+The result is same! - Japanese: 途中, トチュウ, トチュウ, とちゅう
+The result is same! - Japanese: 接触し, セッショクシ, セッショクシ, せっしょくし
+The result is same! - Japanese: た, タ, タ, た
+The result is same! - Japanese: 別の, ベツノ, ベツノ, べつの
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: には, ニハ, ニハ, には
+Non-Japanese: 、
+The result is same! - Japanese: 接触現場, セッショクゲンバ, セッショクゲンバ, せっしょくげんば
+The result is same! - Japanese: から, カラ, カラ, から
+The result is same! - Japanese: 電柱, デンチュウ, デンチュウ, でんちゅう
+The result is same! - Japanese: までの, マデノ, マデノ, までの
+Non-Japanese: 40
+Non-Japanese: ｍ
+The result is same! - Japanese: を, ヲ, ヲ, を
+Non-Japanese: 3
+The result is same! - Japanese: 秒, ビョウ, ビョウ, びょう
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 走り, ハシリ, ハシリ, はしり
+The result is same! - Japanese: 抜け, ヌケ, ヌケ, ぬけ
+The result is same! - Japanese: る, ル, ル, る
+The result is different! - Japanese: 軽, カル, ケイ, けい
+The result is same! - Japanese: ワゴン, ワゴン, ワゴン, わごん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 動画, ドウガ, ドウガ, どうが
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: ドライブレコーダー, ドライブレコーダー, ドライブレコーダー, どらいぶれこーだー
+The result is same! - Japanese: によって, ニヨッテ, ニヨッテ, によって
+The result is same! - Japanese: 記録, キロク, キロク, きろく
+The result is same! - Japanese: されており, サレテオリ, サレテオリ, されており
+Non-Japanese: 、
+The result is same! - Japanese: 警察, ケイサツ, ケイサツ, けいさつ
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 電柱, デンチュウ, デンチュウ, でんちゅう
+The result is same! - Japanese: 衝突時, ショウトツジ, ショウトツジ, しょうとつじ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 速度, ソクド, ソクド, そくど
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 時速, ジソク, ジソク, じそく
+Non-Japanese: 70km
+The result is same! - Japanese: と, ト, ト, と
+The result is same! - Japanese: 推定, スイテイ, スイテイ, すいてい
+The result is same! - Japanese: した, シタ, シタ, した
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: 原因, ゲンイン, ゲンイン, げんいん
+Non-Japanese:  ==
+The result is same! - Japanese: 本件, ホンケン, ホンケン, ほんけん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 関し, カンシ, カンシ, かんし
+The result is same! - Japanese: て, テ, テ, て
+Non-Japanese: 、
+The result is same! - Japanese: 単純な, タンジュンナ, タンジュンナ, たんじゅんな
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: による, ニヨル, ニヨル, による
+The result is same! - Japanese: 意識, イシキ, イシキ, いしき
+The result is same! - Japanese: 消失, ショウシツ, ショウシツ, しょうしつ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 原因, ゲンイン, ゲンイン, げんいん
+The result is same! - Japanese: とするには, トスルニハ, トスルニハ, とするには
+Non-Japanese: 、
+The result is same! - Japanese: 最初, サイショ, サイショ, さいしょ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: との, トノ, トノ, との
+The result is same! - Japanese: 追突, ツイトツ, ツイトツ, ついとつ
+The result is same! - Japanese: から, カラ, カラ, から
+The result is same! - Japanese: 電柱, デンチュウ, デンチュウ, でんちゅう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: するまでは, スルマデハ, スルマデハ, するまでは
+Non-Japanese: 360m
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 距離, キョリ, キョリ, きょり
+The result is same! - Japanese: があり, ガアリ, ガアリ, があり
+Non-Japanese: 、
+The result is same! - Japanese: 道幅, ミチハバ, ミチハバ, みちはば
+The result is same! - Japanese: も, モ, モ, も
+The result is same! - Japanese: 非常に, ヒジョウニ, ヒジョウニ, ひじょうに
+The result is same! - Japanese: 狭い, セマイ, セマイ, せまい
+The result is same! - Japanese: 上に, ウエニ, ウエニ, うえに
+The result is same! - Japanese: 通行中, ツウコウチュウ, ツウコウチュウ, つうこうちゅう
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 車両, シャリョウ, シャリョウ, しゃりょう
+Non-Japanese: （
+The result is same! - Japanese: 人力車, ジンリキシャ, ジンリキシャ, じんりきしゃ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 含め, フクメ, フクメ, ふくめ
+Non-Japanese: 14
+The result is same! - Japanese: 台, ダイ, ダイ, だい
+The result is same! - Japanese: 以上, イジョウ, イジョウ, いじょう
+Non-Japanese: ）
+The result is same! - Japanese: には, ニハ, ニハ, には
+The result is same! - Japanese: 軽い, カルイ, カルイ, かるい
+The result is same! - Japanese: 接触, セッショク, セッショク, せっしょく
+The result is same! - Japanese: をしたのみで, ヲシタノミデ, ヲシタノミデ, をしたのみで
+The result is same! - Japanese: 走り, ハシリ, ハシリ, はしり
+The result is same! - Japanese: 抜け, ヌケ, ヌケ, ぬけ
+The result is same! - Japanese: ているなど, テイルナド, テイルナド, ているなど
+Non-Japanese: 、
+The result is same! - Japanese: 不可解, フカカイ, フカカイ, ふかかい
+The result is same! - Japanese: な, ナ, ナ, な
+The result is same! - Japanese: 点, テン, テン, てん
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 見ら, ミラ, ミラ, みら
+The result is same! - Japanese: れた, レタ, レタ, れた
+Non-Japanese: 。
+The result is same! - Japanese: このため, コノタメ, コノタメ, このため
+Non-Japanese: 、
+The result is same! - Japanese: 警察, ケイサツ, ケイサツ, けいさつ
+The result is same! - Japanese: 当局, トウキョク, トウキョク, とうきょく
+The result is same! - Japanese: も, モ, モ, も
+The result is same! - Japanese: 当初, トウショ, トウショ, とうしょ
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 追突, ツイトツ, ツイトツ, ついとつ
+The result is same! - Japanese: した, シタ, シタ, した
+The result is different! - Japanese: 後に, ゴニ, ノチニ, のちに
+The result is same! - Japanese: 逃走, トウソウ, トウソウ, とうそう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 図っ, ハカッ, ハカッ, はかっ
+The result is same! - Japanese: た, タ, タ, た
+The result is different! - Japanese: 末, スエ, マツ, まつ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 重大, ジュウダイ, ジュウダイ, じゅうだい
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 可能性, カノウセイ, カノウセイ, かのうせい
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 疑っ, ウタガッ, ウタガッ, うたがっ
+The result is same! - Japanese: ていた, テイタ, テイタ, ていた
+Non-Japanese: 。
+The result is same! - Japanese: しかし, シカシ, シカシ, しかし
+The result is same! - Japanese: 最終的, サイシュウテキ, サイシュウテキ, さいしゅうてき
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 京都府, キョウトフ, キョウトフ, きょうとふ
+The result is different! - Japanese: 警, , ケイ, けい
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 、
+The result is same! - Japanese: 最初, サイショ, サイショ, さいしょ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: タクシー, タクシー, タクシー, たくしー
+The result is same! - Japanese: との, トノ, トノ, との
+The result is same! - Japanese: 衝突, ショウトツ, ショウトツ, しょうとつ
+The result is same! - Japanese: によって, ニヨッテ, ニヨッテ, によって
+The result is same! - Japanese: 精神的, セイシンテキ, セイシンテキ, せいしんてき
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 動転, ドウテン, ドウテン, どうてん
+The result is same! - Japanese: し, シ, シ, し
+Non-Japanese: 、
+The result is same! - Japanese: 大和, ヤマト, ヤマト, やまと
+The result is same! - Japanese: 大路, オオジ, オオジ, おおじ
+The result is different! - Japanese: 通を, ツウヲ, カヨヲ, かよを
+The result is same! - Japanese: 逃走, トウソウ, トウソウ, とうそう
+The result is same! - Japanese: 中に, ナカニ, ナカニ, なかに
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 起き, オキ, オキ, おき
+Non-Japanese: 、
+The result is same! - Japanese: 暴走, ボウソウ, ボウソウ, ぼうそう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 至っ, イタッ, イタッ, いたっ
+The result is same! - Japanese: たと, タト, タト, たと
+The result is same! - Japanese: 判断, ハンダン, ハンダン, はんだん
+The result is same! - Japanese: し, シ, シ, し
+Non-Japanese: 、
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 容疑者, ヨウギシャ, ヨウギシャ, ようぎしゃ
+The result is same! - Japanese: 死亡, シボウ, シボウ, しぼう
+The result is same! - Japanese: のまま, ノママ, ノママ, のまま
+The result is same! - Japanese: 検察, ケンサツ, ケンサツ, けんさつ
+The result is same! - Japanese: へ, ヘ, ヘ, へ
+The result is same! - Japanese: 書類, ショルイ, ショルイ, しょるい
+The result is same! - Japanese: 送致, ソウチ, ソウチ, そうち
+The result is same! - Japanese: した, シタ, シタ, した
+Non-Japanese: 。
+The result is same! - Japanese: なおこの, ナオコノ, ナオコノ, なおこの
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: の, ノ, ノ, の
+Non-Japanese: 3
+The result is different! - Japanese: 日前, ヒクマ, ニチマエ, にちまえ
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 鹿沼, カヌマ, カヌマ, かぬま
+The result is same! - Japanese: 市, シ, シ, し
+The result is same! - Japanese: クレーン, クレーン, クレーン, くれーん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: 暴走事故, ボウソウジコ, ボウソウジコ, ぼうそうじこ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 遺族, イゾク, イゾク, いぞく
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 危険, キケン, キケン, きけん
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: 致死傷, チシショウ, チシショウ, ちししょう
+The result is same! - Japanese: 罪, ツミ, ツミ, つみ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 改正, カイセイ, カイセイ, かいせい
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 署名, ショメイ, ショメイ, しょめい
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 法務省, ホウムショウ, ホウムショウ, ほうむしょう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 提出, テイシュツ, テイシュツ, ていしゅつ
+The result is same! - Japanese: しており, シテオリ, シテオリ, しており
+Non-Japanese: 、
+The result is same! - Japanese: その, ソノ, ソノ, その
+The result is same! - Japanese: 矢先, ヤサキ, ヤサキ, やさき
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 発生, ハッセイ, ハッセイ, はっせい
+The result is same! - Japanese: した, シタ, シタ, した
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: であった, デアッタ, デアッタ, であった
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 刑事, ケイジ, ケイジ, けいじ
+The result is same! - Japanese: 処理, ショリ, ショリ, しょり
+Non-Japanese:  ==
+Non-Japanese: 2013
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 8
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: 8
+The result is different! - Japanese: 日, ヒ, ニチ, にち
+Non-Japanese: 、
+The result is same! - Japanese: 京都, キョウト, キョウト, きょうと
+The result is same! - Japanese: 地方, チホウ, チホウ, ちほう
+The result is same! - Japanese: 検察庁, ケンサツチョウ, ケンサツチョウ, けんさつちょう
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 容疑者, ヨウギシャ, ヨウギシャ, ようぎしゃ
+The result is same! - Japanese: 死亡, シボウ, シボウ, しぼう
+The result is same! - Japanese: により, ニヨリ, ニヨリ, により
+The result is same! - Japanese: 不起訴, フキソ, フキソ, ふきそ
+The result is same! - Japanese: とし, トシ, トシ, とし
+Non-Japanese: 、
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 勤務先, キンムサキ, キンムサキ, きんむさき
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 社長, シャチョウ, シャチョウ, しゃちょう
+The result is same! - Japanese: も, モ, モ, も
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 持病, ジビョウ, ジビョウ, じびょう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 認識, ニンシキ, ニンシキ, にんしき
+The result is same! - Japanese: していなかったため, シテイナカッタタメ, シテイナカッタタメ, していなかったため
+The result is same! - Japanese: 不起訴処分, フキソショブン, フキソショブン, ふきそしょぶん
+The result is same! - Japanese: とする, トスル, トスル, とする
+The result is same! - Japanese: 方針, ホウシン, ホウシン, ほうしん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 固め, カタメ, カタメ, かため
+The result is same! - Japanese: た, タ, タ, た
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 民事裁判, ミンジサイバン, ミンジサイバン, みんじさいばん
+Non-Japanese:  ==
+The result is same! - Japanese: 被害者, ヒガイシャ, ヒガイシャ, ひがいしゃ
+The result is same! - Japanese: 遺族, イゾク, イゾク, いぞく
+The result is same! - Japanese: らによって, ラニヨッテ, ラニヨッテ, らによって
+Non-Japanese: 、
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 遺族, イゾク, イゾク, いぞく
+The result is same! - Japanese: および, オヨビ, オヨビ, および
+The result is same! - Japanese: 雇用者, コヨウシャ, コヨウシャ, こようしゃ
+The result is same! - Japanese: だった, ダッタ, ダッタ, だった
+The result is same! - Japanese: 企業, キギョウ, キギョウ, きぎょう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 対し, タイシ, タイシ, たいし
+The result is same! - Japanese: て, テ, テ, て
+Non-Japanese: 、
+The result is same! - Japanese: 慰謝料, イシャリョウ, イシャリョウ, いしゃりょう
+The result is same! - Japanese: などの, ナドノ, ナドノ, などの
+The result is same! - Japanese: 損害賠償請求, ソンガイバイショウセイキュウ, ソンガイバイショウセイキュウ, そんがいばいしょうせいきゅう
+The result is same! - Japanese: 訴訟, ソショウ, ソショウ, そしょう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 提起, テイキ, テイキ, ていき
+The result is same! - Japanese: された, サレタ, サレタ, された
+Non-Japanese: 。
+The result is same! - Japanese: 原告, ゲンコク, ゲンコク, げんこく
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 、
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 遺族, イゾク, イゾク, いぞく
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 対し, タイシ, タイシ, たいし
+The result is same! - Japanese: ては, テハ, テハ, ては
+Non-Japanese: 「
+The result is same! - Japanese: 男性, ダンセイ, ダンセイ, だんせい
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 損害賠償, ソンガイバイショウ, ソンガイバイショウ, そんがいばいしょう
+The result is same! - Japanese: 義務, ギム, ギム, ぎむ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 相続, ソウゾク, ソウゾク, そうぞく
+The result is same! - Japanese: している, シテイル, シテイル, している
+Non-Japanese: 」
+The result is same! - Japanese: とし, トシ, トシ, とし
+Non-Japanese: 、
+The result is same! - Japanese: 雇用者, コヨウシャ, コヨウシャ, こようしゃ
+The result is same! - Japanese: だった, ダッタ, ダッタ, だった
+The result is same! - Japanese: 企業, キギョウ, キギョウ, きぎょう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 対し, タイシ, タイシ, たいし
+The result is same! - Japanese: ては, テハ, テハ, ては
+The result is same! - Japanese: 事故車, ジコシャ, ジコシャ, じこしゃ
+The result is same! - Japanese: 両, リョウ, リョウ, りょう
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 所有者, ショユウシャ, ショユウシャ, しょゆうしゃ
+The result is same! - Japanese: であり, デアリ, デアリ, であり
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 雇用, コヨウ, コヨウ, こよう
+The result is different! - Japanese: 主, アルジ, シュ, しゅ
+The result is same! - Japanese: であるので, デアルノデ, デアルノデ, であるので
+Non-Japanese: 、
+Non-Japanese: 「
+The result is same! - Japanese: 自動車, ジドウシャ, ジドウシャ, じどうしゃ
+The result is same! - Japanese: 損害賠償, ソンガイバイショウ, ソンガイバイショウ, そんがいばいしょう
+The result is same! - Japanese: 保障, ホショウ, ホショウ, ほしょう
+The result is same! - Japanese: 法, ホウ, ホウ, ほう
+The result is same! - Japanese: などに, ナドニ, ナドニ, などに
+The result is different! - Japanese: 基づ, モト, モトヅ, もとづ
+The result is same! - Japanese: く, ク, ク, く
+The result is same! - Japanese: 使用者, シヨウシャ, シヨウシャ, しようしゃ
+The result is same! - Japanese: 責任, セキニン, セキニン, せきにん
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 生じ, ショウジ, ショウジ, しょうじ
+The result is same! - Japanese: る, ル, ル, る
+Non-Japanese: 」
+The result is same! - Japanese: とした, トシタ, トシタ, とした
+Non-Japanese: 。
+Non-Japanese: 2014
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 2
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: 4
+The result is different! - Japanese: 日, ヒ, ニチ, にち
+Non-Japanese: 、
+The result is same! - Japanese: 京都, キョウト, キョウト, きょうと
+The result is same! - Japanese: 地方, チホウ, チホウ, ちほう
+The result is same! - Japanese: 裁判所, サイバンショ, サイバンショ, さいばんしょ
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 「
+The result is same! - Japanese: 元, モト, モト, もと
+The result is same! - Japanese: 従業員, ジュウギョウイン, ジュウギョウイン, じゅうぎょういん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 過失, カシツ, カシツ, かしつ
+The result is same! - Japanese: があり, ガアリ, ガアリ, があり
+Non-Japanese: 、
+The result is same! - Japanese: 会社, カイシャ, カイシャ, かいしゃ
+The result is same! - Japanese: と, ト, ト, と
+The result is same! - Japanese: 家族, カゾク, カゾク, かぞく
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 賠償責任, バイショウセキニン, バイショウセキニン, ばいしょうせきにん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 負う, オウ, オウ, おう
+The result is same! - Japanese: ことに, コトニ, コトニ, ことに
+The result is same! - Japanese: 争い, アラソイ, アラソイ, あらそい
+The result is same! - Japanese: がない, ガナイ, ガナイ, がない
+Non-Japanese: 」
+The result is same! - Japanese: として, トシテ, トシテ, として
+Non-Japanese: 、
+The result is same! - Japanese: 運転手, ウンテンシュ, ウンテンシュ, うんてんしゅ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 家族, カゾク, カゾク, かぞく
+The result is same! - Japanese: と, ト, ト, と
+The result is same! - Japanese: 勤務先, キンムサキ, キンムサキ, きんむさき
+The result is same! - Japanese: 会社, カイシャ, カイシャ, かいしゃ
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 対し, タイシ, タイシ, たいし
+Non-Japanese: 、
+The result is same! - Japanese: 逸失, イッシツ, イッシツ, いっしつ
+The result is same! - Japanese: 利益, リエキ, リエキ, りえき
+The result is same! - Japanese: 約, ヤク, ヤク, やく
+Non-Japanese: 2100
+The result is same! - Japanese: 万円, マンエン, マンエン, まんえん
+The result is same! - Japanese: や, ヤ, ヤ, や
+The result is same! - Japanese: 慰謝料, イシャリョウ, イシャリョウ, いしゃりょう
+Non-Japanese: 2700
+The result is same! - Japanese: 万円, マンエン, マンエン, まんえん
+The result is same! - Japanese: などを, ナドヲ, ナドヲ, などを
+The result is same! - Japanese: 含む, フクム, フクム, ふくむ
+The result is same! - Japanese: 総額, ソウガク, ソウガク, そうがく
+Non-Japanese: 5200
+The result is same! - Japanese: 万円, マンエン, マンエン, まんえん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 支払い, シハライ, シハライ, しはらい
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 命じ, メイジ, メイジ, めいじ
+The result is same! - Japanese: た, タ, タ, た
+Non-Japanese: 。
+Non-Japanese: 2015
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 10
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+The result is same! - Japanese: には, ニハ, ニハ, には
+Non-Japanese: 、
+Non-Japanese: 4600
+The result is same! - Japanese: 万円, マンエン, マンエン, まんえん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 支払い, シハライ, シハライ, しはらい
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 求め, モトメ, モトメ, もとめ
+The result is same! - Japanese: る, ル, ル, る
+The result is same! - Japanese: 別の, ベツノ, ベツノ, べつの
+The result is same! - Japanese: 訴訟, ソショウ, ソショウ, そしょう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 起こ, オコ, オコ, おこ
+The result is same! - Japanese: された, サレタ, サレタ, された
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 道路, ドウロ, ドウロ, どうろ
+The result is same! - Japanese: 改修, カイシュウ, カイシュウ, かいしゅう
+Non-Japanese:  ==
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 受け, ウケ, ウケ, うけ
+The result is same! - Japanese: て, テ, テ, て
+Non-Japanese: 、
+The result is same! - Japanese: 現場, ゲンバ, ゲンバ, げんば
+The result is same! - Japanese: となった, トナッタ, トナッタ, となった
+The result is same! - Japanese: 大和, ヤマト, ヤマト, やまと
+The result is same! - Japanese: 大路, オオジ, オオジ, おおじ
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: では, デハ, デハ, では
+The result is same! - Japanese: 道路, ドウロ, ドウロ, どうろ
+The result is same! - Japanese: 改修, カイシュウ, カイシュウ, かいしゅう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 行わ, オコナワ, オコナワ, おこなわ
+The result is same! - Japanese: れた, レタ, レタ, れた
+Non-Japanese: 。
+The result is same! - Japanese: 自動車, ジドウシャ, ジドウシャ, じどうしゃ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 制限速度, セイゲンソクド, セイゲンソクド, せいげんそくど
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 40km
+The result is same! - Japanese: から, カラ, カラ, から
+Non-Japanese: 30km
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 改め, アラタメ, アラタメ, あらため
+The result is same! - Japanese: られ, ラレ, ラレ, られ
+Non-Japanese: 、
+The result is same! - Japanese: 横断歩道, オウダンホドウ, オウダンホドウ, おうだんほどう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 新設, シンセツ, シンセツ, しんせつ
+The result is same! - Japanese: された, サレタ, サレタ, された
+Non-Japanese: 。
+The result is same! - Japanese: 歩行者, ホコウシャ, ホコウシャ, ほこうしゃ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 守る, マモル, マモル, まもる
+The result is same! - Japanese: ために, タメニ, タメニ, ために
+The result is same! - Japanese: 車止, クルマドメ, クルマドメ, くるまどめ
+The result is same! - Japanese: めが, メガ, メガ, めが
+The result is same! - Japanese: 設置, セッチ, セッチ, せっち
+The result is same! - Japanese: されたり, サレタリ, サレタリ, されたり
+The result is same! - Japanese: 通行, ツウコウ, ツウコウ, つうこう
+The result is same! - Japanese: 帯, オビ, オビ, おび
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 明確, メイカク, メイカク, めいかく
+The result is same! - Japanese: にする, ニスル, ニスル, にする
+The result is same! - Japanese: ライン, ライン, ライン, らいん
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 引か, ヒカ, ヒカ, ひか
+The result is same! - Japanese: れ, レ, レ, れ
+Non-Japanese: 、
+The result is same! - Japanese: 車道, シャドウ, シャドウ, しゃどう
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 幅, ハバ, ハバ, はば
+The result is same! - Japanese: は, ハ, ハ, は
+Non-Japanese: 4m
+The result is same! - Japanese: から, カラ, カラ, から
+Non-Japanese: 3m
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 縮小, シュクショウ, シュクショウ, しゅくしょう
+The result is same! - Japanese: された, サレタ, サレタ, された
+Non-Japanese: 。
+The result is same! - Japanese: 工事, コウジ, コウジ, こうじ
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 地元, ジモト, ジモト, じもと
+The result is same! - Japanese: 住民, ジュウミン, ジュウミン, じゅうみん
+The result is same! - Japanese: らの, ラノ, ラノ, らの
+The result is same! - Japanese: 陳情, チンジョウ, チンジョウ, ちんじょう
+The result is same! - Japanese: によって, ニヨッテ, ニヨッテ, によって
+The result is same! - Japanese: 京都府, キョウトフ, キョウトフ, きょうとふ
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 計画, ケイカク, ケイカク, けいかく
+The result is same! - Japanese: し, シ, シ, し
+Non-Japanese: 2012
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 11
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+The result is same! - Japanese: より, ヨリ, ヨリ, より
+The result is same! - Japanese: 実施, ジッシ, ジッシ, じっし
+The result is same! - Japanese: された, サレタ, サレタ, された
+Non-Japanese: 。
+The result is same! - Japanese: 工事, コウジ, コウジ, こうじ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 対象, タイショウ, タイショウ, たいしょう
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 事故現場, ジコゲンバ, ジコゲンバ, じこげんば
+The result is same! - Japanese: だけではなく, ダケデハナク, ダケデハナク, だけではなく
+Non-Japanese: 、
+The result is same! - Japanese: 四条, シジョウ, シジョウ, しじょう
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: から, カラ, カラ, から
+The result is same! - Japanese: 若松, ワカマツ, ワカマツ, わかまつ
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: までの, マデノ, マデノ, までの
+The result is same! - Japanese: 北側, キタガワ, キタガワ, きたがわ
+The result is same! - Japanese: 約, ヤク, ヤク, やく
+Non-Japanese: 470m
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 区間, クカン, クカン, くかん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 及ん, オヨン, オヨン, およん
+The result is same! - Japanese: だ, ダ, ダ, だ
+Non-Japanese: 。
+The result is same! - Japanese: 観光客, カンコウキャク, カンコウキャク, かんこうきゃく
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 多い, オオイ, オオイ, おおい
+The result is same! - Japanese: 白川, シラカワ, シラカワ, しらかわ
+The result is same! - Japanese: 南, ミナミ, ミナミ, みなみ
+The result is different! - Japanese: 通, ツウ, トオリ, とおり
+The result is same! - Japanese: 周辺, シュウヘン, シュウヘン, しゅうへん
+The result is same! - Japanese: でも, デモ, デモ, でも
+The result is same! - Japanese: 同様, ドウヨウ, ドウヨウ, どうよう
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 工事, コウジ, コウジ, こうじ
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 実施, ジッシ, ジッシ, じっし
+The result is same! - Japanese: された, サレタ, サレタ, された
+Non-Japanese: 。
+The result is same! - Japanese: 事故現場, ジコゲンバ, ジコゲンバ, じこげんば
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 大和, ヤマト, ヤマト, やまと
+The result is same! - Japanese: 大路, オオジ, オオジ, おおじ
+The result is same! - Japanese: 四条, シジョウ, シジョウ, しじょう
+The result is same! - Japanese: 交差点, コウサテン, コウサテン, こうさてん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 北側, キタガワ, キタガワ, きたがわ
+The result is same! - Japanese: には, ニハ, ニハ, には
+The result is same! - Japanese: 長さ, ナガサ, ナガサ, ながさ
+Non-Japanese: 4m
+The result is same! - Japanese: と, ト, ト, と
+Non-Japanese: 6m
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 防護, ボウゴ, ボウゴ, ぼうご
+The result is different! - Japanese: 柵, シガラミ, サク, さく
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 設置, セッチ, セッチ, せっち
+The result is same! - Japanese: された, サレタ, サレタ, された
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 雇用, コヨウ, コヨウ, こよう
+The result is same! - Japanese: 側, ガワ, ガワ, がわ
+The result is same! - Japanese: 企業, キギョウ, キギョウ, きぎょう
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 破産, ハサン, ハサン, はさん
+Non-Japanese:  ==
+Non-Japanese: 2016
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 1
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: 、
+The result is same! - Japanese: 雇用, コヨウ, コヨウ, こよう
+The result is same! - Japanese: 側, ガワ, ガワ, がわ
+The result is same! - Japanese: だった, ダッタ, ダッタ, だった
+The result is same! - Japanese: 企業, キギョウ, キギョウ, きぎょう
+The result is same! - Japanese: は, ハ, ハ, は
+The result is same! - Japanese: 信用, シンヨウ, シンヨウ, しんよう
+The result is same! - Japanese: 不安, フアン, フアン, ふあん
+The result is same! - Japanese: による, ニヨル, ニヨル, による
+The result is same! - Japanese: 経営悪化, ケイエイアッカ, ケイエイアッカ, けいえいあっか
+The result is same! - Japanese: に, ニ, ニ, に
+The result is different! - Japanese: 陥っ, オチイッ, オチッ, おちっ
+The result is same! - Japanese: たとされ, タトサレ, タトサレ, たとされ
+Non-Japanese: 、
+Non-Japanese: 5
+The result is same! - Japanese: 億, オク, オク, おく
+Non-Japanese: 7000
+The result is same! - Japanese: 万円, マンエン, マンエン, まんえん
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 負債, フサイ, フサイ, ふさい
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 抱え, カカエ, カカエ, かかえ
+The result is same! - Japanese: て, テ, テ, て
+The result is same! - Japanese: 自己破産, ジコハサン, ジコハサン, じこはさん
+The result is same! - Japanese: する, スル, スル, する
+The result is same! - Japanese: 方針, ホウシン, ホウシン, ほうしん
+The result is same! - Japanese: となった, トナッタ, トナッタ, となった
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 関連, カンレン, カンレン, かんれん
+The result is same! - Japanese: 処罰, ショバツ, ショバツ, しょばつ
+The result is same! - Japanese: 法改正, ホウカイセイ, ホウカイセイ, ほうかいせい
+Non-Japanese:  ==
+The result is different! - Japanese: 本事, ホンゴト, ホンジ, ほんじ
+The result is same! - Japanese: 件, ケン, ケン, けん
+The result is same! - Japanese: および, オヨビ, オヨビ, および
+The result is same! - Japanese: 鹿沼, カヌマ, カヌマ, かぬま
+The result is same! - Japanese: 市, シ, シ, し
+The result is same! - Japanese: クレーン, クレーン, クレーン, くれーん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: 暴走事故, ボウソウジコ, ボウソウジコ, ぼうそうじこ
+The result is same! - Japanese: によって, ニヨッテ, ニヨッテ, によって
+Non-Japanese: 、
+The result is same! - Japanese: 持病, ジビョウ, ジビョウ, じびょう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 申告, シンコク, シンコク, しんこく
+The result is same! - Japanese: せずに, セズニ, セズニ, せずに
+The result is same! - Japanese: 免許, メンキョ, メンキョ, めんきょ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 取得, シュトク, シュトク, しゅとく
+The result is same! - Japanese: ・, ・, ・, ・
+The result is same! - Japanese: 更新, コウシン, コウシン, こうしん
+The result is same! - Japanese: して, シテ, シテ, して
+The result is same! - Japanese: 病気, ビョウキ, ビョウキ, びょうき
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 発作, ホッサ, ホッサ, ほっさ
+The result is same! - Japanese: によって, ニヨッテ, ニヨッテ, によって
+The result is same! - Japanese: 重大, ジュウダイ, ジュウダイ, じゅうだい
+The result is same! - Japanese: 事故, ジコ, ジコ, じこ
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 相次, アイツギ, アイツギ, あいつぎ
+The result is same! - Japanese: いでいることが, イデイルコトガ, イデイルコトガ, いでいることが
+The result is same! - Japanese: 問題視, モンダイシ, モンダイシ, もんだいし
+The result is same! - Japanese: されるようになった, サレルヨウニナッタ, サレルヨウニナッタ, されるようになった
+Non-Japanese: 。
+The result is same! - Japanese: これを, コレヲ, コレヲ, これを
+The result is same! - Japanese: 受け, ウケ, ウケ, うけ
+The result is same! - Japanese: て, テ, テ, て
+Non-Japanese: 、
+Non-Japanese: 2013
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 6
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: 14
+The result is different! - Japanese: 日, ヒ, ニチ, にち
+Non-Japanese: 、
+The result is same! - Japanese: 道路交通法, ドウロコウツウホウ, ドウロコウツウホウ, どうろこうつうほう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 改正, カイセイ, カイセイ, かいせい
+The result is same! - Japanese: され, サレ, サレ, され
+Non-Japanese: 、
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 支障, シショウ, シショウ, ししょう
+The result is same! - Japanese: のある, ノアル, ノアル, のある
+The result is same! - Japanese: 者, モノ, モノ, もの
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 免許取得, メンキョシュトク, メンキョシュトク, めんきょしゅとく
+The result is same! - Japanese: ・, ・, ・, ・
+The result is same! - Japanese: 更新時, コウシンジ, コウシンジ, こうしんじ
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 虚偽, キョギ, キョギ, きょぎ
+The result is same! - Japanese: 申告, シンコク, シンコク, しんこく
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 行った, イッタ, イッタ, いった
+The result is same! - Japanese: 場合, バアイ, バアイ, ばあい
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 罰則, バッソク, バッソク, ばっそく
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 設け, モウケ, モウケ, もうけ
+The result is same! - Japanese: られた, ラレタ, ラレタ, られた
+Non-Japanese: 。
+Non-Japanese: 2014
+The result is different! - Japanese: 年, トシ, ネン, ねん
+Non-Japanese: 5
+The result is different! - Japanese: 月, ツキ, ガツ, がつ
+Non-Japanese: 20
+The result is different! - Japanese: 日, ヒ, ニチ, にち
+The result is same! - Japanese: には, ニハ, ニハ, には
+Non-Japanese: 、
+The result is same! - Japanese: 自動車, ジドウシャ, ジドウシャ, じどうしゃ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: により, ニヨリ, ニヨリ, により
+The result is different! - Japanese: 人, ヒト, ニン, にん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 死傷, シショウ, シショウ, ししょう
+The result is same! - Japanese: させる, サセル, サセル, させる
+The result is same! - Japanese: 行為, コウイ, コウイ, こうい
+The result is different! - Japanese: 等, ヒトシ, ナド, など
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 処罰, ショバツ, ショバツ, しょばつ
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 関す, カンス, カンス, かんす
+The result is same! - Japanese: る, ル, ル, る
+The result is same! - Japanese: 法律, ホウリツ, ホウリツ, ほうりつ
+Non-Japanese: (
+The result is same! - Japanese: 自動車, ジドウシャ, ジドウシャ, じどうしゃ
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: 死傷, シショウ, シショウ, ししょう
+The result is same! - Japanese: 行為, コウイ, コウイ, こうい
+The result is same! - Japanese: 処罰, ショバツ, ショバツ, しょばつ
+The result is same! - Japanese: 法, ホウ, ホウ, ほう
+Non-Japanese: )
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 施行, シコウ, シコウ, しこう
+The result is same! - Japanese: され, サレ, サレ, され
+Non-Japanese: 、
+The result is same! - Japanese: 自動車, ジドウシャ, ジドウシャ, じどうしゃ
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 支障, シショウ, シショウ, ししょう
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 及ぼ, オヨボ, オヨボ, およぼ
+The result is same! - Japanese: すおそれがある, スオソレガアル, スオソレガアル, すおそれがある
+The result is same! - Japanese: 病気, ビョウキ, ビョウキ, びょうき
+The result is same! - Japanese: として, トシテ, トシテ, として
+The result is same! - Japanese: 政令, セイレイ, セイレイ, せいれい
+The result is same! - Japanese: で, デ, デ, で
+The result is same! - Japanese: 定め, サダメ, サダメ, さだめ
+The result is same! - Japanese: るものの, ルモノノ, ルモノノ, るものの
+The result is same! - Japanese: 影響, エイキョウ, エイキョウ, えいきょう
+The result is same! - Japanese: により, ニヨリ, ニヨリ, により
+Non-Japanese: 、
+The result is same! - Japanese: その, ソノ, ソノ, その
+The result is same! - Japanese: 走行中, ソウコウチュウ, ソウコウチュウ, そうこうちゅう
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 正常, セイジョウ, セイジョウ, せいじょう
+The result is same! - Japanese: な, ナ, ナ, な
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 支障, シショウ, シショウ, ししょう
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 生じ, ショウジ, ショウジ, しょうじ
+The result is same! - Japanese: るおそれがある, ルオソレガアル, ルオソレガアル, るおそれがある
+The result is same! - Japanese: 状態, ジョウタイ, ジョウタイ, じょうたい
+The result is same! - Japanese: で, デ, デ, で
+Non-Japanese: 、
+The result is same! - Japanese: 自動車, ジドウシャ, ジドウシャ, じどうしゃ
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: し, シ, シ, し
+Non-Japanese: 、
+The result is same! - Japanese: その, ソノ, ソノ, その
+The result is same! - Japanese: 病気, ビョウキ, ビョウキ, びょうき
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 影響, エイキョウ, エイキョウ, えいきょう
+The result is same! - Japanese: により, ニヨリ, ニヨリ, により
+The result is same! - Japanese: 正常, セイジョウ, セイジョウ, せいじょう
+The result is same! - Japanese: な, ナ, ナ, な
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: が, ガ, ガ, が
+The result is same! - Japanese: 困難, コンナン, コンナン, こんなん
+The result is same! - Japanese: な, ナ, ナ, な
+The result is same! - Japanese: 状態, ジョウタイ, ジョウタイ, じょうたい
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 陥り, オチイリ, オチイリ, おちいり
+Non-Japanese: 、
+The result is different! - Japanese: 人, ヒト, ニン, にん
+The result is same! - Japanese: を, ヲ, ヲ, を
+The result is same! - Japanese: 死傷, シショウ, シショウ, ししょう
+The result is same! - Japanese: させた, サセタ, サセタ, させた
+The result is same! - Japanese: 場合, バアイ, バアイ, ばあい
+The result is same! - Japanese: に, ニ, ニ, に
+Non-Japanese: 、
+The result is same! - Japanese: 危険, キケン, キケン, きけん
+The result is same! - Japanese: 運転, ウンテン, ウンテン, うんてん
+The result is same! - Japanese: 致死傷, チシショウ, チシショウ, ちししょう
+The result is same! - Japanese: として, トシテ, トシテ, として
+The result is same! - Japanese: 被害者, ヒガイシャ, ヒガイシャ, ひがいしゃ
+The result is same! - Japanese: 死亡, シボウ, シボウ, しぼう
+The result is same! - Japanese: の, ノ, ノ, の
+The result is same! - Japanese: 場合, バアイ, バアイ, ばあい
+The result is same! - Japanese: で, デ, デ, で
+Non-Japanese: 1
+The result is different! - Japanese: 年以上, トシイジョウ, ネンイジョウ, ねんいじょう
+Non-Japanese: 20
+The result is different! - Japanese: 年, トシ, ネン, ねん
+The result is same! - Japanese: 以下の, イカノ, イカノ, いかの
+The result is same! - Japanese: 有期, ユウキ, ユウキ, ゆうき
+The result is same! - Japanese: 懲役, チョウエキ, チョウエキ, ちょうえき
+The result is same! - Japanese: に, ニ, ニ, に
+The result is same! - Japanese: 問え, トエ, トエ, とえ
+The result is same! - Japanese: るようになった, ルヨウニナッタ, ルヨウニナッタ, るようになった
+Non-Japanese: 。
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 脚注, キャクチュウ, キャクチュウ, きゃくちゅう
+Non-Japanese:  ==
+Non-Japanese: 
+Non-Japanese: 
+Non-Japanese: == 
+The result is same! - Japanese: 関連項目, カンレンコウモク, カンレンコウモク, かんれんこうもく
+Non-Japanese:  ==
+The result is same! - Japanese: てんかん, テンカン, テンカン, てんかん
+The result is same! - Japanese: てんかんによる, テンカンニヨル, テンカンニヨル, てんかんによる
+The result is same! - Japanese: 交通事故, コウツウジコ, コウツウジコ, こうつうじこ
+The result is same! - Japanese: 鹿沼, カヌマ, カヌマ, かぬま
+The result is same! - Japanese: 市, シ, シ, し
+The result is same! - Japanese: クレーン, クレーン, クレーン, くれーん
+The result is same! - Japanese: 車, クルマ, クルマ, くるま
+The result is same! - Japanese: 暴走事故, ボウソウジコ, ボウソウジコ, ぼうそうじこ
+The result is same! - Japanese: 池袋駅東口, イケブクロエキヒガシグチ, イケブクロエキヒガシグチ, いけぶくろえきひがしぐち
+The result is same! - Japanese: 乗用車, ジョウヨウシャ, ジョウヨウシャ, じょうようしゃ
+The result is same! - Japanese: 暴走事故, ボウソウジコ, ボウソウジコ, ぼうそうじこ

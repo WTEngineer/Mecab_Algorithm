@@ -1,0 +1,1 @@
+Error: Error code: 400 - {'error': {'message': 'max_tokens is too large: 8000. This model supports at most 4096 completion tokens, whereas you provided 8000.', 'type': 'invalid_request_error', 'param': 'max_tokens', 'code': None}}

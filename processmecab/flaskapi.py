@@ -224,6 +224,7 @@ def process_text():
         
         # Read the content of the input file
         input_text = input_file.read().decode('utf-8')
+        # print(input_text)
         
         # Generate the prompt list
         prompt_list = generate_prompt_list(user_prompt_txt, input_text)
@@ -237,19 +238,20 @@ def process_text():
         # Create an empty list to store the pairs (original, result)
         original_and_results = []
 
+        # print(res['output'])
         # Process each line in the input string
         lines = res['output'].strip().split("\n")
-        print(lines)
+        
         for line in lines:
             original, result = split_line(line)
             # Add the (original, result) pair to the list
             original_and_results.append((original, result))
 
         # Output the array of (original, result) pairs
-        for original, result in original_and_results:
-            print(f"Original: {original}")
-            print(f"Result: {result}")
-            print("-" * 50)
+        # for original, result in original_and_results:
+        #     print(f"Original: {original}")
+        #     print(f"Result: {result}")
+        #     print("-" * 50)
         
         # Return the result as JSON
         return jsonify({

@@ -81,7 +81,7 @@ function Home({ route }) {
       });
       console.log(totalnodes);
       // Set the parsed result from the API response into state
-      setParsedResult(totalnodes);
+      setParsedResult(realdata);
     } catch (error) {
       console.error("Error fetching MeCab result:", error);
     }

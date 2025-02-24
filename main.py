@@ -27,13 +27,13 @@ def process_file(file_path, outfile_path, result_path, fresult_path):
                 else:
                     if is_same:
                         result_file.write(f"The result is same! - Japanese: {original_text}, {mecab_pro_str}, {kana_text}, {hiragana_text}\n")
-                        output_file.write(f"{hiragana_text} ")
-                        fresult_file.write(f"{hiragana_text} ")
+                        output_file.write(f"{kana_text} ")
+                        fresult_file.write(f"{kana_text} ")
                         numofsame += len(original_text)
                     else:
                         result_file.write(f"The result is different! - Japanese: {original_text}, {mecab_pro_str}, {kana_text}, {hiragana_text}\n")
-                        output_file.write(f"{hiragana_text}(diff) ")
-                        fresult_file.write(f"{hiragana_text} ")
+                        output_file.write(f"{kana_text}(diff) ")
+                        fresult_file.write(f"{kana_text} ")
                         numofdiff += len(original_text)
             # Add an extra newline for spacing between entries
             output_file.write("\n")  # Add this line to ensure each result is on a new line
